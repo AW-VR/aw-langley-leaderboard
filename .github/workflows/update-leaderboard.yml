@@ -1,0 +1,34 @@
+name: Update Langley leaderboard
+on:
+  schedule:
+    - cron: '17 * * * *'   # every hour at :17 UTC. GitHub can delay scheduled runs by a few minutes.
+  workflow_dispatch: {}     # adds a "Run workflow" button for a manual refresh
+permissions:
+  contents: write
+concurrency: { group: leaderboard, cancel-in-progress: false }
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Build any missing game images (normally only on the first run)
+        continue-on-error: true
+        run: |
+          missing=0
+          for slug in $(tail -n +2 img/SOURCES.csv | cut -d, -f1); do [ -f "img/$slug.webp" ] || missing=1; done
+          if [ "$missing" = 0 ]; then echo "All images present"; exit 0; fi
+          npm install --no-save --no-package-lock --silent sharp@0.33
+          node scripts/build_images.mjs img
+      - name: Fetch Langley scores from the franchise leaderboard
+        run: node scripts/fetch_langley.mjs data
+      - name: Commit and push
+        run: |
+          git config user.name "leaderboard-bot"
+          git config user.email "leaderboard-bot@users.noreply.github.com"
+          git add data img
+          if git diff --cached --quiet; then echo "No change"; exit 0; fi
+          git commit -q -m "Update Langley leaderboard $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
