@@ -1,0 +1,340 @@
+{
+ "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
+ "period": "month",
+ "periodLabel": "This month",
+ "generatedAt": "2026-10-06T17:19:07.712Z",
+ "source": "https://v2.another-world.com/en/leaderboard",
+ "errors": [],
+ "boards": [
+  {
+   "id": "kernel-survival-protocol",
+   "game": "Kernel",
+   "mode": "Survival Protocol",
+   "title": "Kernel / Survival Protocol",
+   "image": "../img/kernel-survival-protocol.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/0dce09d6-f40b-11ed-a573-37ed5aeb30eb?modeId=SurvivalFactory&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Warborn",
+      "side": "red",
+      "raw": "Warborn R",
+      "score": 269
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Sukhveer",
+      "team": "Warborn",
+      "side": "red",
+      "score": 164,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Manvir",
+      "team": "Warborn",
+      "side": "red",
+      "score": 105,
+      "sessions": 1
+     }
+    ],
+    "total": 2
+   }
+  },
+  {
+   "id": "kernel-safe-night-remake",
+   "game": "Kernel",
+   "mode": "Safe Night Remake",
+   "title": "Kernel / Safe Night Remake",
+   "image": "../img/kernel-safe-night-remake.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/0dce09d6-f40b-11ed-a573-37ed5aeb30eb?modeId=SurvivalSafeNight&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Stormfury",
+      "side": "red",
+      "raw": "Stormfury R",
+      "score": 3743
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Dusty",
+      "team": "Stormfury",
+      "side": "red",
+      "score": 1927,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Larissa",
+      "team": "Stormfury",
+      "side": "red",
+      "score": 1816,
+      "sessions": 1
+     }
+    ],
+    "total": 2
+   }
+  },
+  {
+   "id": "starbase-expedition",
+   "game": "Starbase",
+   "mode": "Expedition",
+   "title": "Starbase / Expedition",
+   "image": "../img/starbase-expedition.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/f72a0ae8-83fb-11ec-b677-036020e1a2e8?modeId=Story&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
+   "teams": {
+    "rows": []
+   },
+   "players": {
+    "rows": [],
+    "total": null
+   }
+  },
+  {
+   "id": "starbase-survival",
+   "game": "Starbase",
+   "mode": "Survival",
+   "title": "Starbase / Survival",
+   "image": "../img/starbase-survival.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/f72a0ae8-83fb-11ec-b677-036020e1a2e8?modeId=SwarmIncoming&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
+   "teams": {
+    "rows": []
+   },
+   "players": {
+    "rows": [],
+    "total": null
+   }
+  },
+  {
+   "id": "shmooter-invasion",
+   "game": "Shmooter",
+   "mode": "Invasion",
+   "title": "Shmooter / Invasion",
+   "image": "../img/shmooter-invasion.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/155018a8-0876-11eb-93d4-17c1d1ba34a3?modeId=Invasion&aggByExtraScoreId=TeamRaw&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
+   "teams": {
+    "rows": []
+   },
+   "players": {
+    "rows": [],
+    "total": null
+   }
+  },
+  {
+   "id": "safe-night",
+   "game": "Safe Night",
+   "mode": "",
+   "title": "Safe Night",
+   "image": "../img/safe-night.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/66d030c4-fc26-11eb-b33e-1b4429da219b?country=Canada&city=Langley&location=Langley&dateFilterType=Month",
+   "teams": {
+    "rows": []
+   },
+   "players": {
+    "rows": [],
+    "total": null
+   }
+  },
+  {
+   "id": "ghost-tower-dancing",
+   "game": "Ghost Tower",
+   "mode": "Dancing",
+   "title": "Ghost Tower / Dancing",
+   "image": "../img/ghost-tower-dancing.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Dancing&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Stormfury",
+      "side": null,
+      "raw": "Stormfury",
+      "score": 21
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Mehramat",
+      "team": "Stormfury",
+      "side": null,
+      "score": 12,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Jalnidh",
+      "team": "Stormfury",
+      "side": null,
+      "score": 9,
+      "sessions": 1
+     }
+    ],
+    "total": 2
+   }
+  },
+  {
+   "id": "ghost-tower-fishing",
+   "game": "Ghost Tower",
+   "mode": "Fishing",
+   "title": "Ghost Tower / Fishing",
+   "image": "../img/ghost-tower-fishing.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Fishing&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Stormfury",
+      "side": null,
+      "raw": "Stormfury",
+      "score": 57
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Mehramat",
+      "team": "Stormfury",
+      "side": null,
+      "score": 38,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Jalnidh",
+      "team": "Stormfury",
+      "side": null,
+      "score": 19,
+      "sessions": 1
+     }
+    ],
+    "total": 2
+   }
+  },
+  {
+   "id": "ghost-tower-hunting",
+   "game": "Ghost Tower",
+   "mode": "Hunting",
+   "title": "Ghost Tower / Hunting",
+   "image": "../img/ghost-tower-hunting.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=GhostMansion&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Stormfury",
+      "side": null,
+      "raw": "Stormfury",
+      "score": 166
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Jalnidh",
+      "team": "Stormfury",
+      "side": null,
+      "score": 106,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Mehramat",
+      "team": "Stormfury",
+      "side": null,
+      "score": 60,
+      "sessions": 1
+     }
+    ],
+    "total": 2
+   }
+  },
+  {
+   "id": "ghost-tower-miners",
+   "game": "Ghost Tower",
+   "mode": "Miners",
+   "title": "Ghost Tower / Miners",
+   "image": "../img/ghost-tower-miners.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Miners&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
+   "teams": {
+    "rows": []
+   },
+   "players": {
+    "rows": [],
+    "total": null
+   }
+  },
+  {
+   "id": "ghost-tower-tavern",
+   "game": "Ghost Tower",
+   "mode": "Tavern",
+   "title": "Ghost Tower / Tavern",
+   "image": "../img/ghost-tower-tavern.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=TavernV2&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Stormfury",
+      "side": null,
+      "raw": "Stormfury",
+      "score": 0
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Mehramat",
+      "team": "Stormfury",
+      "side": null,
+      "score": 0,
+      "sessions": 1
+     },
+     {
+      "place": 1,
+      "name": "Jalnidh",
+      "team": "Stormfury",
+      "side": null,
+      "score": 0,
+      "sessions": 1
+     }
+    ],
+    "total": 2
+   }
+  },
+  {
+   "id": "ghost-tower-harvest",
+   "game": "Ghost Tower",
+   "mode": "Harvest",
+   "title": "Ghost Tower / Harvest",
+   "image": "../img/ghost-tower-harvest.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Harvest&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
+   "teams": {
+    "rows": []
+   },
+   "players": {
+    "rows": [],
+    "total": null
+   }
+  }
+ ]
+}

@@ -1,0 +1,1993 @@
+{
+ "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
+ "period": "year",
+ "periodLabel": "This year",
+ "generatedAt": "2026-10-06T17:19:02.963Z",
+ "source": "https://v2.another-world.com/en/leaderboard",
+ "errors": [],
+ "boards": [
+  {
+   "id": "kernel-survival-protocol",
+   "game": "Kernel",
+   "mode": "Survival Protocol",
+   "title": "Kernel / Survival Protocol",
+   "image": "../img/kernel-survival-protocol.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/0dce09d6-f40b-11ed-a573-37ed5aeb30eb?modeId=SurvivalFactory&country=Canada&city=Langley&location=Langley&dateFilterType=Year",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Lunar Legends",
+      "side": "red",
+      "raw": "Lunar Legends R",
+      "score": 724
+     },
+     {
+      "place": 2,
+      "name": "Sky Serpents",
+      "side": "red",
+      "raw": "Sky Serpents R",
+      "score": 528
+     },
+     {
+      "place": 3,
+      "name": "Raging Rhinos",
+      "side": "red",
+      "raw": "Raging Rhinos R",
+      "score": 413
+     },
+     {
+      "place": 4,
+      "name": "Echo Striders",
+      "side": "red",
+      "raw": "Echo Striders R",
+      "score": 401
+     },
+     {
+      "place": 5,
+      "name": "Solar Impact",
+      "side": "red",
+      "raw": "Solar Impact R",
+      "score": 372
+     },
+     {
+      "place": 6,
+      "name": "Firestorm",
+      "side": "red",
+      "raw": "Firestorm R",
+      "score": 351
+     },
+     {
+      "place": 7,
+      "name": "Skyforge",
+      "side": "red",
+      "raw": "Skyforge R",
+      "score": 341
+     },
+     {
+      "place": 8,
+      "name": "Aurora Wolves",
+      "side": "red",
+      "raw": "Aurora Wolves R",
+      "score": 290
+     },
+     {
+      "place": 9,
+      "name": "The Avalanche",
+      "side": "red",
+      "raw": "The Avalanche R",
+      "score": 278
+     },
+     {
+      "place": 10,
+      "name": "Skyfire",
+      "side": "red",
+      "raw": "Skyfire R",
+      "score": 273
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Rebecca",
+      "team": "Lunar Legends",
+      "side": "red",
+      "score": 308,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Eric",
+      "team": "Lunar Legends",
+      "side": "red",
+      "score": 275,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Logan",
+      "team": "Solar Impact",
+      "side": "red",
+      "score": 257,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Kholton",
+      "team": "Firestorm",
+      "side": "red",
+      "score": 232,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Chirag",
+      "team": "Skyforge",
+      "side": "red",
+      "score": 167,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Sukhveer",
+      "team": "Warborn",
+      "side": "red",
+      "score": 164,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Skyjump",
+      "team": "Echo Striders",
+      "side": "red",
+      "score": 157,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Clay",
+      "team": "Skyfire",
+      "side": "red",
+      "score": 155,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Jordan",
+      "team": "The Avalanche",
+      "side": "red",
+      "score": 149,
+      "sessions": 1
+     },
+     {
+      "place": 10,
+      "name": "Steven",
+      "team": "Sky Serpents",
+      "side": "red",
+      "score": 141,
+      "sessions": 1
+     }
+    ],
+    "total": 43
+   }
+  },
+  {
+   "id": "kernel-safe-night-remake",
+   "game": "Kernel",
+   "mode": "Safe Night Remake",
+   "title": "Kernel / Safe Night Remake",
+   "image": "../img/kernel-safe-night-remake.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/0dce09d6-f40b-11ed-a573-37ed5aeb30eb?modeId=SurvivalSafeNight&country=Canada&city=Langley&location=Langley&dateFilterType=Year",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Astral Agents",
+      "side": "red",
+      "raw": "Astral Agents R",
+      "score": 7246
+     },
+     {
+      "place": 2,
+      "name": "Stormbringers",
+      "side": "red",
+      "raw": "Stormbringers R",
+      "score": 6588
+     },
+     {
+      "place": 3,
+      "name": "Solar Surge",
+      "side": "red",
+      "raw": "Solar Surge R",
+      "score": 6488
+     },
+     {
+      "place": 4,
+      "name": "The Wildfire",
+      "side": "red",
+      "raw": "The Wildfire R",
+      "score": 5945
+     },
+     {
+      "place": 5,
+      "name": "The Empyrean",
+      "side": "red",
+      "raw": "The Empyrean R",
+      "score": 5543
+     },
+     {
+      "place": 6,
+      "name": "Shadow Squad",
+      "side": "red",
+      "raw": "Shadow Squad R",
+      "score": 4642
+     },
+     {
+      "place": 7,
+      "name": "The Luminous",
+      "side": "red",
+      "raw": "The Luminous R",
+      "score": 4593
+     },
+     {
+      "place": 8,
+      "name": "Aurora Wolves",
+      "side": "red",
+      "raw": "Aurora Wolves R",
+      "score": 4283
+     },
+     {
+      "place": 9,
+      "name": "The Icebound",
+      "side": "red",
+      "raw": "The Icebound R",
+      "score": 4279
+     },
+     {
+      "place": 10,
+      "name": "The Ramparts",
+      "side": "red",
+      "raw": "The Ramparts R",
+      "score": 4204
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Logan",
+      "team": "Solar Impact",
+      "side": "red",
+      "score": 3046,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Tyler",
+      "team": "Thunderstrike",
+      "side": "red",
+      "score": 3007,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Brian",
+      "team": "Astral Agents",
+      "side": "red",
+      "score": 2978,
+      "sessions": 2
+     },
+     {
+      "place": 4,
+      "name": "Aikam",
+      "team": "Lunar Lancers",
+      "side": "red",
+      "score": 2710,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Mehak",
+      "team": "The Icebound",
+      "side": "red",
+      "score": 2679,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Ashley",
+      "team": "Shadow Squad",
+      "side": "red",
+      "score": 2532,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Jude",
+      "team": "Stormbringers",
+      "side": "red",
+      "score": 2515,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "John",
+      "team": "The Avalanche",
+      "side": "red",
+      "score": 2385,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Joseff",
+      "team": "The Empyrean",
+      "side": "red",
+      "score": 2361,
+      "sessions": 1
+     },
+     {
+      "place": 10,
+      "name": "Albert",
+      "team": "The Rebellion",
+      "side": "red",
+      "score": 2251,
+      "sessions": 1
+     }
+    ],
+    "total": 141
+   }
+  },
+  {
+   "id": "starbase-expedition",
+   "game": "Starbase",
+   "mode": "Expedition",
+   "title": "Starbase / Expedition",
+   "image": "../img/starbase-expedition.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/f72a0ae8-83fb-11ec-b677-036020e1a2e8?modeId=Story&country=Canada&city=Langley&location=Langley&dateFilterType=Year",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Solar Surge",
+      "side": null,
+      "raw": "Solar Surge",
+      "score": 206615
+     },
+     {
+      "place": 2,
+      "name": "Stormbringers",
+      "side": null,
+      "raw": "Stormbringers",
+      "score": 206598
+     },
+     {
+      "place": 3,
+      "name": "Skyfire",
+      "side": null,
+      "raw": "Skyfire",
+      "score": 191458
+     },
+     {
+      "place": 4,
+      "name": "Skyforge",
+      "side": null,
+      "raw": "Skyforge",
+      "score": 177488
+     },
+     {
+      "place": 5,
+      "name": "Straiton Engineering",
+      "side": null,
+      "raw": "Straiton Engineering",
+      "score": 176858
+     },
+     {
+      "place": 6,
+      "name": "Sonic Boom",
+      "side": null,
+      "raw": "Sonic Boom",
+      "score": 175310
+     },
+     {
+      "place": 7,
+      "name": "Rift Riders",
+      "side": null,
+      "raw": "Rift Riders",
+      "score": 163835
+     },
+     {
+      "place": 8,
+      "name": "Gooners",
+      "side": null,
+      "raw": "Gooners",
+      "score": 161784
+     },
+     {
+      "place": 9,
+      "name": "The Drifters",
+      "side": null,
+      "raw": "The Drifters",
+      "score": 159182
+     },
+     {
+      "place": 10,
+      "name": "The Underdogs",
+      "side": null,
+      "raw": "The Underdogs",
+      "score": 157102
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Sahil",
+      "team": "Gooners",
+      "side": null,
+      "score": 47536,
+      "sessions": 2
+     },
+     {
+      "place": 2,
+      "name": "Yt",
+      "team": "Gooners",
+      "side": null,
+      "score": 36804,
+      "sessions": 2
+     },
+     {
+      "place": 3,
+      "name": "Big Josh",
+      "team": "Stormfury",
+      "side": null,
+      "score": 34616,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Julian",
+      "team": "The Spartans",
+      "side": null,
+      "score": 32535,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Ryan",
+      "team": "The Nomads",
+      "side": null,
+      "score": 32443,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Jasmeen",
+      "team": "Gooners",
+      "side": null,
+      "score": 32132,
+      "sessions": 2
+     },
+     {
+      "place": 7,
+      "name": "Kenken",
+      "team": "Echo Raptors",
+      "side": null,
+      "score": 30897,
+      "sessions": 2
+     },
+     {
+      "place": 8,
+      "name": "Harman W",
+      "team": "H Squared",
+      "side": null,
+      "score": 30730,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Daywhisper",
+      "team": "The Underdogs",
+      "side": null,
+      "score": 30727,
+      "sessions": 1
+     },
+     {
+      "place": 10,
+      "name": "Skyseek",
+      "team": "The Underdogs",
+      "side": null,
+      "score": 30477,
+      "sessions": 1
+     }
+    ],
+    "total": 359
+   }
+  },
+  {
+   "id": "starbase-survival",
+   "game": "Starbase",
+   "mode": "Survival",
+   "title": "Starbase / Survival",
+   "image": "../img/starbase-survival.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/f72a0ae8-83fb-11ec-b677-036020e1a2e8?modeId=SwarmIncoming&country=Canada&city=Langley&location=Langley&dateFilterType=Year",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Darkfire Crew",
+      "side": null,
+      "raw": "Darkfire Crew",
+      "score": 142842
+     },
+     {
+      "place": 2,
+      "name": "The Vulcans",
+      "side": null,
+      "raw": "The Vulcans",
+      "score": 122431
+     },
+     {
+      "place": 3,
+      "name": "The Forge",
+      "side": null,
+      "raw": "The Forge",
+      "score": 116126
+     },
+     {
+      "place": 4,
+      "name": "Rift Riders",
+      "side": null,
+      "raw": "Rift Riders",
+      "score": 113635
+     },
+     {
+      "place": 5,
+      "name": "The Pulse",
+      "side": null,
+      "raw": "The Pulse",
+      "score": 101832
+     },
+     {
+      "place": 6,
+      "name": "The Untamed",
+      "side": null,
+      "raw": "The Untamed",
+      "score": 81767
+     },
+     {
+      "place": 7,
+      "name": "Chang Team",
+      "side": null,
+      "raw": "Chang Team",
+      "score": 81382
+     },
+     {
+      "place": 8,
+      "name": "Cyber Storm",
+      "side": null,
+      "raw": "Cyber Storm",
+      "score": 81106
+     },
+     {
+      "place": 9,
+      "name": "Straiton Engineering",
+      "side": null,
+      "raw": "Straiton Engineering",
+      "score": 71528
+     },
+     {
+      "place": 10,
+      "name": "The Luminance",
+      "side": null,
+      "raw": "The Luminance",
+      "score": 71241
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Monica",
+      "team": "The Whirlwind",
+      "side": null,
+      "score": 27230,
+      "sessions": 2
+     },
+     {
+      "place": 2,
+      "name": "Patrick",
+      "team": "The Pulse",
+      "side": null,
+      "score": 26573,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Fartface",
+      "team": "Chang Team",
+      "side": null,
+      "score": 25781,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Marcus",
+      "team": "Chang Team",
+      "side": null,
+      "score": 24729,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Ayaan",
+      "team": "Darkfire Crew",
+      "side": null,
+      "score": 24286,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Vincent",
+      "team": "The Untamed",
+      "side": null,
+      "score": 24111,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "John",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 23852,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Maria",
+      "team": "The Pulse",
+      "side": null,
+      "score": 22460,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Ac",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 22447,
+      "sessions": 1
+     },
+     {
+      "place": 10,
+      "name": "Whisperjump",
+      "team": "Cyber Storm",
+      "side": null,
+      "score": 22005,
+      "sessions": 1
+     }
+    ],
+    "total": 209
+   }
+  },
+  {
+   "id": "shmooter-invasion",
+   "game": "Shmooter",
+   "mode": "Invasion",
+   "title": "Shmooter / Invasion",
+   "image": "../img/shmooter-invasion.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/155018a8-0876-11eb-93d4-17c1d1ba34a3?modeId=Invasion&aggByExtraScoreId=TeamRaw&country=Canada&city=Langley&location=Langley&dateFilterType=Year",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Dark Nova",
+      "side": "blue",
+      "raw": "Dark Nova B",
+      "score": 75100
+     },
+     {
+      "place": 2,
+      "name": "Rogue Rangers",
+      "side": "blue",
+      "raw": "Rogue Rangers B",
+      "score": 39950
+     },
+     {
+      "place": 3,
+      "name": "The Spectres",
+      "side": "blue",
+      "raw": "The Spectres B",
+      "score": 35400
+     },
+     {
+      "place": 4,
+      "name": "Sonic Boom",
+      "side": "blue",
+      "raw": "Sonic Boom B",
+      "score": 30350
+     },
+     {
+      "place": 5,
+      "name": "The Anomalies",
+      "side": "blue",
+      "raw": "The Anomalies B",
+      "score": 26250
+     },
+     {
+      "place": 6,
+      "name": "Iron Legion",
+      "side": "blue",
+      "raw": "Iron Legion B",
+      "score": 25300
+     },
+     {
+      "place": 7,
+      "name": "The Luminance",
+      "side": "blue",
+      "raw": "The Luminance B",
+      "score": 24050
+     },
+     {
+      "place": 8,
+      "name": "The Avalanche",
+      "side": "blue",
+      "raw": "The Avalanche B",
+      "score": 23050
+     },
+     {
+      "place": 9,
+      "name": "Iron Hail",
+      "side": "blue",
+      "raw": "Iron Hail B",
+      "score": 22300
+     },
+     {
+      "place": 10,
+      "name": "Darkfire Crew",
+      "side": "blue",
+      "raw": "Darkfire Crew B",
+      "score": 21700
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Matt",
+      "team": "Dark Nova",
+      "side": "blue",
+      "score": 422,
+      "sessions": 2
+     },
+     {
+      "place": 2,
+      "name": "Sunflare",
+      "team": "Iron Resolve",
+      "side": "blue",
+      "score": 400,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Sarah",
+      "team": "Dark Nova",
+      "side": "blue",
+      "score": 381,
+      "sessions": 2
+     },
+     {
+      "place": 4,
+      "name": "Keri",
+      "team": "Warborn",
+      "side": "blue",
+      "score": 338,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Layla",
+      "team": "The Anomalies",
+      "side": "blue",
+      "score": 323,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Callan",
+      "team": "Rogue Rangers",
+      "side": "blue",
+      "score": 321,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Jeri",
+      "team": "Sonic Boom",
+      "side": "blue",
+      "score": 299,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Bryan",
+      "team": "The Avalanche",
+      "side": "blue",
+      "score": 294,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Kyden",
+      "team": "Sonic Boom",
+      "side": "blue",
+      "score": 290,
+      "sessions": 1
+     },
+     {
+      "place": 10,
+      "name": "Sidhu Boy",
+      "team": "Nexus Knights",
+      "side": "blue",
+      "score": 260,
+      "sessions": 1
+     }
+    ],
+    "total": 124
+   }
+  },
+  {
+   "id": "safe-night",
+   "game": "Safe Night",
+   "mode": "",
+   "title": "Safe Night",
+   "image": "../img/safe-night.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/66d030c4-fc26-11eb-b33e-1b4429da219b?country=Canada&city=Langley&location=Langley&dateFilterType=Year",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Titan Elite",
+      "side": null,
+      "raw": "Titan Elite",
+      "score": 14325
+     },
+     {
+      "place": 2,
+      "name": "Stormbringers",
+      "side": null,
+      "raw": "Stormbringers",
+      "score": 13670
+     },
+     {
+      "place": 3,
+      "name": "Solar Surge",
+      "side": null,
+      "raw": "Solar Surge",
+      "score": 10525
+     },
+     {
+      "place": 4,
+      "name": "The Eclipse",
+      "side": null,
+      "raw": "The Eclipse",
+      "score": 9850
+     },
+     {
+      "place": 5,
+      "name": "The Untamed",
+      "side": null,
+      "raw": "The Untamed",
+      "score": 9760
+     },
+     {
+      "place": 6,
+      "name": "The Luminance",
+      "side": null,
+      "raw": "The Luminance",
+      "score": 9120
+     },
+     {
+      "place": 7,
+      "name": "Rift Riders",
+      "side": null,
+      "raw": "Rift Riders",
+      "score": 9015
+     },
+     {
+      "place": 8,
+      "name": "Sky Guardians",
+      "side": null,
+      "raw": "Sky Guardians",
+      "score": 8415
+     },
+     {
+      "place": 9,
+      "name": "The Enigma",
+      "side": null,
+      "raw": "The Enigma",
+      "score": 7840
+     },
+     {
+      "place": 10,
+      "name": "Quantum Crew",
+      "side": null,
+      "raw": "Quantum Crew",
+      "score": 6615
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Emberstrike",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 2835,
+      "sessions": 9
+     },
+     {
+      "place": 2,
+      "name": "Ben",
+      "team": "The Luminous",
+      "side": null,
+      "score": 2245,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Steven T",
+      "team": "Titan Elite",
+      "side": null,
+      "score": 2150,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Chad",
+      "team": "Tidebreakers",
+      "side": null,
+      "score": 2025,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Thomas",
+      "team": "Titan Elite",
+      "side": null,
+      "score": 1985,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Hudson",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 1970,
+      "sessions": 2
+     },
+     {
+      "place": 7,
+      "name": "Kris",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 1940,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Ann",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 1860,
+      "sessions": 2
+     },
+     {
+      "place": 8,
+      "name": "Johnel",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 1860,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Barinder",
+      "team": "Sky Serpents",
+      "side": null,
+      "score": 1810,
+      "sessions": 1
+     }
+    ],
+    "total": 362
+   }
+  },
+  {
+   "id": "ghost-tower-dancing",
+   "game": "Ghost Tower",
+   "mode": "Dancing",
+   "title": "Ghost Tower / Dancing",
+   "image": "../img/ghost-tower-dancing.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Dancing&country=Canada&city=Langley&location=Langley&dateFilterType=Year",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Solar Impact",
+      "side": null,
+      "raw": "Solar Impact",
+      "score": 957
+     },
+     {
+      "place": 2,
+      "name": "Magma Miners",
+      "side": null,
+      "raw": "Magma Miners",
+      "score": 685
+     },
+     {
+      "place": 3,
+      "name": "Shadow Squad",
+      "side": null,
+      "raw": "Shadow Squad",
+      "score": 403
+     },
+     {
+      "place": 4,
+      "name": "Echo Striders",
+      "side": null,
+      "raw": "Echo Striders",
+      "score": 392
+     },
+     {
+      "place": 5,
+      "name": "The Luminance",
+      "side": null,
+      "raw": "The Luminance",
+      "score": 369
+     },
+     {
+      "place": 6,
+      "name": "Nova Nomads",
+      "side": null,
+      "raw": "Nova Nomads",
+      "score": 300
+     },
+     {
+      "place": 7,
+      "name": "Raging Rhinos",
+      "side": null,
+      "raw": "Raging Rhinos",
+      "score": 275
+     },
+     {
+      "place": 8,
+      "name": "Flame Falcons",
+      "side": null,
+      "raw": "Flame Falcons",
+      "score": 211
+     },
+     {
+      "place": 9,
+      "name": "Rift Riders",
+      "side": null,
+      "raw": "Rift Riders",
+      "score": 178
+     },
+     {
+      "place": 10,
+      "name": "Stormbringers",
+      "side": null,
+      "raw": "Stormbringers",
+      "score": 152
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Spiritwave",
+      "team": "Solar Impact",
+      "side": null,
+      "score": 167,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Frostline",
+      "team": "Solar Impact",
+      "side": null,
+      "score": 161,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Frostbound",
+      "team": "Solar Impact",
+      "side": null,
+      "score": 148,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Kalia",
+      "team": "Raging Rhinos",
+      "side": null,
+      "score": 140,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Crystal",
+      "team": "Solar Impact",
+      "side": null,
+      "score": 132,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Driftfall",
+      "team": "Solar Impact",
+      "side": null,
+      "score": 130,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Frosttrail",
+      "team": "Solar Impact",
+      "side": null,
+      "score": 123,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Spirit Dash",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 115,
+      "sessions": 2
+     },
+     {
+      "place": 9,
+      "name": "Emberstrike",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 100,
+      "sessions": 1
+     },
+     {
+      "place": 10,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 97,
+      "sessions": 2
+     }
+    ],
+    "total": 75
+   }
+  },
+  {
+   "id": "ghost-tower-fishing",
+   "game": "Ghost Tower",
+   "mode": "Fishing",
+   "title": "Ghost Tower / Fishing",
+   "image": "../img/ghost-tower-fishing.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Fishing&country=Canada&city=Langley&location=Langley&dateFilterType=Year",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Echo Striders",
+      "side": null,
+      "raw": "Echo Striders",
+      "score": 671
+     },
+     {
+      "place": 2,
+      "name": "Solar Surge",
+      "side": null,
+      "raw": "Solar Surge",
+      "score": 535
+     },
+     {
+      "place": 3,
+      "name": "Aurora Wolves",
+      "side": null,
+      "raw": "Aurora Wolves",
+      "score": 470
+     },
+     {
+      "place": 4,
+      "name": "Shadow Squad",
+      "side": null,
+      "raw": "Shadow Squad",
+      "score": 335
+     },
+     {
+      "place": 5,
+      "name": "Stormbringers",
+      "side": null,
+      "raw": "Stormbringers",
+      "score": 272
+     },
+     {
+      "place": 6,
+      "name": "Nova Nomads",
+      "side": null,
+      "raw": "Nova Nomads",
+      "score": 242
+     },
+     {
+      "place": 7,
+      "name": "The Eclipsers",
+      "side": null,
+      "raw": "The Eclipsers",
+      "score": 218
+     },
+     {
+      "place": 8,
+      "name": "Frostguard",
+      "side": null,
+      "raw": "Frostguard",
+      "score": 191
+     },
+     {
+      "place": 9,
+      "name": "Astral Agents",
+      "side": null,
+      "raw": "Astral Agents",
+      "score": 177
+     },
+     {
+      "place": 10,
+      "name": "Echo Alliance",
+      "side": null,
+      "raw": "Echo Alliance",
+      "score": 174
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Skylift",
+      "team": "Echo Striders",
+      "side": null,
+      "score": 158,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Daybound",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 142,
+      "sessions": 3
+     },
+     {
+      "place": 3,
+      "name": "Stardust",
+      "team": "Echo Striders",
+      "side": null,
+      "score": 141,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Sam",
+      "team": "Aurora Wolves",
+      "side": null,
+      "score": 129,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "William",
+      "team": "The Eclipsers",
+      "side": null,
+      "score": 125,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Mankaran",
+      "team": "Astral Agents",
+      "side": null,
+      "score": 114,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Gravity",
+      "team": "Echo Striders",
+      "side": null,
+      "score": 108,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Trevor",
+      "team": "Echo Alliance",
+      "side": null,
+      "score": 106,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Carter",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 99,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Sonicwhisper",
+      "team": "Echo Striders",
+      "side": null,
+      "score": 99,
+      "sessions": 1
+     }
+    ],
+    "total": 98
+   }
+  },
+  {
+   "id": "ghost-tower-hunting",
+   "game": "Ghost Tower",
+   "mode": "Hunting",
+   "title": "Ghost Tower / Hunting",
+   "image": "../img/ghost-tower-hunting.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=GhostMansion&country=Canada&city=Langley&location=Langley&dateFilterType=Year",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Solar Surge",
+      "side": null,
+      "raw": "Solar Surge",
+      "score": 955
+     },
+     {
+      "place": 2,
+      "name": "Shadow Squad",
+      "side": null,
+      "raw": "Shadow Squad",
+      "score": 935
+     },
+     {
+      "place": 3,
+      "name": "Solar Impact",
+      "side": null,
+      "raw": "Solar Impact",
+      "score": 857
+     },
+     {
+      "place": 4,
+      "name": "Aurora Wolves",
+      "side": null,
+      "raw": "Aurora Wolves",
+      "score": 646
+     },
+     {
+      "place": 5,
+      "name": "Stormbringers",
+      "side": null,
+      "raw": "Stormbringers",
+      "score": 601
+     },
+     {
+      "place": 6,
+      "name": "Wild Horizons",
+      "side": null,
+      "raw": "Wild Horizons",
+      "score": 448
+     },
+     {
+      "place": 7,
+      "name": "Skyfire",
+      "side": null,
+      "raw": "Skyfire",
+      "score": 440
+     },
+     {
+      "place": 8,
+      "name": "Frostguard",
+      "side": null,
+      "raw": "Frostguard",
+      "score": 435
+     },
+     {
+      "place": 9,
+      "name": "Sonic Boom",
+      "side": null,
+      "raw": "Sonic Boom",
+      "score": 397
+     },
+     {
+      "place": 10,
+      "name": "Nova Nomads",
+      "side": null,
+      "raw": "Nova Nomads",
+      "score": 380
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Amanda",
+      "team": "Solar Impact",
+      "side": null,
+      "score": 293,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Spirit Dash",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 222,
+      "sessions": 6
+     },
+     {
+      "place": 3,
+      "name": "Skylift",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 219,
+      "sessions": 3
+     },
+     {
+      "place": 4,
+      "name": "Daybound",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 197,
+      "sessions": 3
+     },
+     {
+      "place": 5,
+      "name": "Emberstrike",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 185,
+      "sessions": 3
+     },
+     {
+      "place": 5,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 185,
+      "sessions": 4
+     },
+     {
+      "place": 6,
+      "name": "Ember",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 174,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Radiant Flow",
+      "team": "Wild Horizons",
+      "side": null,
+      "score": 174,
+      "sessions": 2
+     },
+     {
+      "place": 7,
+      "name": "Emberbolt",
+      "team": "Ivory Thunder",
+      "side": null,
+      "score": 169,
+      "sessions": 2
+     },
+     {
+      "place": 8,
+      "name": "Alex",
+      "team": "Skyfire",
+      "side": null,
+      "score": 162,
+      "sessions": 1
+     }
+    ],
+    "total": 111
+   }
+  },
+  {
+   "id": "ghost-tower-miners",
+   "game": "Ghost Tower",
+   "mode": "Miners",
+   "title": "Ghost Tower / Miners",
+   "image": "../img/ghost-tower-miners.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Miners&country=Canada&city=Langley&location=Langley&dateFilterType=Year",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Sky Serpents",
+      "side": null,
+      "raw": "Sky Serpents",
+      "score": 6135
+     },
+     {
+      "place": 2,
+      "name": "Electric Edge",
+      "side": null,
+      "raw": "Electric Edge",
+      "score": 5828
+     },
+     {
+      "place": 3,
+      "name": "Solar Surge",
+      "side": null,
+      "raw": "Solar Surge",
+      "score": 5354
+     },
+     {
+      "place": 4,
+      "name": "Skyfire",
+      "side": null,
+      "raw": "Skyfire",
+      "score": 4939
+     },
+     {
+      "place": 5,
+      "name": "The Luminance",
+      "side": null,
+      "raw": "The Luminance",
+      "score": 3644
+     },
+     {
+      "place": 6,
+      "name": "Aurora Wolves",
+      "side": null,
+      "raw": "Aurora Wolves",
+      "score": 3583
+     },
+     {
+      "place": 7,
+      "name": "Nova Nomads",
+      "side": null,
+      "raw": "Nova Nomads",
+      "score": 3480
+     },
+     {
+      "place": 8,
+      "name": "Flame Falcons",
+      "side": null,
+      "raw": "Flame Falcons",
+      "score": 3420
+     },
+     {
+      "place": 9,
+      "name": "Sonic Boom",
+      "side": null,
+      "raw": "Sonic Boom",
+      "score": 2999
+     },
+     {
+      "place": 10,
+      "name": "The Eclipsers",
+      "side": null,
+      "raw": "The Eclipsers",
+      "score": 1947
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Alex",
+      "team": "Skyfire",
+      "side": null,
+      "score": 2119,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Sherry",
+      "team": "Skyfire",
+      "side": null,
+      "score": 1970,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Danial",
+      "team": "Flame Falcons",
+      "side": null,
+      "score": 1570,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Driftfall",
+      "team": "Electric Edge",
+      "side": null,
+      "score": 1550,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Tristan",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 1383,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Alysha",
+      "team": "Magma Miners",
+      "side": null,
+      "score": 1362,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Dayna",
+      "team": "Sonic Boom",
+      "side": null,
+      "score": 1293,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Angie",
+      "team": "Sonic Boom",
+      "side": null,
+      "score": 1203,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Jason",
+      "team": "Rift Riders",
+      "side": null,
+      "score": 1161,
+      "sessions": 1
+     },
+     {
+      "place": 10,
+      "name": "The Shotter",
+      "team": "The Luminance",
+      "side": null,
+      "score": 1128,
+      "sessions": 1
+     }
+    ],
+    "total": 88
+   }
+  },
+  {
+   "id": "ghost-tower-tavern",
+   "game": "Ghost Tower",
+   "mode": "Tavern",
+   "title": "Ghost Tower / Tavern",
+   "image": "../img/ghost-tower-tavern.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=TavernV2&country=Canada&city=Langley&location=Langley&dateFilterType=Year",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Solar Impact",
+      "side": null,
+      "raw": "Solar Impact",
+      "score": 510
+     },
+     {
+      "place": 2,
+      "name": "Sky Serpents",
+      "side": null,
+      "raw": "Sky Serpents",
+      "score": 438
+     },
+     {
+      "place": 3,
+      "name": "Shadowflare",
+      "side": null,
+      "raw": "Shadowflare",
+      "score": 260
+     },
+     {
+      "place": 4,
+      "name": "Rogue Rangers",
+      "side": null,
+      "raw": "Rogue Rangers",
+      "score": 212
+     },
+     {
+      "place": 5,
+      "name": "The Ascenders",
+      "side": null,
+      "raw": "The Ascenders",
+      "score": 180
+     },
+     {
+      "place": 6,
+      "name": "The Untamed",
+      "side": null,
+      "raw": "The Untamed",
+      "score": 177
+     },
+     {
+      "place": 7,
+      "name": "Aurora Flare",
+      "side": null,
+      "raw": "Aurora Flare",
+      "score": 144
+     },
+     {
+      "place": 8,
+      "name": "The Luminance",
+      "side": null,
+      "raw": "The Luminance",
+      "score": 140
+     },
+     {
+      "place": 9,
+      "name": "Shadow Sabers",
+      "side": null,
+      "raw": "Shadow Sabers",
+      "score": 96
+     },
+     {
+      "place": 10,
+      "name": "Astral Agents",
+      "side": null,
+      "raw": "Astral Agents",
+      "score": 78
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Brynly",
+      "team": "Shadowflare",
+      "side": null,
+      "score": 130,
+      "sessions": 1
+     },
+     {
+      "place": 1,
+      "name": "Andy",
+      "team": "Shadowflare",
+      "side": null,
+      "score": 130,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Pavneet",
+      "team": "Rogue Rangers",
+      "side": null,
+      "score": 106,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Manjot",
+      "team": "Rogue Rangers",
+      "side": null,
+      "score": 106,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Jumana",
+      "team": "The Ascenders",
+      "side": null,
+      "score": 90,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Alefiyah",
+      "team": "The Ascenders",
+      "side": null,
+      "score": 90,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Maverick",
+      "team": "The Untamed",
+      "side": null,
+      "score": 59,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Lennyn",
+      "team": "The Untamed",
+      "side": null,
+      "score": 59,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Maybelle",
+      "team": "The Untamed",
+      "side": null,
+      "score": 59,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Amanda",
+      "team": "Solar Impact",
+      "side": null,
+      "score": 57,
+      "sessions": 1
+     }
+    ],
+    "total": 73
+   }
+  },
+  {
+   "id": "ghost-tower-harvest",
+   "game": "Ghost Tower",
+   "mode": "Harvest",
+   "title": "Ghost Tower / Harvest",
+   "image": "../img/ghost-tower-harvest.webp",
+   "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Harvest&country=Canada&city=Langley&location=Langley&dateFilterType=Year",
+   "teams": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Echo Striders",
+      "side": null,
+      "raw": "Echo Striders",
+      "score": 492
+     },
+     {
+      "place": 2,
+      "name": "The Ramparts",
+      "side": null,
+      "raw": "The Ramparts",
+      "score": 338
+     },
+     {
+      "place": 3,
+      "name": "Solar Surge",
+      "side": null,
+      "raw": "Solar Surge",
+      "score": 213
+     },
+     {
+      "place": 4,
+      "name": "Rogue Rangers",
+      "side": null,
+      "raw": "Rogue Rangers",
+      "score": 184
+     },
+     {
+      "place": 5,
+      "name": "Echo Alliance",
+      "side": null,
+      "raw": "Echo Alliance",
+      "score": 171
+     },
+     {
+      "place": 6,
+      "name": "Electric Edge",
+      "side": null,
+      "raw": "Electric Edge",
+      "score": 94
+     },
+     {
+      "place": 7,
+      "name": "Sky Serpents",
+      "side": null,
+      "raw": "Sky Serpents",
+      "score": 26
+     }
+    ]
+   },
+   "players": {
+    "rows": [
+     {
+      "place": 1,
+      "name": "Skylift",
+      "team": "Echo Striders",
+      "side": null,
+      "score": 167,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Gravity",
+      "team": "Echo Striders",
+      "side": null,
+      "score": 141,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Trevor",
+      "team": "Echo Alliance",
+      "side": null,
+      "score": 125,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Pavneet",
+      "team": "Rogue Rangers",
+      "side": null,
+      "score": 115,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Paras",
+      "team": "Electric Edge",
+      "side": null,
+      "score": 94,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Stardust",
+      "team": "Echo Striders",
+      "side": null,
+      "score": 89,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Skylark",
+      "team": "The Ramparts",
+      "side": null,
+      "score": 74,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Ari",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 72,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Sunlight",
+      "team": "The Ramparts",
+      "side": null,
+      "score": 70,
+      "sessions": 1
+     },
+     {
+      "place": 10,
+      "name": "Manjot",
+      "team": "Rogue Rangers",
+      "side": null,
+      "score": 69,
+      "sessions": 1
+     }
+    ],
+    "total": 26
+   }
+  }
+ ]
+}
