@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-07T17:27:30.262Z",
+ "generatedAt": "2026-10-07T23:05:53.250Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1491,19 +1491,19 @@
      },
      {
       "place": 8,
-      "name": "Ember",
-      "team": "Solar Surge",
-      "side": null,
-      "score": 174,
-      "sessions": 1
-     },
-     {
-      "place": 8,
       "name": "Radiant Flow",
       "team": "Wild Horizons",
       "side": null,
       "score": 174,
       "sessions": 2
+     },
+     {
+      "place": 8,
+      "name": "Ember",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 174,
+      "sessions": 1
      }
     ],
     "total": 204
@@ -1793,7 +1793,7 @@
      },
      {
       "place": 3,
-      "name": "Jumana",
+      "name": "Alefiyah",
       "team": "The Ascenders",
       "side": null,
       "score": 90,
@@ -1801,7 +1801,7 @@
      },
      {
       "place": 3,
-      "name": "Alefiyah",
+      "name": "Jumana",
       "team": "The Ascenders",
       "side": null,
       "score": 90,
@@ -1825,7 +1825,7 @@
      },
      {
       "place": 5,
-      "name": "Maybelle",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,
