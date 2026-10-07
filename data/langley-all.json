@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-07T02:24:00.104Z",
+ "generatedAt": "2026-10-07T10:16:30.853Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -184,38 +184,38 @@
     "rows": [
      {
       "place": 1,
+      "name": "The Empyrean",
+      "side": "red",
+      "raw": "The Empyrean R",
+      "score": 8243
+     },
+     {
+      "place": 2,
       "name": "Astral Agents",
       "side": "red",
       "raw": "Astral Agents R",
       "score": 7246
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Stormbringers",
       "side": "red",
       "raw": "Stormbringers R",
       "score": 6588
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Solar Surge",
       "side": "red",
       "raw": "Solar Surge R",
       "score": 6488
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "The Wildfire",
       "side": "red",
       "raw": "The Wildfire R",
       "score": 5945
-     },
-     {
-      "place": 5,
-      "name": "The Empyrean",
-      "side": "red",
-      "raw": "The Empyrean R",
-      "score": 5543
      },
      {
       "place": 6,
@@ -337,7 +337,7 @@
       "sessions": 1
      }
     ],
-    "total": 150
+    "total": 154
    }
   },
   {
@@ -958,19 +958,19 @@
      },
      {
       "place": 5,
-      "name": "Harman",
-      "team": "Aw",
-      "side": null,
-      "score": 2875,
-      "sessions": 2
-     },
-     {
-      "place": 5,
       "name": "Ashu",
       "team": "Brar",
       "side": null,
       "score": 2875,
       "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Harman",
+      "team": "Aw",
+      "side": null,
+      "score": 2875,
+      "sessions": 2
      },
      {
       "place": 6,
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Emberstrike",
-      "team": "Stormbringers",
-      "side": null,
-      "score": 185,
-      "sessions": 3
-     },
-     {
-      "place": 5,
       "name": "Riftfall",
       "team": "Shadow Squad",
       "side": null,
       "score": 185,
       "sessions": 4
+     },
+     {
+      "place": 5,
+      "name": "Emberstrike",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 185,
+      "sessions": 3
      },
      {
       "place": 6,
@@ -1761,14 +1761,6 @@
     "rows": [
      {
       "place": 1,
-      "name": "Brynly",
-      "team": "Shadowflare",
-      "side": null,
-      "score": 130,
-      "sessions": 1
-     },
-     {
-      "place": 1,
       "name": "Andy",
       "team": "Shadowflare",
       "side": null,
@@ -1776,8 +1768,16 @@
       "sessions": 1
      },
      {
+      "place": 1,
+      "name": "Brynly",
+      "team": "Shadowflare",
+      "side": null,
+      "score": 130,
+      "sessions": 1
+     },
+     {
       "place": 2,
-      "name": "Manjot",
+      "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1785,7 +1785,7 @@
      },
      {
       "place": 2,
-      "name": "Pavneet",
+      "name": "Manjot",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Maybelle",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,

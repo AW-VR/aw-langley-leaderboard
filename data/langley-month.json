@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-07T02:24:08.923Z",
+ "generatedAt": "2026-10-07T10:16:39.740Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -61,6 +61,13 @@
       "side": "red",
       "raw": "Stormfury R",
       "score": 3743
+     },
+     {
+      "place": 2,
+      "name": "The Empyrean",
+      "side": "red",
+      "raw": "The Empyrean R",
+      "score": 2700
      }
     ]
    },
@@ -81,9 +88,41 @@
       "side": "red",
       "score": 1816,
       "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Ryan",
+      "team": "The Empyrean",
+      "side": "red",
+      "score": 838,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Noah",
+      "team": "The Empyrean",
+      "side": "red",
+      "score": 751,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Tyson",
+      "team": "The Empyrean",
+      "side": "red",
+      "score": 574,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Red",
+      "team": "The Empyrean",
+      "side": "red",
+      "score": 537,
+      "sessions": 1
      }
     ],
-    "total": 2
+    "total": 6
    }
   },
   {
