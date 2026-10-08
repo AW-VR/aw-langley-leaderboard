@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-08T10:35:45.661Z",
+ "generatedAt": "2026-10-08T17:52:56.460Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -958,19 +958,19 @@
      },
      {
       "place": 5,
-      "name": "Ashu",
-      "team": "Brar",
-      "side": null,
-      "score": 2875,
-      "sessions": 1
-     },
-     {
-      "place": 5,
       "name": "Harman",
       "team": "Aw",
       "side": null,
       "score": 2875,
       "sessions": 2
+     },
+     {
+      "place": 5,
+      "name": "Ashu",
+      "team": "Brar",
+      "side": null,
+      "score": 2875,
+      "sessions": 1
      },
      {
       "place": 6,
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Riftfall",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 185,
-      "sessions": 4
-     },
-     {
-      "place": 5,
       "name": "Emberstrike",
       "team": "Stormbringers",
       "side": null,
       "score": 185,
       "sessions": 3
+     },
+     {
+      "place": 5,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 185,
+      "sessions": 4
      },
      {
       "place": 6,
@@ -1491,19 +1491,19 @@
      },
      {
       "place": 8,
-      "name": "Radiant Flow",
-      "team": "Wild Horizons",
-      "side": null,
-      "score": 174,
-      "sessions": 2
-     },
-     {
-      "place": 8,
       "name": "Ember",
       "team": "Solar Surge",
       "side": null,
       "score": 174,
       "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Radiant Flow",
+      "team": "Wild Horizons",
+      "side": null,
+      "score": 174,
+      "sessions": 2
      }
     ],
     "total": 204
@@ -1761,7 +1761,7 @@
     "rows": [
      {
       "place": 1,
-      "name": "Brynly",
+      "name": "Andy",
       "team": "Shadowflare",
       "side": null,
       "score": 130,
@@ -1769,7 +1769,7 @@
      },
      {
       "place": 1,
-      "name": "Andy",
+      "name": "Brynly",
       "team": "Shadowflare",
       "side": null,
       "score": 130,
@@ -1793,7 +1793,7 @@
      },
      {
       "place": 3,
-      "name": "Alefiyah",
+      "name": "Jumana",
       "team": "The Ascenders",
       "side": null,
       "score": 90,
@@ -1801,7 +1801,7 @@
      },
      {
       "place": 3,
-      "name": "Jumana",
+      "name": "Alefiyah",
       "team": "The Ascenders",
       "side": null,
       "score": 90,
@@ -1825,7 +1825,7 @@
      },
      {
       "place": 5,
-      "name": "Lennyn",
+      "name": "Maybelle",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Maverick",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,
