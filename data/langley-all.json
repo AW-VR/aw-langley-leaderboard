@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-07T23:05:53.250Z",
+ "generatedAt": "2026-10-08T02:42:07.045Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -958,19 +958,19 @@
      },
      {
       "place": 5,
-      "name": "Ashu",
-      "team": "Brar",
-      "side": null,
-      "score": 2875,
-      "sessions": 1
-     },
-     {
-      "place": 5,
       "name": "Harman",
       "team": "Aw",
       "side": null,
       "score": 2875,
       "sessions": 2
+     },
+     {
+      "place": 5,
+      "name": "Ashu",
+      "team": "Brar",
+      "side": null,
+      "score": 2875,
+      "sessions": 1
      },
      {
       "place": 6,
@@ -1491,19 +1491,19 @@
      },
      {
       "place": 8,
-      "name": "Radiant Flow",
-      "team": "Wild Horizons",
-      "side": null,
-      "score": 174,
-      "sessions": 2
-     },
-     {
-      "place": 8,
       "name": "Ember",
       "team": "Solar Surge",
       "side": null,
       "score": 174,
       "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Radiant Flow",
+      "team": "Wild Horizons",
+      "side": null,
+      "score": 174,
+      "sessions": 2
      }
     ],
     "total": 204
@@ -1793,14 +1793,6 @@
      },
      {
       "place": 3,
-      "name": "Alefiyah",
-      "team": "The Ascenders",
-      "side": null,
-      "score": 90,
-      "sessions": 1
-     },
-     {
-      "place": 3,
       "name": "Jumana",
       "team": "The Ascenders",
       "side": null,
@@ -1808,11 +1800,11 @@
       "sessions": 1
      },
      {
-      "place": 4,
-      "name": "Elliot",
-      "team": "Solar Wraiths",
+      "place": 3,
+      "name": "Alefiyah",
+      "team": "The Ascenders",
       "side": null,
-      "score": 63,
+      "score": 90,
       "sessions": 1
      },
      {
@@ -1824,8 +1816,16 @@
       "sessions": 1
      },
      {
+      "place": 4,
+      "name": "Elliot",
+      "team": "Solar Wraiths",
+      "side": null,
+      "score": 63,
+      "sessions": 1
+     },
+     {
       "place": 5,
-      "name": "Lennyn",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Maverick",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,
