@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-08T02:42:15.941Z",
+ "generatedAt": "2026-10-08T10:35:54.615Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -57,17 +57,17 @@
     "rows": [
      {
       "place": 1,
+      "name": "The Empyrean",
+      "side": "red",
+      "raw": "The Empyrean R",
+      "score": 6339
+     },
+     {
+      "place": 2,
       "name": "Stormfury",
       "side": "red",
       "raw": "Stormfury R",
       "score": 3743
-     },
-     {
-      "place": 2,
-      "name": "The Empyrean",
-      "side": "red",
-      "raw": "The Empyrean R",
-      "score": 2700
      }
     ]
    },
@@ -83,6 +83,14 @@
      },
      {
       "place": 2,
+      "name": "Shawn",
+      "team": "The Empyrean",
+      "side": "red",
+      "score": 1842,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Larissa",
       "team": "Stormfury",
       "side": "red",
@@ -90,7 +98,15 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
+      "name": "Justus",
+      "team": "The Empyrean",
+      "side": "red",
+      "score": 1150,
+      "sessions": 1
+     },
+     {
+      "place": 5,
       "name": "Ryan",
       "team": "The Empyrean",
       "side": "red",
@@ -98,7 +114,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 6,
       "name": "Noah",
       "team": "The Empyrean",
       "side": "red",
@@ -106,7 +122,15 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 7,
+      "name": "Raphaelle",
+      "team": "The Empyrean",
+      "side": "red",
+      "score": 647,
+      "sessions": 1
+     },
+     {
+      "place": 8,
       "name": "Tyson",
       "team": "The Empyrean",
       "side": "red",
@@ -114,7 +138,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 9,
       "name": "Red",
       "team": "The Empyrean",
       "side": "red",
@@ -122,7 +146,7 @@
       "sessions": 1
      }
     ],
-    "total": 6
+    "total": 9
    }
   },
   {
@@ -133,11 +157,44 @@
    "image": "../img/starbase-expedition.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/f72a0ae8-83fb-11ec-b677-036020e1a2e8?modeId=Story&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "The Empyrean",
+      "side": null,
+      "raw": "The Empyrean",
+      "score": 49135
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Shawn",
+      "team": "The Empyrean",
+      "side": null,
+      "score": 18401,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Raphaelle",
+      "team": "The Empyrean",
+      "side": null,
+      "score": 16097,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Justus",
+      "team": "The Empyrean",
+      "side": null,
+      "score": 14637,
+      "sessions": 1
+     }
+    ],
+    "total": 3
    }
   },
   {
