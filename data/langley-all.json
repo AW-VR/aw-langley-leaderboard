@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-09T13:18:04.345Z",
+ "generatedAt": "2026-10-09T19:32:46.754Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -958,19 +958,19 @@
      },
      {
       "place": 5,
-      "name": "Harman",
-      "team": "Aw",
-      "side": null,
-      "score": 2875,
-      "sessions": 2
-     },
-     {
-      "place": 5,
       "name": "Ashu",
       "team": "Brar",
       "side": null,
       "score": 2875,
       "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Harman",
+      "team": "Aw",
+      "side": null,
+      "score": 2875,
+      "sessions": 2
      },
      {
       "place": 6,
@@ -1793,7 +1793,7 @@
      },
      {
       "place": 3,
-      "name": "Jumana",
+      "name": "Alefiyah",
       "team": "The Ascenders",
       "side": null,
       "score": 90,
@@ -1801,7 +1801,7 @@
      },
      {
       "place": 3,
-      "name": "Alefiyah",
+      "name": "Jumana",
       "team": "The Ascenders",
       "side": null,
       "score": 90,
@@ -1825,7 +1825,7 @@
      },
      {
       "place": 5,
-      "name": "Maybelle",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Lennyn",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,
