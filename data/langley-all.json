@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-09T06:09:27.989Z",
+ "generatedAt": "2026-10-09T13:18:04.345Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1777,7 +1777,7 @@
      },
      {
       "place": 2,
-      "name": "Pavneet",
+      "name": "Manjot",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1785,7 +1785,7 @@
      },
      {
       "place": 2,
-      "name": "Manjot",
+      "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1825,7 +1825,7 @@
      },
      {
       "place": 5,
-      "name": "Maverick",
+      "name": "Maybelle",
       "team": "The Untamed",
       "side": null,
       "score": 59,
