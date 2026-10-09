@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-08T23:21:45.042Z",
+ "generatedAt": "2026-10-09T06:09:36.847Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -164,6 +164,13 @@
       "side": null,
       "raw": "The Empyrean",
       "score": 49135
+     },
+     {
+      "place": 2,
+      "name": "Vortex Vipers",
+      "side": null,
+      "raw": "Vortex Vipers",
+      "score": 43840
      }
     ]
    },
@@ -171,6 +178,22 @@
     "rows": [
      {
       "place": 1,
+      "name": "Brian",
+      "team": "Vortex Vipers",
+      "side": null,
+      "score": 24837,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Heather",
+      "team": "Vortex Vipers",
+      "side": null,
+      "score": 19003,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Shawn",
       "team": "The Empyrean",
       "side": null,
@@ -178,7 +201,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 4,
       "name": "Raphaelle",
       "team": "The Empyrean",
       "side": null,
@@ -186,7 +209,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 5,
       "name": "Justus",
       "team": "The Empyrean",
       "side": null,
@@ -194,7 +217,7 @@
       "sessions": 1
      }
     ],
-    "total": 3
+    "total": 5
    }
   },
   {
@@ -205,11 +228,36 @@
    "image": "../img/starbase-survival.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/f72a0ae8-83fb-11ec-b677-036020e1a2e8?modeId=SwarmIncoming&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "Vortex Vipers",
+      "side": null,
+      "raw": "Vortex Vipers",
+      "score": 4733
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Brian",
+      "team": "Vortex Vipers",
+      "side": null,
+      "score": 3013,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Heather",
+      "team": "Vortex Vipers",
+      "side": null,
+      "score": 1720,
+      "sessions": 1
+     }
+    ],
+    "total": 2
    }
   },
   {

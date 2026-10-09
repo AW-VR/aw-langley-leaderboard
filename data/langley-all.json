@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-08T23:21:36.197Z",
+ "generatedAt": "2026-10-09T06:09:27.989Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -504,7 +504,7 @@
       "sessions": 2
      }
     ],
-    "total": 737
+    "total": 739
    }
   },
   {
@@ -671,7 +671,7 @@
       "sessions": 1
      }
     ],
-    "total": 355
+    "total": 357
    }
   },
   {
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Riftfall",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 185,
-      "sessions": 4
-     },
-     {
-      "place": 5,
       "name": "Emberstrike",
       "team": "Stormbringers",
       "side": null,
       "score": 185,
       "sessions": 3
+     },
+     {
+      "place": 5,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 185,
+      "sessions": 4
      },
      {
       "place": 6,
@@ -1491,19 +1491,19 @@
      },
      {
       "place": 8,
-      "name": "Ember",
-      "team": "Solar Surge",
-      "side": null,
-      "score": 174,
-      "sessions": 1
-     },
-     {
-      "place": 8,
       "name": "Radiant Flow",
       "team": "Wild Horizons",
       "side": null,
       "score": 174,
       "sessions": 2
+     },
+     {
+      "place": 8,
+      "name": "Ember",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 174,
+      "sessions": 1
      }
     ],
     "total": 204
@@ -1761,14 +1761,6 @@
     "rows": [
      {
       "place": 1,
-      "name": "Brynly",
-      "team": "Shadowflare",
-      "side": null,
-      "score": 130,
-      "sessions": 1
-     },
-     {
-      "place": 1,
       "name": "Andy",
       "team": "Shadowflare",
       "side": null,
@@ -1776,11 +1768,11 @@
       "sessions": 1
      },
      {
-      "place": 2,
-      "name": "Manjot",
-      "team": "Rogue Rangers",
+      "place": 1,
+      "name": "Brynly",
+      "team": "Shadowflare",
       "side": null,
-      "score": 106,
+      "score": 130,
       "sessions": 1
      },
      {
@@ -1792,11 +1784,11 @@
       "sessions": 1
      },
      {
-      "place": 3,
-      "name": "Alefiyah",
-      "team": "The Ascenders",
+      "place": 2,
+      "name": "Manjot",
+      "team": "Rogue Rangers",
       "side": null,
-      "score": 90,
+      "score": 106,
       "sessions": 1
      },
      {
@@ -1808,11 +1800,11 @@
       "sessions": 1
      },
      {
-      "place": 4,
-      "name": "Elliot",
-      "team": "Solar Wraiths",
+      "place": 3,
+      "name": "Alefiyah",
+      "team": "The Ascenders",
       "side": null,
-      "score": 63,
+      "score": 90,
       "sessions": 1
      },
      {
@@ -1824,8 +1816,16 @@
       "sessions": 1
      },
      {
+      "place": 4,
+      "name": "Elliot",
+      "team": "Solar Wraiths",
+      "side": null,
+      "score": 63,
+      "sessions": 1
+     },
+     {
       "place": 5,
-      "name": "Maybelle",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Maverick",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,
