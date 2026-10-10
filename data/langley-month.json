@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-09T19:32:55.481Z",
+ "generatedAt": "2026-10-10T00:02:48.943Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -283,11 +283,67 @@
    "image": "../img/safe-night.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/66d030c4-fc26-11eb-b33e-1b4429da219b?country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "Shadow Sabers",
+      "side": null,
+      "raw": "Shadow Sabers",
+      "score": 4125
+     },
+     {
+      "place": 2,
+      "name": "The Empyrean",
+      "side": null,
+      "raw": "The Empyrean",
+      "score": 0
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Devlin",
+      "team": "Shadow Sabers",
+      "side": null,
+      "score": 1340,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Eric",
+      "team": "Shadow Sabers",
+      "side": null,
+      "score": 855,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Cian",
+      "team": "Shadow Sabers",
+      "side": null,
+      "score": 750,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Maxson",
+      "team": "Shadow Sabers",
+      "side": null,
+      "score": 730,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Zennon",
+      "team": "Shadow Sabers",
+      "side": null,
+      "score": 525,
+      "sessions": 1
+     }
+    ],
+    "total": 5
    }
   },
   {

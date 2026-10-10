@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-09T19:32:51.313Z",
+ "generatedAt": "2026-10-10T00:02:45.077Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -915,10 +915,10 @@
      },
      {
       "place": 10,
-      "name": "Quantum Crew",
+      "name": "Shadow Sabers",
       "side": null,
-      "raw": "Quantum Crew",
-      "score": 6615
+      "raw": "Shadow Sabers",
+      "score": 6850
      }
     ]
    },
@@ -1005,7 +1005,7 @@
       "sessions": 1
      }
     ],
-    "total": 362
+    "total": 367
    }
   },
   {
@@ -1324,16 +1324,16 @@
      },
      {
       "place": 9,
-      "name": "Sonicwhisper",
-      "team": "Echo Striders",
+      "name": "Carter",
+      "team": "Solar Surge",
       "side": null,
       "score": 99,
       "sessions": 1
      },
      {
       "place": 9,
-      "name": "Carter",
-      "team": "Solar Surge",
+      "name": "Sonicwhisper",
+      "team": "Echo Striders",
       "side": null,
       "score": 99,
       "sessions": 1
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Riftfall",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 185,
-      "sessions": 4
-     },
-     {
-      "place": 5,
       "name": "Emberstrike",
       "team": "Stormbringers",
       "side": null,
       "score": 185,
       "sessions": 3
+     },
+     {
+      "place": 5,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 185,
+      "sessions": 4
      },
      {
       "place": 6,
@@ -1809,7 +1809,7 @@
      },
      {
       "place": 4,
-      "name": "Maverick",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1817,7 +1817,7 @@
      },
      {
       "place": 4,
-      "name": "Lennyn",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Charlotte",
+      "name": "Amanda",
       "team": "Solar Impact",
       "side": null,
       "score": 57,
