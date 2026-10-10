@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-10T12:32:52.867Z",
+ "generatedAt": "2026-10-10T17:52:08.375Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1324,16 +1324,16 @@
      },
      {
       "place": 9,
-      "name": "Carter",
-      "team": "Solar Surge",
+      "name": "Sonicwhisper",
+      "team": "Echo Striders",
       "side": null,
       "score": 99,
       "sessions": 1
      },
      {
       "place": 9,
-      "name": "Sonicwhisper",
-      "team": "Echo Striders",
+      "name": "Carter",
+      "team": "Solar Surge",
       "side": null,
       "score": 99,
       "sessions": 1
@@ -1761,7 +1761,7 @@
     "rows": [
      {
       "place": 1,
-      "name": "Andy",
+      "name": "Brynly",
       "team": "Shadowflare",
       "side": null,
       "score": 130,
@@ -1769,7 +1769,7 @@
      },
      {
       "place": 1,
-      "name": "Brynly",
+      "name": "Andy",
       "team": "Shadowflare",
       "side": null,
       "score": 130,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Amanda",
+      "name": "Charlotte",
       "team": "Solar Impact",
       "side": null,
       "score": 57,
