@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-10T17:52:03.208Z",
+ "generatedAt": "2026-10-10T21:44:51.580Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -958,19 +958,19 @@
      },
      {
       "place": 5,
-      "name": "Harman",
-      "team": "Aw",
-      "side": null,
-      "score": 2875,
-      "sessions": 2
-     },
-     {
-      "place": 5,
       "name": "Ashu",
       "team": "Brar",
       "side": null,
       "score": 2875,
       "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Harman",
+      "team": "Aw",
+      "side": null,
+      "score": 2875,
+      "sessions": 2
      },
      {
       "place": 6,
@@ -1761,14 +1761,6 @@
     "rows": [
      {
       "place": 1,
-      "name": "Brynly",
-      "team": "Shadowflare",
-      "side": null,
-      "score": 130,
-      "sessions": 1
-     },
-     {
-      "place": 1,
       "name": "Andy",
       "team": "Shadowflare",
       "side": null,
@@ -1776,8 +1768,16 @@
       "sessions": 1
      },
      {
+      "place": 1,
+      "name": "Brynly",
+      "team": "Shadowflare",
+      "side": null,
+      "score": 130,
+      "sessions": 1
+     },
+     {
       "place": 2,
-      "name": "Manjot",
+      "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1785,7 +1785,7 @@
      },
      {
       "place": 2,
-      "name": "Pavneet",
+      "name": "Manjot",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
