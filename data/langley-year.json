@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-10T05:53:21.628Z",
+ "generatedAt": "2026-10-10T12:32:52.867Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -982,19 +982,19 @@
      },
      {
       "place": 8,
-      "name": "Ann",
-      "team": "Stormbringers",
-      "side": null,
-      "score": 1860,
-      "sessions": 2
-     },
-     {
-      "place": 8,
       "name": "Johnel",
       "team": "Quantum Crew",
       "side": null,
       "score": 1860,
       "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Ann",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 1860,
+      "sessions": 2
      },
      {
       "place": 9,
@@ -1324,16 +1324,16 @@
      },
      {
       "place": 9,
-      "name": "Sonicwhisper",
-      "team": "Echo Striders",
+      "name": "Carter",
+      "team": "Solar Surge",
       "side": null,
       "score": 99,
       "sessions": 1
      },
      {
       "place": 9,
-      "name": "Carter",
-      "team": "Solar Surge",
+      "name": "Sonicwhisper",
+      "team": "Echo Striders",
       "side": null,
       "score": 99,
       "sessions": 1
@@ -1475,19 +1475,19 @@
      },
      {
       "place": 6,
-      "name": "Ember",
-      "team": "Solar Surge",
-      "side": null,
-      "score": 174,
-      "sessions": 1
-     },
-     {
-      "place": 6,
       "name": "Radiant Flow",
       "team": "Wild Horizons",
       "side": null,
       "score": 174,
       "sessions": 2
+     },
+     {
+      "place": 6,
+      "name": "Ember",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 174,
+      "sessions": 1
      },
      {
       "place": 7,
@@ -1777,7 +1777,7 @@
      },
      {
       "place": 2,
-      "name": "Pavneet",
+      "name": "Manjot",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1785,10 +1785,18 @@
      },
      {
       "place": 2,
-      "name": "Manjot",
+      "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Jumana",
+      "team": "The Ascenders",
+      "side": null,
+      "score": 90,
       "sessions": 1
      },
      {
@@ -1800,11 +1808,11 @@
       "sessions": 1
      },
      {
-      "place": 3,
-      "name": "Jumana",
-      "team": "The Ascenders",
+      "place": 4,
+      "name": "Lennyn",
+      "team": "The Untamed",
       "side": null,
-      "score": 90,
+      "score": 59,
       "sessions": 1
      },
      {
@@ -1818,14 +1826,6 @@
      {
       "place": 4,
       "name": "Maverick",
-      "team": "The Untamed",
-      "side": null,
-      "score": 59,
-      "sessions": 1
-     },
-     {
-      "place": 4,
-      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,
