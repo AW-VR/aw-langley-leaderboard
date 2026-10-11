@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-11T01:00:54.515Z",
+ "generatedAt": "2026-10-11T07:12:40.799Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1459,14 +1459,6 @@
      },
      {
       "place": 5,
-      "name": "Riftfall",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 185,
-      "sessions": 4
-     },
-     {
-      "place": 5,
       "name": "Emberstrike",
       "team": "Stormbringers",
       "side": null,
@@ -1474,12 +1466,12 @@
       "sessions": 3
      },
      {
-      "place": 6,
-      "name": "Ember",
-      "team": "Solar Surge",
+      "place": 5,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
       "side": null,
-      "score": 174,
-      "sessions": 1
+      "score": 185,
+      "sessions": 4
      },
      {
       "place": 6,
@@ -1488,6 +1480,14 @@
       "side": null,
       "score": 174,
       "sessions": 2
+     },
+     {
+      "place": 6,
+      "name": "Ember",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 174,
+      "sessions": 1
      },
      {
       "place": 7,
@@ -1761,7 +1761,7 @@
     "rows": [
      {
       "place": 1,
-      "name": "Andy",
+      "name": "Brynly",
       "team": "Shadowflare",
       "side": null,
       "score": 130,
@@ -1769,7 +1769,7 @@
      },
      {
       "place": 1,
-      "name": "Brynly",
+      "name": "Andy",
       "team": "Shadowflare",
       "side": null,
       "score": 130,
@@ -1809,6 +1809,14 @@
      },
      {
       "place": 4,
+      "name": "Maybelle",
+      "team": "The Untamed",
+      "side": null,
+      "score": 59,
+      "sessions": 1
+     },
+     {
+      "place": 4,
       "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
@@ -1824,16 +1832,8 @@
       "sessions": 1
      },
      {
-      "place": 4,
-      "name": "Maybelle",
-      "team": "The Untamed",
-      "side": null,
-      "score": 59,
-      "sessions": 1
-     },
-     {
       "place": 5,
-      "name": "Amanda",
+      "name": "Charlotte",
       "team": "Solar Impact",
       "side": null,
       "score": 57,
