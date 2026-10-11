@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-10T21:44:56.243Z",
+ "generatedAt": "2026-10-11T01:00:54.515Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -982,19 +982,19 @@
      },
      {
       "place": 8,
-      "name": "Ann",
-      "team": "Stormbringers",
-      "side": null,
-      "score": 1860,
-      "sessions": 2
-     },
-     {
-      "place": 8,
       "name": "Johnel",
       "team": "Quantum Crew",
       "side": null,
       "score": 1860,
       "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Ann",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 1860,
+      "sessions": 2
      },
      {
       "place": 9,
@@ -1459,14 +1459,6 @@
      },
      {
       "place": 5,
-      "name": "Emberstrike",
-      "team": "Stormbringers",
-      "side": null,
-      "score": 185,
-      "sessions": 3
-     },
-     {
-      "place": 5,
       "name": "Riftfall",
       "team": "Shadow Squad",
       "side": null,
@@ -1474,12 +1466,12 @@
       "sessions": 4
      },
      {
-      "place": 6,
-      "name": "Radiant Flow",
-      "team": "Wild Horizons",
+      "place": 5,
+      "name": "Emberstrike",
+      "team": "Stormbringers",
       "side": null,
-      "score": 174,
-      "sessions": 2
+      "score": 185,
+      "sessions": 3
      },
      {
       "place": 6,
@@ -1488,6 +1480,14 @@
       "side": null,
       "score": 174,
       "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Radiant Flow",
+      "team": "Wild Horizons",
+      "side": null,
+      "score": 174,
+      "sessions": 2
      },
      {
       "place": 7,
