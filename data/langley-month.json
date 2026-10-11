@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-11T07:12:44.886Z",
+ "generatedAt": "2026-10-11T14:03:47.913Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -68,6 +68,13 @@
       "side": "red",
       "raw": "Stormfury R",
       "score": 3743
+     },
+     {
+      "place": 3,
+      "name": "Shadow Sabers",
+      "side": "red",
+      "raw": "Shadow Sabers R",
+      "score": 3199
      }
     ]
    },
@@ -99,6 +106,14 @@
      },
      {
       "place": 4,
+      "name": "Logan",
+      "team": "Shadow Sabers",
+      "side": "red",
+      "score": 1446,
+      "sessions": 1
+     },
+     {
+      "place": 5,
       "name": "Justus",
       "team": "The Empyrean",
       "side": "red",
@@ -106,7 +121,15 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
+      "name": "Brian",
+      "team": "Shadow Sabers",
+      "side": "red",
+      "score": 923,
+      "sessions": 1
+     },
+     {
+      "place": 7,
       "name": "Ryan",
       "team": "The Empyrean",
       "side": "red",
@@ -114,7 +137,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 8,
       "name": "Noah",
       "team": "The Empyrean",
       "side": "red",
@@ -122,7 +145,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Raphaelle",
       "team": "The Empyrean",
       "side": "red",
@@ -130,23 +153,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "Tyson",
       "team": "The Empyrean",
       "side": "red",
       "score": 574,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Red",
-      "team": "The Empyrean",
-      "side": "red",
-      "score": 537,
-      "sessions": 1
      }
     ],
-    "total": 9
+    "total": 13
    }
   },
   {
