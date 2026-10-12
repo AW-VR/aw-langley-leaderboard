@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-11T22:55:18.677Z",
+ "generatedAt": "2026-10-12T02:24:26.912Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -182,6 +182,13 @@
      },
      {
       "place": 2,
+      "name": "Nexus Knights",
+      "side": null,
+      "raw": "Nexus Knights",
+      "score": 47344
+     },
+     {
+      "place": 3,
       "name": "Vortex Vipers",
       "side": null,
       "raw": "Vortex Vipers",
@@ -217,6 +224,14 @@
      },
      {
       "place": 4,
+      "name": "Lincon",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 16551,
+      "sessions": 1
+     },
+     {
+      "place": 5,
       "name": "Raphaelle",
       "team": "The Empyrean",
       "side": null,
@@ -224,7 +239,23 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
+      "name": "Ethan",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 15902,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Owen",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 14891,
+      "sessions": 1
+     },
+     {
+      "place": 8,
       "name": "Justus",
       "team": "The Empyrean",
       "side": null,
@@ -232,7 +263,7 @@
       "sessions": 1
      }
     ],
-    "total": 5
+    "total": 8
    }
   },
   {
@@ -246,6 +277,13 @@
     "rows": [
      {
       "place": 1,
+      "name": "Nexus Knights",
+      "side": null,
+      "raw": "Nexus Knights",
+      "score": 30878
+     },
+     {
+      "place": 2,
       "name": "Vortex Vipers",
       "side": null,
       "raw": "Vortex Vipers",
@@ -257,6 +295,38 @@
     "rows": [
      {
       "place": 1,
+      "name": "Lunar Rush",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 11632,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Quantum Jump",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 6891,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Skystrike",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 6271,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Astro Dash",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 6084,
+      "sessions": 1
+     },
+     {
+      "place": 5,
       "name": "Brian",
       "team": "Vortex Vipers",
       "side": null,
@@ -264,15 +334,39 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 6,
       "name": "Heather",
       "team": "Vortex Vipers",
       "side": null,
       "score": 1720,
       "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Lincon",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 0,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Ethan",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 0,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Owen",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 0,
+      "sessions": 1
      }
     ],
-    "total": 2
+    "total": 9
    }
   },
   {
@@ -301,13 +395,20 @@
     "rows": [
      {
       "place": 1,
+      "name": "Nexus Knights",
+      "side": null,
+      "raw": "Nexus Knights",
+      "score": 6060
+     },
+     {
+      "place": 2,
       "name": "Shadow Sabers",
       "side": null,
       "raw": "Shadow Sabers",
       "score": 4125
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "The Empyrean",
       "side": null,
       "raw": "The Empyrean",
@@ -327,6 +428,38 @@
      },
      {
       "place": 2,
+      "name": "Ed",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 1330,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Sharon",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 1285,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Darion",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 1210,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Lunar Rush",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 1020,
+      "sessions": 1
+     },
+     {
+      "place": 6,
       "name": "Eric",
       "team": "Shadow Sabers",
       "side": null,
@@ -334,7 +467,15 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 7,
+      "name": "Skystrike",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 765,
+      "sessions": 1
+     },
+     {
+      "place": 8,
       "name": "Cian",
       "team": "Shadow Sabers",
       "side": null,
@@ -342,7 +483,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 9,
       "name": "Maxson",
       "team": "Shadow Sabers",
       "side": null,
@@ -350,7 +491,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 10,
       "name": "Zennon",
       "team": "Shadow Sabers",
       "side": null,
@@ -358,7 +499,7 @@
       "sessions": 1
      }
     ],
-    "total": 5
+    "total": 14
    }
   },
   {
