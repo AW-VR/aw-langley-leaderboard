@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-12T02:24:22.939Z",
+ "generatedAt": "2026-10-12T10:50:22.685Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -982,19 +982,19 @@
      },
      {
       "place": 8,
-      "name": "Johnel",
-      "team": "Quantum Crew",
-      "side": null,
-      "score": 1860,
-      "sessions": 1
-     },
-     {
-      "place": 8,
       "name": "Ann",
       "team": "Stormbringers",
       "side": null,
       "score": 1860,
       "sessions": 2
+     },
+     {
+      "place": 8,
+      "name": "Johnel",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 1860,
+      "sessions": 1
      },
      {
       "place": 9,
@@ -1324,16 +1324,16 @@
      },
      {
       "place": 9,
-      "name": "Carter",
-      "team": "Solar Surge",
+      "name": "Sonicwhisper",
+      "team": "Echo Striders",
       "side": null,
       "score": 99,
       "sessions": 1
      },
      {
       "place": 9,
-      "name": "Sonicwhisper",
-      "team": "Echo Striders",
+      "name": "Carter",
+      "team": "Solar Surge",
       "side": null,
       "score": 99,
       "sessions": 1
@@ -1817,7 +1817,7 @@
      },
      {
       "place": 4,
-      "name": "Maybelle",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1825,7 +1825,7 @@
      },
      {
       "place": 4,
-      "name": "Maverick",
+      "name": "Maybelle",
       "team": "The Untamed",
       "side": null,
       "score": 59,
