@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-13T18:19:07.683Z",
+ "generatedAt": "2026-10-13T23:17:30.079Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -682,7 +682,7 @@
     "rows": [
      {
       "place": 1,
-      "name": "Jalnidh",
+      "name": "Mehramat",
       "team": "Stormfury",
       "side": null,
       "score": 0,
@@ -690,7 +690,7 @@
      },
      {
       "place": 1,
-      "name": "Mehramat",
+      "name": "Jalnidh",
       "team": "Stormfury",
       "side": null,
       "score": 0,
