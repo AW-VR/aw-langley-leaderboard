@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-13T02:35:11.501Z",
+ "generatedAt": "2026-10-13T10:36:52.428Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -64,13 +64,20 @@
      },
      {
       "place": 2,
+      "name": "Nexus Knights",
+      "side": "red",
+      "raw": "Nexus Knights R",
+      "score": 4582
+     },
+     {
+      "place": 3,
       "name": "Stormfury",
       "side": "red",
       "raw": "Stormfury R",
       "score": 3743
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Shadow Sabers",
       "side": "red",
       "raw": "Shadow Sabers R",
@@ -82,6 +89,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Jared",
+      "team": "Nexus Knights",
+      "side": "red",
+      "score": 2493,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Dusty",
       "team": "Stormfury",
       "side": "red",
@@ -89,7 +104,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Shawn",
       "team": "The Empyrean",
       "side": "red",
@@ -97,7 +112,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Larissa",
       "team": "Stormfury",
       "side": "red",
@@ -105,7 +120,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Logan",
       "team": "Shadow Sabers",
       "side": "red",
@@ -113,7 +128,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Justus",
       "team": "The Empyrean",
       "side": "red",
@@ -121,7 +136,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Brian",
       "team": "Shadow Sabers",
       "side": "red",
@@ -129,7 +144,15 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 8,
+      "name": "David",
+      "team": "Nexus Knights",
+      "side": "red",
+      "score": 917,
+      "sessions": 1
+     },
+     {
+      "place": 9,
       "name": "Ryan",
       "team": "The Empyrean",
       "side": "red",
@@ -137,31 +160,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
-      "name": "Noah",
-      "team": "The Empyrean",
-      "side": "red",
-      "score": 751,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Raphaelle",
-      "team": "The Empyrean",
-      "side": "red",
-      "score": 647,
-      "sessions": 1
-     },
-     {
       "place": 10,
-      "name": "Tyson",
-      "team": "The Empyrean",
+      "name": "Nicole",
+      "team": "Nexus Knights",
       "side": "red",
-      "score": 574,
+      "score": 779,
       "sessions": 1
      }
     ],
-    "total": 13
+    "total": 17
    }
   },
   {
