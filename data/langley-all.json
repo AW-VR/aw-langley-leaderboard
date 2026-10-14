@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-14T07:38:59.581Z",
+ "generatedAt": "2026-10-14T13:44:29.476Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -372,52 +372,52 @@
      },
      {
       "place": 4,
+      "name": "Nexus Knights",
+      "side": null,
+      "raw": "Nexus Knights",
+      "score": 243383
+     },
+     {
+      "place": 5,
       "name": "Solar Surge",
       "side": null,
       "raw": "Solar Surge",
       "score": 206615
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Stormbringers",
       "side": null,
       "raw": "Stormbringers",
       "score": 206598
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Just Banana",
       "side": null,
       "raw": "Just Banana",
       "score": 192793
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Skyfire",
       "side": null,
       "raw": "Skyfire",
       "score": 191458
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "Jonny Recco",
       "side": null,
       "raw": "Jonny Recco",
       "score": 190482
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "The Gamers",
       "side": null,
       "raw": "The Gamers",
       "score": 179114
-     },
-     {
-      "place": 10,
-      "name": "Skyforge",
-      "side": null,
-      "raw": "Skyforge",
-      "score": 177488
      }
     ]
    },
@@ -504,7 +504,7 @@
       "sessions": 2
      }
     ],
-    "total": 745
+    "total": 750
    }
   },
   {
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Riftfall",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 185,
-      "sessions": 4
-     },
-     {
-      "place": 5,
       "name": "Emberstrike",
       "team": "Stormbringers",
       "side": null,
       "score": 185,
       "sessions": 3
+     },
+     {
+      "place": 5,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 185,
+      "sessions": 4
      },
      {
       "place": 6,
@@ -1491,19 +1491,19 @@
      },
      {
       "place": 8,
-      "name": "Radiant Flow",
-      "team": "Wild Horizons",
-      "side": null,
-      "score": 174,
-      "sessions": 2
-     },
-     {
-      "place": 8,
       "name": "Ember",
       "team": "Solar Surge",
       "side": null,
       "score": 174,
       "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Radiant Flow",
+      "team": "Wild Horizons",
+      "side": null,
+      "score": 174,
+      "sessions": 2
      }
     ],
     "total": 204
@@ -1777,7 +1777,7 @@
      },
      {
       "place": 2,
-      "name": "Pavneet",
+      "name": "Manjot",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1785,7 +1785,7 @@
      },
      {
       "place": 2,
-      "name": "Manjot",
+      "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1825,7 +1825,7 @@
      },
      {
       "place": 5,
-      "name": "Maverick",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Lennyn",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,

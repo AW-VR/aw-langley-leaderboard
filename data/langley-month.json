@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-14T07:39:09.080Z",
+ "generatedAt": "2026-10-14T13:44:41.994Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -185,7 +185,7 @@
       "name": "Nexus Knights",
       "side": null,
       "raw": "Nexus Knights",
-      "score": 109633
+      "score": 224674
      },
      {
       "place": 2,
@@ -207,6 +207,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Tim",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 39754,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Brandon",
       "team": "Nexus Knights",
       "side": null,
@@ -214,7 +222,15 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
+      "name": "Arco",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 26022,
+      "sessions": 1
+     },
+     {
+      "place": 4,
       "name": "Brian",
       "team": "Vortex Vipers",
       "side": null,
@@ -222,7 +238,15 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 5,
+      "name": "Soodabeh",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 20517,
+      "sessions": 1
+     },
+     {
+      "place": 6,
       "name": "Heather",
       "team": "Vortex Vipers",
       "side": null,
@@ -230,7 +254,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 7,
       "name": "Shawn",
       "team": "The Empyrean",
       "side": null,
@@ -238,7 +262,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 8,
       "name": "Lincon",
       "team": "Nexus Knights",
       "side": null,
@@ -246,7 +270,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 9,
       "name": "Raphaelle",
       "team": "The Empyrean",
       "side": null,
@@ -254,39 +278,15 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 10,
       "name": "Ethan",
       "team": "Nexus Knights",
       "side": null,
       "score": 15865,
       "sessions": 2
-     },
-     {
-      "place": 8,
-      "name": "Owen",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 14891,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Justus",
-      "team": "The Empyrean",
-      "side": null,
-      "score": 14637,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Aleena",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 14478,
-      "sessions": 1
      }
     ],
-    "total": 11
+    "total": 16
    }
   },
   {
