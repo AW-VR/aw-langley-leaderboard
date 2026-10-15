@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-14T22:18:43.785Z",
+ "generatedAt": "2026-10-15T01:29:19.473Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -57,17 +57,17 @@
     "rows": [
      {
       "place": 1,
+      "name": "Nexus Knights",
+      "side": "red",
+      "raw": "Nexus Knights R",
+      "score": 7040
+     },
+     {
+      "place": 2,
       "name": "The Empyrean",
       "side": "red",
       "raw": "The Empyrean R",
       "score": 6339
-     },
-     {
-      "place": 2,
-      "name": "Nexus Knights",
-      "side": "red",
-      "raw": "Nexus Knights R",
-      "score": 4582
      },
      {
       "place": 3,
@@ -129,6 +129,14 @@
      },
      {
       "place": 6,
+      "name": "Jeremy",
+      "team": "Nexus Knights",
+      "side": "red",
+      "score": 1376,
+      "sessions": 1
+     },
+     {
+      "place": 7,
       "name": "Justus",
       "team": "The Empyrean",
       "side": "red",
@@ -136,7 +144,15 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 8,
+      "name": "Jenna",
+      "team": "Nexus Knights",
+      "side": "red",
+      "score": 1082,
+      "sessions": 1
+     },
+     {
+      "place": 9,
       "name": "Brian",
       "team": "Shadow Sabers",
       "side": "red",
@@ -144,31 +160,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "David",
       "team": "Nexus Knights",
       "side": "red",
       "score": 917,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Ryan",
-      "team": "The Empyrean",
-      "side": "red",
-      "score": 838,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Nicole",
-      "team": "Nexus Knights",
-      "side": "red",
-      "score": 779,
-      "sessions": 1
      }
     ],
-    "total": 17
+    "total": 19
    }
   },
   {

@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-14T22:18:34.507Z",
+ "generatedAt": "2026-10-15T01:29:10.273Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -198,45 +198,45 @@
      },
      {
       "place": 3,
+      "name": "Nexus Knights",
+      "side": "red",
+      "raw": "Nexus Knights R",
+      "score": 7040
+     },
+     {
+      "place": 4,
       "name": "Stormbringers",
       "side": "red",
       "raw": "Stormbringers R",
       "score": 6588
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Solar Surge",
       "side": "red",
       "raw": "Solar Surge R",
       "score": 6488
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "The Wildfire",
       "side": "red",
       "raw": "The Wildfire R",
       "score": 5945
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Shadow Squad",
       "side": "red",
       "raw": "Shadow Squad R",
       "score": 4642
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "The Luminous",
       "side": "red",
       "raw": "The Luminous R",
       "score": 4593
-     },
-     {
-      "place": 8,
-      "name": "Nexus Knights",
-      "side": "red",
-      "raw": "Nexus Knights R",
-      "score": 4582
      },
      {
       "place": 9,
@@ -337,7 +337,7 @@
       "sessions": 1
      }
     ],
-    "total": 165
+    "total": 167
    }
   },
   {
@@ -1777,14 +1777,6 @@
      },
      {
       "place": 2,
-      "name": "Manjot",
-      "team": "Rogue Rangers",
-      "side": null,
-      "score": 106,
-      "sessions": 1
-     },
-     {
-      "place": 2,
       "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
@@ -1792,11 +1784,11 @@
       "sessions": 1
      },
      {
-      "place": 3,
-      "name": "Alefiyah",
-      "team": "The Ascenders",
+      "place": 2,
+      "name": "Manjot",
+      "team": "Rogue Rangers",
       "side": null,
-      "score": 90,
+      "score": 106,
       "sessions": 1
      },
      {
@@ -1808,11 +1800,11 @@
       "sessions": 1
      },
      {
-      "place": 4,
-      "name": "Elliot",
-      "team": "Solar Wraiths",
+      "place": 3,
+      "name": "Alefiyah",
+      "team": "The Ascenders",
       "side": null,
-      "score": 63,
+      "score": 90,
       "sessions": 1
      },
      {
@@ -1824,8 +1816,16 @@
       "sessions": 1
      },
      {
+      "place": 4,
+      "name": "Elliot",
+      "team": "Solar Wraiths",
+      "side": null,
+      "score": 63,
+      "sessions": 1
+     },
+     {
       "place": 5,
-      "name": "Maybelle",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Lennyn",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,
