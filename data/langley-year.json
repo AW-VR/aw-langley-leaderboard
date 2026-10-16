@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-16T07:10:33.609Z",
+ "generatedAt": "2026-10-16T12:25:51.718Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1475,19 +1475,19 @@
      },
      {
       "place": 6,
-      "name": "Radiant Flow",
-      "team": "Wild Horizons",
-      "side": null,
-      "score": 174,
-      "sessions": 2
-     },
-     {
-      "place": 6,
       "name": "Ember",
       "team": "Solar Surge",
       "side": null,
       "score": 174,
       "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Radiant Flow",
+      "team": "Wild Horizons",
+      "side": null,
+      "score": 174,
+      "sessions": 2
      },
      {
       "place": 7,
@@ -1761,14 +1761,6 @@
     "rows": [
      {
       "place": 1,
-      "name": "Andy",
-      "team": "Shadowflare",
-      "side": null,
-      "score": 130,
-      "sessions": 1
-     },
-     {
-      "place": 1,
       "name": "Brynly",
       "team": "Shadowflare",
       "side": null,
@@ -1776,11 +1768,11 @@
       "sessions": 1
      },
      {
-      "place": 2,
-      "name": "Pavneet",
-      "team": "Rogue Rangers",
+      "place": 1,
+      "name": "Andy",
+      "team": "Shadowflare",
       "side": null,
-      "score": 106,
+      "score": 130,
       "sessions": 1
      },
      {
@@ -1792,11 +1784,11 @@
       "sessions": 1
      },
      {
-      "place": 3,
-      "name": "Alefiyah",
-      "team": "The Ascenders",
+      "place": 2,
+      "name": "Pavneet",
+      "team": "Rogue Rangers",
       "side": null,
-      "score": 90,
+      "score": 106,
       "sessions": 1
      },
      {
@@ -1805,6 +1797,22 @@
       "team": "The Ascenders",
       "side": null,
       "score": 90,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Alefiyah",
+      "team": "The Ascenders",
+      "side": null,
+      "score": 90,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Maybelle",
+      "team": "The Untamed",
+      "side": null,
+      "score": 59,
       "sessions": 1
      },
      {
@@ -1818,14 +1826,6 @@
      {
       "place": 4,
       "name": "Lennyn",
-      "team": "The Untamed",
-      "side": null,
-      "score": 59,
-      "sessions": 1
-     },
-     {
-      "place": 4,
-      "name": "Maybelle",
       "team": "The Untamed",
       "side": null,
       "score": 59,
