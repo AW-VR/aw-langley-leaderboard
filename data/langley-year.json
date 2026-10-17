@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-17T04:26:40.265Z",
+ "generatedAt": "2026-10-17T09:22:14.100Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -866,38 +866,38 @@
      },
      {
       "place": 3,
+      "name": "Nexus Knights",
+      "side": null,
+      "raw": "Nexus Knights",
+      "score": 11595
+     },
+     {
+      "place": 4,
       "name": "Solar Surge",
       "side": null,
       "raw": "Solar Surge",
       "score": 10525
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "The Eclipse",
       "side": null,
       "raw": "The Eclipse",
       "score": 9850
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "The Untamed",
       "side": null,
       "raw": "The Untamed",
       "score": 9760
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "The Luminance",
       "side": null,
       "raw": "The Luminance",
       "score": 9120
-     },
-     {
-      "place": 7,
-      "name": "Nexus Knights",
-      "side": null,
-      "raw": "Nexus Knights",
-      "score": 9115
      },
      {
       "place": 8,
@@ -982,19 +982,19 @@
      },
      {
       "place": 8,
-      "name": "Johnel",
-      "team": "Quantum Crew",
-      "side": null,
-      "score": 1860,
-      "sessions": 1
-     },
-     {
-      "place": 8,
       "name": "Ann",
       "team": "Stormbringers",
       "side": null,
       "score": 1860,
       "sessions": 2
+     },
+     {
+      "place": 8,
+      "name": "Johnel",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 1860,
+      "sessions": 1
      },
      {
       "place": 9,
@@ -1005,7 +1005,7 @@
       "sessions": 1
      }
     ],
-    "total": 380
+    "total": 382
    }
   },
   {
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Charlotte",
+      "name": "Amanda",
       "team": "Solar Impact",
       "side": null,
       "score": 57,

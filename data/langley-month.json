@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-17T04:26:44.523Z",
+ "generatedAt": "2026-10-17T09:22:19.312Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -421,7 +421,7 @@
       "name": "Nexus Knights",
       "side": null,
       "raw": "Nexus Knights",
-      "score": 9115
+      "score": 11595
      },
      {
       "place": 2,
@@ -443,6 +443,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Lucas",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 1475,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Angeline",
       "team": "Nexus Knights",
       "side": null,
@@ -450,7 +458,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Devlin",
       "team": "Shadow Sabers",
       "side": null,
@@ -458,7 +466,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Ed",
       "team": "Nexus Knights",
       "side": null,
@@ -466,7 +474,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Sharon",
       "team": "Nexus Knights",
       "side": null,
@@ -474,7 +482,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Darion",
       "team": "Nexus Knights",
       "side": null,
@@ -482,7 +490,15 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 7,
+      "name": "Aelika",
+      "team": "Nexus Knights",
+      "side": null,
+      "score": 1075,
+      "sessions": 1
+     },
+     {
+      "place": 8,
       "name": "Lunar Rush",
       "team": "Nexus Knights",
       "side": null,
@@ -490,7 +506,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Brandon",
       "team": "Nexus Knights",
       "side": null,
@@ -498,31 +514,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "Eric",
       "team": "Shadow Sabers",
       "side": null,
       "score": 855,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Skystrike",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 765,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Cian",
-      "team": "Shadow Sabers",
-      "side": null,
-      "score": 750,
-      "sessions": 1
      }
     ],
-    "total": 18
+    "total": 20
    }
   },
   {

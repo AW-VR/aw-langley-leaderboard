@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-17T04:26:35.615Z",
+ "generatedAt": "2026-10-17T09:22:08.490Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -880,45 +880,45 @@
      },
      {
       "place": 5,
+      "name": "Nexus Knights",
+      "side": null,
+      "raw": "Nexus Knights",
+      "score": 11595
+     },
+     {
+      "place": 6,
       "name": "Team Taegan",
       "side": null,
       "raw": "Team Taegan",
       "score": 10580
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Solar Surge",
       "side": null,
       "raw": "Solar Surge",
       "score": 10525
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Sapphire",
       "side": null,
       "raw": "Sapphire",
       "score": 10235
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "The Eclipse",
       "side": null,
       "raw": "The Eclipse",
       "score": 10205
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "The Untamed",
       "side": null,
       "raw": "The Untamed",
       "score": 9760
-     },
-     {
-      "place": 10,
-      "name": "Team Richard",
-      "side": null,
-      "raw": "Team Richard",
-      "score": 9405
      }
     ]
    },
@@ -1005,7 +1005,7 @@
       "sessions": 1
      }
     ],
-    "total": 1065
+    "total": 1067
    }
   },
   {
@@ -1809,7 +1809,7 @@
      },
      {
       "place": 4,
-      "name": "Elliot",
+      "name": "Linkin",
       "team": "Solar Wraiths",
       "side": null,
       "score": 63,
@@ -1817,7 +1817,7 @@
      },
      {
       "place": 4,
-      "name": "Linkin",
+      "name": "Elliot",
       "team": "Solar Wraiths",
       "side": null,
       "score": 63,
