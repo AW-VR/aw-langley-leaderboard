@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-18T01:03:10.749Z",
+ "generatedAt": "2026-10-18T05:54:49.356Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -616,6 +616,13 @@
     "rows": [
      {
       "place": 1,
+      "name": "Dream Chasers",
+      "side": null,
+      "raw": "Dream Chasers",
+      "score": 355
+     },
+     {
+      "place": 2,
       "name": "Stormfury",
       "side": null,
       "raw": "Stormfury",
@@ -627,6 +634,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Colby",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 109,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Jalnidh",
       "team": "Stormfury",
       "side": null,
@@ -634,15 +649,39 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
+      "name": "Corey",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 99,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Austin",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 88,
+      "sessions": 1
+     },
+     {
+      "place": 5,
       "name": "Mehramat",
       "team": "Stormfury",
       "side": null,
       "score": 60,
       "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Timmy",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 59,
+      "sessions": 1
      }
     ],
-    "total": 2
+    "total": 6
    }
   },
   {
@@ -653,11 +692,52 @@
    "image": "../img/ghost-tower-miners.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Miners&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "Dream Chasers",
+      "side": null,
+      "raw": "Dream Chasers",
+      "score": 10263
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Corey",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 3787,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Timmy",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 2716,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Colby",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 2475,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Austin",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 1285,
+      "sessions": 1
+     }
+    ],
+    "total": 4
    }
   },
   {
