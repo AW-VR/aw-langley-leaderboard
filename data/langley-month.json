@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-18T05:54:49.356Z",
+ "generatedAt": "2026-10-18T11:05:55.152Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -17,6 +17,13 @@
     "rows": [
      {
       "place": 1,
+      "name": "Lunar Lancers",
+      "side": "red",
+      "raw": "Lunar Lancers R",
+      "score": 323
+     },
+     {
+      "place": 2,
       "name": "Warborn",
       "side": "red",
       "raw": "Warborn R",
@@ -28,6 +35,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Jordan",
+      "team": "Lunar Lancers",
+      "side": "red",
+      "score": 190,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Sukhveer",
       "team": "Warborn",
       "side": "red",
@@ -35,7 +50,15 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
+      "name": "Crewe",
+      "team": "Lunar Lancers",
+      "side": "red",
+      "score": 133,
+      "sessions": 1
+     },
+     {
+      "place": 4,
       "name": "Manvir",
       "team": "Warborn",
       "side": "red",
@@ -43,7 +66,7 @@
       "sessions": 1
      }
     ],
-    "total": 2
+    "total": 4
    }
   },
   {
@@ -576,6 +599,13 @@
     "rows": [
      {
       "place": 1,
+      "name": "Dream Chasers",
+      "side": null,
+      "raw": "Dream Chasers",
+      "score": 404
+     },
+     {
+      "place": 2,
       "name": "Stormfury",
       "side": null,
       "raw": "Stormfury",
@@ -587,6 +617,38 @@
     "rows": [
      {
       "place": 1,
+      "name": "Corey",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 138,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Timmy",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 109,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Colby",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 79,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Austin",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 78,
+      "sessions": 1
+     },
+     {
+      "place": 5,
       "name": "Mehramat",
       "team": "Stormfury",
       "side": null,
@@ -594,7 +656,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 6,
       "name": "Jalnidh",
       "team": "Stormfury",
       "side": null,
@@ -602,7 +664,7 @@
       "sessions": 1
      }
     ],
-    "total": 2
+    "total": 6
    }
   },
   {
@@ -619,7 +681,7 @@
       "name": "Dream Chasers",
       "side": null,
       "raw": "Dream Chasers",
-      "score": 355
+      "score": 559
      },
      {
       "place": 2,
@@ -634,14 +696,30 @@
     "rows": [
      {
       "place": 1,
+      "name": "Corey",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 153,
+      "sessions": 1
+     },
+     {
+      "place": 1,
       "name": "Colby",
       "team": "Dream Chasers",
       "side": null,
-      "score": 109,
+      "score": 153,
       "sessions": 1
      },
      {
       "place": 2,
+      "name": "Austin",
+      "team": "Dream Chasers",
+      "side": null,
+      "score": 149,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Jalnidh",
       "team": "Stormfury",
       "side": null,
@@ -649,19 +727,11 @@
       "sessions": 1
      },
      {
-      "place": 3,
-      "name": "Corey",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 99,
-      "sessions": 1
-     },
-     {
       "place": 4,
-      "name": "Austin",
+      "name": "Timmy",
       "team": "Dream Chasers",
       "side": null,
-      "score": 88,
+      "score": 104,
       "sessions": 1
      },
      {
@@ -670,14 +740,6 @@
       "team": "Stormfury",
       "side": null,
       "score": 60,
-      "sessions": 1
-     },
-     {
-      "place": 6,
-      "name": "Timmy",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 59,
       "sessions": 1
      }
     ],
