@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-19T07:47:06.902Z",
+ "generatedAt": "2026-10-19T15:37:19.743Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -17,13 +17,20 @@
     "rows": [
      {
       "place": 1,
+      "name": "Quantum Quest",
+      "side": "red",
+      "raw": "Quantum Quest R",
+      "score": 590
+     },
+     {
+      "place": 2,
       "name": "Lunar Lancers",
       "side": "red",
       "raw": "Lunar Lancers R",
       "score": 323
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Warborn",
       "side": "red",
       "raw": "Warborn R",
@@ -35,6 +42,22 @@
     "rows": [
      {
       "place": 1,
+      "name": "Joseph",
+      "team": "Quantum Quest",
+      "side": "red",
+      "score": 342,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Annabelle",
+      "team": "Quantum Quest",
+      "side": "red",
+      "score": 248,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Jordan",
       "team": "Lunar Lancers",
       "side": "red",
@@ -42,7 +65,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 4,
       "name": "Sukhveer",
       "team": "Warborn",
       "side": "red",
@@ -50,7 +73,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 5,
       "name": "Crewe",
       "team": "Lunar Lancers",
       "side": "red",
@@ -58,7 +81,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 6,
       "name": "Manvir",
       "team": "Warborn",
       "side": "red",
@@ -66,7 +89,7 @@
       "sessions": 1
      }
     ],
-    "total": 4
+    "total": 6
    }
   },
   {
