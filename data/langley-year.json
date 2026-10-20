@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-19T21:03:29.398Z",
+ "generatedAt": "2026-10-20T00:20:49.444Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -990,19 +990,19 @@
      },
      {
       "place": 9,
-      "name": "Johnel",
-      "team": "Quantum Crew",
-      "side": null,
-      "score": 1860,
-      "sessions": 1
-     },
-     {
-      "place": 9,
       "name": "Ann",
       "team": "Stormbringers",
       "side": null,
       "score": 1860,
       "sessions": 2
+     },
+     {
+      "place": 9,
+      "name": "Johnel",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 1860,
+      "sessions": 1
      }
     ],
     "total": 390
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Emberstrike",
-      "team": "Stormbringers",
-      "side": null,
-      "score": 185,
-      "sessions": 3
-     },
-     {
-      "place": 5,
       "name": "Riftfall",
       "team": "Shadow Squad",
       "side": null,
       "score": 185,
       "sessions": 4
+     },
+     {
+      "place": 5,
+      "name": "Emberstrike",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 185,
+      "sessions": 3
      },
      {
       "place": 6,
@@ -1777,7 +1777,7 @@
      },
      {
       "place": 2,
-      "name": "Pavneet",
+      "name": "Manjot",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1785,7 +1785,7 @@
      },
      {
       "place": 2,
-      "name": "Manjot",
+      "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1809,14 +1809,6 @@
      },
      {
       "place": 4,
-      "name": "Maybelle",
-      "team": "The Untamed",
-      "side": null,
-      "score": 59,
-      "sessions": 1
-     },
-     {
-      "place": 4,
       "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
@@ -1826,6 +1818,14 @@
      {
       "place": 4,
       "name": "Maverick",
+      "team": "The Untamed",
+      "side": null,
+      "score": 59,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Maybelle",
       "team": "The Untamed",
       "side": null,
       "score": 59,
