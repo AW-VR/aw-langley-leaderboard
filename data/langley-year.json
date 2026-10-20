@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-20T06:01:44.625Z",
+ "generatedAt": "2026-10-20T11:37:35.211Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -990,19 +990,19 @@
      },
      {
       "place": 9,
-      "name": "Ann",
-      "team": "Stormbringers",
-      "side": null,
-      "score": 1860,
-      "sessions": 2
-     },
-     {
-      "place": 9,
       "name": "Johnel",
       "team": "Quantum Crew",
       "side": null,
       "score": 1860,
       "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Ann",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 1860,
+      "sessions": 2
      }
     ],
     "total": 390
@@ -1777,7 +1777,7 @@
      },
      {
       "place": 2,
-      "name": "Pavneet",
+      "name": "Manjot",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1785,7 +1785,7 @@
      },
      {
       "place": 2,
-      "name": "Manjot",
+      "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
