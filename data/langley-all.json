@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-22T04:46:30.723Z",
+ "generatedAt": "2026-10-22T10:11:31.109Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -958,19 +958,19 @@
      },
      {
       "place": 5,
-      "name": "Ashu",
-      "team": "Brar",
-      "side": null,
-      "score": 2875,
-      "sessions": 1
-     },
-     {
-      "place": 5,
       "name": "Harman",
       "team": "Aw",
       "side": null,
       "score": 2875,
       "sessions": 2
+     },
+     {
+      "place": 5,
+      "name": "Ashu",
+      "team": "Brar",
+      "side": null,
+      "score": 2875,
+      "sessions": 1
      },
      {
       "place": 6,
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Riftfall",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 185,
-      "sessions": 4
-     },
-     {
-      "place": 5,
       "name": "Emberstrike",
       "team": "Stormbringers",
       "side": null,
       "score": 185,
       "sessions": 3
+     },
+     {
+      "place": 5,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 185,
+      "sessions": 4
      },
      {
       "place": 6,
@@ -1777,14 +1777,6 @@
      },
      {
       "place": 2,
-      "name": "Pavneet",
-      "team": "Rogue Rangers",
-      "side": null,
-      "score": 106,
-      "sessions": 1
-     },
-     {
-      "place": 2,
       "name": "Manjot",
       "team": "Rogue Rangers",
       "side": null,
@@ -1792,8 +1784,16 @@
       "sessions": 1
      },
      {
+      "place": 2,
+      "name": "Pavneet",
+      "team": "Rogue Rangers",
+      "side": null,
+      "score": 106,
+      "sessions": 1
+     },
+     {
       "place": 3,
-      "name": "Jumana",
+      "name": "Alefiyah",
       "team": "The Ascenders",
       "side": null,
       "score": 90,
@@ -1801,7 +1801,7 @@
      },
      {
       "place": 3,
-      "name": "Alefiyah",
+      "name": "Jumana",
       "team": "The Ascenders",
       "side": null,
       "score": 90,
