@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-23T22:11:28.680Z",
+ "generatedAt": "2026-10-24T00:43:04.500Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -692,24 +692,24 @@
      },
      {
       "place": 2,
+      "name": "Galactic Edge",
+      "side": "blue",
+      "raw": "Galactic Edge B",
+      "score": 48550
+     },
+     {
+      "place": 3,
       "name": "Rogue Rangers",
       "side": "blue",
       "raw": "Rogue Rangers B",
       "score": 39950
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "The Spectres",
       "side": "blue",
       "raw": "The Spectres B",
       "score": 35400
-     },
-     {
-      "place": 4,
-      "name": "Galactic Edge",
-      "side": "blue",
-      "raw": "Galactic Edge B",
-      "score": 30450
      },
      {
       "place": 5,
@@ -838,7 +838,7 @@
       "sessions": 1
      }
     ],
-    "total": 135
+    "total": 137
    }
   },
   {
@@ -990,19 +990,19 @@
      },
      {
       "place": 9,
-      "name": "Ann",
-      "team": "Stormbringers",
-      "side": null,
-      "score": 1860,
-      "sessions": 2
-     },
-     {
-      "place": 9,
       "name": "Johnel",
       "team": "Quantum Crew",
       "side": null,
       "score": 1860,
       "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Ann",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 1860,
+      "sessions": 2
      }
     ],
     "total": 390
@@ -1475,19 +1475,19 @@
      },
      {
       "place": 6,
-      "name": "Ember",
-      "team": "Solar Surge",
-      "side": null,
-      "score": 174,
-      "sessions": 1
-     },
-     {
-      "place": 6,
       "name": "Radiant Flow",
       "team": "Wild Horizons",
       "side": null,
       "score": 174,
       "sessions": 2
+     },
+     {
+      "place": 6,
+      "name": "Ember",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 174,
+      "sessions": 1
      },
      {
       "place": 7,
