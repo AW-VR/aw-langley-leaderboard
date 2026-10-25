@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-25T01:14:34.505Z",
+ "generatedAt": "2026-10-25T06:11:17.287Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -539,52 +539,52 @@
      },
      {
       "place": 4,
+      "name": "Starlit Storm",
+      "side": null,
+      "raw": "Starlit Storm",
+      "score": 115210
+     },
+     {
+      "place": 5,
       "name": "Rift Riders",
       "side": null,
       "raw": "Rift Riders",
       "score": 113635
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "The Pulse",
       "side": null,
       "raw": "The Pulse",
       "score": 101832
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "The Untamed",
       "side": null,
       "raw": "The Untamed",
       "score": 81767
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Chang Team",
       "side": null,
       "raw": "Chang Team",
       "score": 81382
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "Cyber Storm",
       "side": null,
       "raw": "Cyber Storm",
       "score": 81106
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "Straiton Engineering",
       "side": null,
       "raw": "Straiton Engineering",
       "score": 71528
-     },
-     {
-      "place": 10,
-      "name": "The Luminance",
-      "side": null,
-      "raw": "The Luminance",
-      "score": 71241
      }
     ]
    },
@@ -656,22 +656,22 @@
      },
      {
       "place": 9,
+      "name": "Justine",
+      "team": "Starlit Storm",
+      "side": null,
+      "score": 23439,
+      "sessions": 1
+     },
+     {
+      "place": 10,
       "name": "Maria",
       "team": "The Pulse",
       "side": null,
       "score": 22460,
       "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Ac",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 22447,
-      "sessions": 1
      }
     ],
-    "total": 220
+    "total": 223
    }
   },
   {
@@ -1475,19 +1475,19 @@
      },
      {
       "place": 6,
-      "name": "Ember",
-      "team": "Solar Surge",
-      "side": null,
-      "score": 174,
-      "sessions": 1
-     },
-     {
-      "place": 6,
       "name": "Radiant Flow",
       "team": "Wild Horizons",
       "side": null,
       "score": 174,
       "sessions": 2
+     },
+     {
+      "place": 6,
+      "name": "Ember",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 174,
+      "sessions": 1
      },
      {
       "place": 7,
@@ -1793,7 +1793,7 @@
      },
      {
       "place": 3,
-      "name": "Jumana",
+      "name": "Alefiyah",
       "team": "The Ascenders",
       "side": null,
       "score": 90,
@@ -1801,10 +1801,18 @@
      },
      {
       "place": 3,
-      "name": "Alefiyah",
+      "name": "Jumana",
       "team": "The Ascenders",
       "side": null,
       "score": 90,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Maverick",
+      "team": "The Untamed",
+      "side": null,
+      "score": 59,
       "sessions": 1
      },
      {
@@ -1818,14 +1826,6 @@
      {
       "place": 4,
       "name": "Maybelle",
-      "team": "The Untamed",
-      "side": null,
-      "score": 59,
-      "sessions": 1
-     },
-     {
-      "place": 4,
-      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,
