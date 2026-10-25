@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-25T19:37:55.852Z",
+ "generatedAt": "2026-10-25T22:33:53.890Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -768,6 +768,13 @@
      },
      {
       "place": 2,
+      "name": "Nova Blazers",
+      "side": null,
+      "raw": "Nova Blazers",
+      "score": 397
+     },
+     {
+      "place": 3,
       "name": "Stormfury",
       "side": null,
       "raw": "Stormfury",
@@ -787,6 +794,14 @@
      },
      {
       "place": 2,
+      "name": "Amar",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 120,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Timmy",
       "team": "Dream Chasers",
       "side": null,
@@ -794,7 +809,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Colby",
       "team": "Dream Chasers",
       "side": null,
@@ -802,7 +817,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Austin",
       "team": "Dream Chasers",
       "side": null,
@@ -810,23 +825,47 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
+      "name": "Sarah",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 74,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Nara",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 55,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Harjot",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 49,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Paul",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 42,
+      "sessions": 1
+     },
+     {
+      "place": 10,
       "name": "Mehramat",
       "team": "Stormfury",
       "side": null,
       "score": 38,
       "sessions": 1
-     },
-     {
-      "place": 6,
-      "name": "Jalnidh",
-      "team": "Stormfury",
-      "side": null,
-      "score": 19,
-      "sessions": 1
      }
     ],
-    "total": 6
+    "total": 15
    }
   },
   {
@@ -840,13 +879,20 @@
     "rows": [
      {
       "place": 1,
+      "name": "Nova Blazers",
+      "side": null,
+      "raw": "Nova Blazers",
+      "score": 861
+     },
+     {
+      "place": 2,
       "name": "Dream Chasers",
       "side": null,
       "raw": "Dream Chasers",
       "score": 559
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Stormfury",
       "side": null,
       "raw": "Stormfury",
@@ -858,6 +904,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Sarah",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 160,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Corey",
       "team": "Dream Chasers",
       "side": null,
@@ -865,7 +919,7 @@
       "sessions": 1
      },
      {
-      "place": 1,
+      "place": 2,
       "name": "Colby",
       "team": "Dream Chasers",
       "side": null,
@@ -873,7 +927,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Austin",
       "team": "Dream Chasers",
       "side": null,
@@ -881,31 +935,55 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
+      "name": "Amar",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 137,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Romick",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 125,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Nara",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 122,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Harjot",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 115,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Paul",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 109,
+      "sessions": 1
+     },
+     {
+      "place": 9,
       "name": "Jalnidh",
       "team": "Stormfury",
       "side": null,
       "score": 106,
       "sessions": 1
-     },
-     {
-      "place": 4,
-      "name": "Timmy",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 104,
-      "sessions": 1
-     },
-     {
-      "place": 5,
-      "name": "Mehramat",
-      "team": "Stormfury",
-      "side": null,
-      "score": 60,
-      "sessions": 1
      }
     ],
-    "total": 6
+    "total": 15
    }
   },
   {
@@ -923,6 +1001,13 @@
       "side": null,
       "raw": "Dream Chasers",
       "score": 10263
+     },
+     {
+      "place": 2,
+      "name": "Nova Blazers",
+      "side": null,
+      "raw": "Nova Blazers",
+      "score": 5028
      }
     ]
    },
@@ -959,9 +1044,57 @@
       "side": null,
       "score": 1285,
       "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Sarah",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 796,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Romick",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 765,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Harjot",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 751,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Paul",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 635,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Amar",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 580,
+      "sessions": 1
+     },
+     {
+      "place": 10,
+      "name": "Nara",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 463,
+      "sessions": 1
      }
     ],
-    "total": 4
+    "total": 13
    }
   },
   {

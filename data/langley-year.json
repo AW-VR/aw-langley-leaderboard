@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-25T19:37:51.010Z",
+ "generatedAt": "2026-10-25T22:33:49.758Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1214,45 +1214,45 @@
      },
      {
       "place": 5,
+      "name": "Nova Blazers",
+      "side": null,
+      "raw": "Nova Blazers",
+      "score": 397
+     },
+     {
+      "place": 6,
       "name": "Shadow Squad",
       "side": null,
       "raw": "Shadow Squad",
       "score": 335
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Stormbringers",
       "side": null,
       "raw": "Stormbringers",
       "score": 272
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Nova Nomads",
       "side": null,
       "raw": "Nova Nomads",
       "score": 242
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "The Eclipsers",
       "side": null,
       "raw": "The Eclipsers",
       "score": 218
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "Frostguard",
       "side": null,
       "raw": "Frostguard",
       "score": 191
-     },
-     {
-      "place": 10,
-      "name": "Astral Agents",
-      "side": null,
-      "raw": "Astral Agents",
-      "score": 177
      }
     ]
    },
@@ -1308,6 +1308,14 @@
      },
      {
       "place": 7,
+      "name": "Amar",
+      "team": "Nova Blazers",
+      "side": null,
+      "score": 120,
+      "sessions": 1
+     },
+     {
+      "place": 8,
       "name": "Mankaran",
       "team": "Astral Agents",
       "side": null,
@@ -1315,7 +1323,7 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "Timmy",
       "team": "Dream Chasers",
       "side": null,
@@ -1323,23 +1331,15 @@
       "sessions": 1
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "Gravity",
       "team": "Echo Striders",
       "side": null,
       "score": 108,
       "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Trevor",
-      "team": "Echo Alliance",
-      "side": null,
-      "score": 106,
-      "sessions": 1
      }
     ],
-    "total": 102
+    "total": 111
    }
   },
   {
@@ -1367,59 +1367,59 @@
      },
      {
       "place": 3,
+      "name": "Nova Blazers",
+      "side": null,
+      "raw": "Nova Blazers",
+      "score": 861
+     },
+     {
+      "place": 4,
       "name": "Solar Impact",
       "side": null,
       "raw": "Solar Impact",
       "score": 857
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Aurora Wolves",
       "side": null,
       "raw": "Aurora Wolves",
       "score": 646
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Stormbringers",
       "side": null,
       "raw": "Stormbringers",
       "score": 601
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Dream Chasers",
       "side": null,
       "raw": "Dream Chasers",
       "score": 559
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Wild Horizons",
       "side": null,
       "raw": "Wild Horizons",
       "score": 448
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "Skyfire",
       "side": null,
       "raw": "Skyfire",
       "score": 440
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "Frostguard",
       "side": null,
       "raw": "Frostguard",
       "score": 435
-     },
-     {
-      "place": 10,
-      "name": "Sonic Boom",
-      "side": null,
-      "raw": "Sonic Boom",
-      "score": 397
      }
     ]
    },
@@ -1475,19 +1475,19 @@
      },
      {
       "place": 6,
-      "name": "Ember",
-      "team": "Solar Surge",
-      "side": null,
-      "score": 174,
-      "sessions": 1
-     },
-     {
-      "place": 6,
       "name": "Radiant Flow",
       "team": "Wild Horizons",
       "side": null,
       "score": 174,
       "sessions": 2
+     },
+     {
+      "place": 6,
+      "name": "Ember",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 174,
+      "sessions": 1
      },
      {
       "place": 7,
@@ -1506,7 +1506,7 @@
       "sessions": 1
      }
     ],
-    "total": 115
+    "total": 124
    }
   },
   {
@@ -1548,45 +1548,45 @@
      },
      {
       "place": 5,
+      "name": "Nova Blazers",
+      "side": null,
+      "raw": "Nova Blazers",
+      "score": 5028
+     },
+     {
+      "place": 6,
       "name": "Skyfire",
       "side": null,
       "raw": "Skyfire",
       "score": 4939
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "The Luminance",
       "side": null,
       "raw": "The Luminance",
       "score": 3644
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Aurora Wolves",
       "side": null,
       "raw": "Aurora Wolves",
       "score": 3583
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "Nova Nomads",
       "side": null,
       "raw": "Nova Nomads",
       "score": 3480
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "Flame Falcons",
       "side": null,
       "raw": "Flame Falcons",
       "score": 3420
-     },
-     {
-      "place": 10,
-      "name": "Sonic Boom",
-      "side": null,
-      "raw": "Sonic Boom",
-      "score": 2999
      }
     ]
    },
@@ -1673,7 +1673,7 @@
       "sessions": 1
      }
     ],
-    "total": 92
+    "total": 101
    }
   },
   {
@@ -1761,14 +1761,6 @@
     "rows": [
      {
       "place": 1,
-      "name": "Andy",
-      "team": "Shadowflare",
-      "side": null,
-      "score": 130,
-      "sessions": 1
-     },
-     {
-      "place": 1,
       "name": "Brynly",
       "team": "Shadowflare",
       "side": null,
@@ -1776,8 +1768,16 @@
       "sessions": 1
      },
      {
+      "place": 1,
+      "name": "Andy",
+      "team": "Shadowflare",
+      "side": null,
+      "score": 130,
+      "sessions": 1
+     },
+     {
       "place": 2,
-      "name": "Manjot",
+      "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1785,7 +1785,7 @@
      },
      {
       "place": 2,
-      "name": "Pavneet",
+      "name": "Manjot",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1809,7 +1809,7 @@
      },
      {
       "place": 4,
-      "name": "Maverick",
+      "name": "Maybelle",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1817,7 +1817,7 @@
      },
      {
       "place": 4,
-      "name": "Maybelle",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Amanda",
+      "name": "Charlotte",
       "team": "Solar Impact",
       "side": null,
       "score": 57,
