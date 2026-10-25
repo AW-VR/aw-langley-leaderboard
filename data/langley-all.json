@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-24T23:15:02.946Z",
+ "generatedAt": "2026-10-25T01:14:29.620Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -504,7 +504,7 @@
       "sessions": 2
      }
     ],
-    "total": 750
+    "total": 755
    }
   },
   {
@@ -592,6 +592,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Blake",
+      "team": "Starlit Storm",
+      "side": null,
+      "score": 30082,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Ke",
       "team": "Doritos",
       "side": null,
@@ -599,7 +607,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Monica",
       "team": "The Whirlwind",
       "side": null,
@@ -607,7 +615,7 @@
       "sessions": 2
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Patrick",
       "team": "The Pulse",
       "side": null,
@@ -615,7 +623,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Kaiser",
       "team": "Galactic Edge",
       "side": null,
@@ -623,7 +631,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Corey",
       "team": "Galactic Edge",
       "side": null,
@@ -631,7 +639,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Fartface",
       "team": "Chang Team",
       "side": null,
@@ -639,7 +647,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Marcus",
       "team": "Chang Team",
       "side": null,
@@ -647,7 +655,7 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "Jeremy",
       "team": "Team Awesome",
       "side": null,
@@ -655,23 +663,15 @@
       "sessions": 1
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "Ayaan",
       "team": "Darkfire Crew",
       "side": null,
       "score": 24286,
       "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Rebecca",
-      "team": "Jonny Recco",
-      "side": null,
-      "score": 24247,
-      "sessions": 1
      }
     ],
-    "total": 364
+    "total": 366
    }
   },
   {
@@ -958,19 +958,19 @@
      },
      {
       "place": 5,
-      "name": "Harman",
-      "team": "Aw",
-      "side": null,
-      "score": 2875,
-      "sessions": 2
-     },
-     {
-      "place": 5,
       "name": "Ashu",
       "team": "Brar",
       "side": null,
       "score": 2875,
       "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Harman",
+      "team": "Aw",
+      "side": null,
+      "score": 2875,
+      "sessions": 2
      },
      {
       "place": 6,
@@ -1005,7 +1005,7 @@
       "sessions": 1
      }
     ],
-    "total": 1075
+    "total": 1079
    }
   },
   {
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Riftfall",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 185,
-      "sessions": 4
-     },
-     {
-      "place": 5,
       "name": "Emberstrike",
       "team": "Stormbringers",
       "side": null,
       "score": 185,
       "sessions": 3
+     },
+     {
+      "place": 5,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 185,
+      "sessions": 4
      },
      {
       "place": 6,
@@ -1793,14 +1793,6 @@
      },
      {
       "place": 3,
-      "name": "Jumana",
-      "team": "The Ascenders",
-      "side": null,
-      "score": 90,
-      "sessions": 1
-     },
-     {
-      "place": 3,
       "name": "Alefiyah",
       "team": "The Ascenders",
       "side": null,
@@ -1808,8 +1800,16 @@
       "sessions": 1
      },
      {
+      "place": 3,
+      "name": "Jumana",
+      "team": "The Ascenders",
+      "side": null,
+      "score": 90,
+      "sessions": 1
+     },
+     {
       "place": 4,
-      "name": "Linkin",
+      "name": "Elliot",
       "team": "Solar Wraiths",
       "side": null,
       "score": 63,
@@ -1817,7 +1817,7 @@
      },
      {
       "place": 4,
-      "name": "Elliot",
+      "name": "Linkin",
       "team": "Solar Wraiths",
       "side": null,
       "score": 63,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Maverick",
+      "name": "Maybelle",
       "team": "The Untamed",
       "side": null,
       "score": 59,

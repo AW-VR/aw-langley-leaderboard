@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-24T23:15:12.583Z",
+ "generatedAt": "2026-10-25T01:14:39.278Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -235,13 +235,20 @@
      },
      {
       "place": 2,
+      "name": "Starlit Storm",
+      "side": null,
+      "raw": "Starlit Storm",
+      "score": 79364
+     },
+     {
+      "place": 3,
       "name": "The Empyrean",
       "side": null,
       "raw": "The Empyrean",
       "score": 49135
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Vortex Vipers",
       "side": null,
       "raw": "Vortex Vipers",
@@ -269,6 +276,14 @@
      },
      {
       "place": 3,
+      "name": "Blake",
+      "team": "Starlit Storm",
+      "side": null,
+      "score": 27720,
+      "sessions": 2
+     },
+     {
+      "place": 4,
       "name": "Arco",
       "team": "Nexus Knights",
       "side": null,
@@ -276,7 +291,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Brian",
       "team": "Vortex Vipers",
       "side": null,
@@ -284,7 +299,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Soodabeh",
       "team": "Nexus Knights",
       "side": null,
@@ -292,7 +307,15 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 7,
+      "name": "Jason",
+      "team": "Starlit Storm",
+      "side": null,
+      "score": 20324,
+      "sessions": 2
+     },
+     {
+      "place": 8,
       "name": "Heather",
       "team": "Vortex Vipers",
       "side": null,
@@ -300,7 +323,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Shawn",
       "team": "The Empyrean",
       "side": null,
@@ -308,31 +331,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "Lincon",
       "team": "Nexus Knights",
       "side": null,
       "score": 16551,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Raphaelle",
-      "team": "The Empyrean",
-      "side": null,
-      "score": 16097,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Ethan",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 15865,
-      "sessions": 2
      }
     ],
-    "total": 16
+    "total": 21
    }
   },
   {
@@ -346,13 +353,20 @@
     "rows": [
      {
       "place": 1,
+      "name": "Starlit Storm",
+      "side": null,
+      "raw": "Starlit Storm",
+      "score": 50218
+     },
+     {
+      "place": 2,
       "name": "Nexus Knights",
       "side": null,
       "raw": "Nexus Knights",
       "score": 30878
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Vortex Vipers",
       "side": null,
       "raw": "Vortex Vipers",
@@ -364,6 +378,22 @@
     "rows": [
      {
       "place": 1,
+      "name": "Blake",
+      "team": "Starlit Storm",
+      "side": null,
+      "score": 30082,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Jason",
+      "team": "Starlit Storm",
+      "side": null,
+      "score": 20136,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Lunar Rush",
       "team": "Nexus Knights",
       "side": null,
@@ -371,7 +401,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 4,
       "name": "Quantum Jump",
       "team": "Nexus Knights",
       "side": null,
@@ -379,7 +409,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 5,
       "name": "Skystrike",
       "team": "Nexus Knights",
       "side": null,
@@ -387,7 +417,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 6,
       "name": "Astro Dash",
       "team": "Nexus Knights",
       "side": null,
@@ -395,7 +425,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 7,
       "name": "Brian",
       "team": "Vortex Vipers",
       "side": null,
@@ -403,7 +433,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 8,
       "name": "Heather",
       "team": "Vortex Vipers",
       "side": null,
@@ -411,7 +441,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Lincon",
       "team": "Nexus Knights",
       "side": null,
@@ -419,23 +449,15 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Ethan",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 0,
-      "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Owen",
       "team": "Nexus Knights",
       "side": null,
       "score": 0,
       "sessions": 1
      }
     ],
-    "total": 9
+    "total": 11
    }
   },
   {
@@ -574,13 +596,20 @@
      },
      {
       "place": 3,
+      "name": "Starlit Storm",
+      "side": null,
+      "raw": "Starlit Storm",
+      "score": 7030
+     },
+     {
+      "place": 4,
       "name": "Shadow Sabers",
       "side": null,
       "raw": "Shadow Sabers",
       "score": 4125
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "The Empyrean",
       "side": null,
       "raw": "The Empyrean",
@@ -592,6 +621,22 @@
     "rows": [
      {
       "place": 1,
+      "name": "Echo Flame",
+      "team": "Starlit Storm",
+      "side": null,
+      "score": 2550,
+      "sessions": 2
+     },
+     {
+      "place": 2,
+      "name": "Echojump",
+      "team": "Starlit Storm",
+      "side": null,
+      "score": 2325,
+      "sessions": 2
+     },
+     {
+      "place": 3,
       "name": "Emmet",
       "team": "Quantum Quest",
       "side": null,
@@ -599,7 +644,7 @@
       "sessions": 2
      },
      {
-      "place": 2,
+      "place": 4,
       "name": "Wetson",
       "team": "Quantum Quest",
       "side": null,
@@ -607,7 +652,15 @@
       "sessions": 2
      },
      {
-      "place": 3,
+      "place": 5,
+      "name": "Gravstar",
+      "team": "Starlit Storm",
+      "side": null,
+      "score": 1485,
+      "sessions": 2
+     },
+     {
+      "place": 6,
       "name": "Lucas",
       "team": "Nexus Knights",
       "side": null,
@@ -615,7 +668,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 7,
       "name": "Angeline",
       "team": "Nexus Knights",
       "side": null,
@@ -623,7 +676,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 8,
       "name": "Devlin",
       "team": "Shadow Sabers",
       "side": null,
@@ -631,7 +684,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 9,
       "name": "Ed",
       "team": "Nexus Knights",
       "side": null,
@@ -639,39 +692,15 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 10,
       "name": "Sharon",
       "team": "Nexus Knights",
       "side": null,
       "score": 1285,
       "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Darion",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 1210,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Linnea",
-      "team": "Quantum Quest",
-      "side": null,
-      "score": 1110,
-      "sessions": 2
-     },
-     {
-      "place": 10,
-      "name": "Aelika",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 1075,
-      "sessions": 1
      }
     ],
-    "total": 28
+    "total": 32
    }
   },
   {
