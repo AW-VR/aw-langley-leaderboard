@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-25T06:11:17.287Z",
+ "generatedAt": "2026-10-25T11:29:55.224Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1005,7 +1005,7 @@
       "sessions": 1
      }
     ],
-    "total": 394
+    "total": 400
    }
   },
   {
@@ -1793,14 +1793,6 @@
      },
      {
       "place": 3,
-      "name": "Alefiyah",
-      "team": "The Ascenders",
-      "side": null,
-      "score": 90,
-      "sessions": 1
-     },
-     {
-      "place": 3,
       "name": "Jumana",
       "team": "The Ascenders",
       "side": null,
@@ -1808,11 +1800,11 @@
       "sessions": 1
      },
      {
-      "place": 4,
-      "name": "Maverick",
-      "team": "The Untamed",
+      "place": 3,
+      "name": "Alefiyah",
+      "team": "The Ascenders",
       "side": null,
-      "score": 59,
+      "score": 90,
       "sessions": 1
      },
      {
@@ -1826,6 +1818,14 @@
      {
       "place": 4,
       "name": "Maybelle",
+      "team": "The Untamed",
+      "side": null,
+      "score": 59,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,

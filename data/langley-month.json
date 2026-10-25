@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-25T06:11:21.356Z",
+ "generatedAt": "2026-10-25T11:29:59.892Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -603,20 +603,20 @@
      },
      {
       "place": 4,
+      "name": "Nebula Nomads",
+      "side": null,
+      "raw": "Nebula Nomads",
+      "score": 4915
+     },
+     {
+      "place": 5,
       "name": "Shadow Sabers",
       "side": null,
       "raw": "Shadow Sabers",
       "score": 4125
      },
      {
-      "place": 5,
-      "name": "Nebula Nomads",
-      "side": null,
-      "raw": "Nebula Nomads",
-      "score": 0
-     },
-     {
-      "place": 5,
+      "place": 6,
       "name": "The Empyrean",
       "side": null,
       "raw": "The Empyrean",
@@ -707,7 +707,7 @@
       "sessions": 1
      }
     ],
-    "total": 32
+    "total": 38
    }
   },
   {
