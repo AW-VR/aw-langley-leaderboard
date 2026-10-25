@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-25T16:20:13.281Z",
+ "generatedAt": "2026-10-25T19:37:51.010Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1459,14 +1459,6 @@
      },
      {
       "place": 5,
-      "name": "Emberstrike",
-      "team": "Stormbringers",
-      "side": null,
-      "score": 185,
-      "sessions": 3
-     },
-     {
-      "place": 5,
       "name": "Riftfall",
       "team": "Shadow Squad",
       "side": null,
@@ -1474,12 +1466,12 @@
       "sessions": 4
      },
      {
-      "place": 6,
-      "name": "Radiant Flow",
-      "team": "Wild Horizons",
+      "place": 5,
+      "name": "Emberstrike",
+      "team": "Stormbringers",
       "side": null,
-      "score": 174,
-      "sessions": 2
+      "score": 185,
+      "sessions": 3
      },
      {
       "place": 6,
@@ -1488,6 +1480,14 @@
       "side": null,
       "score": 174,
       "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Radiant Flow",
+      "team": "Wild Horizons",
+      "side": null,
+      "score": 174,
+      "sessions": 2
      },
      {
       "place": 7,
@@ -1793,14 +1793,6 @@
      },
      {
       "place": 3,
-      "name": "Alefiyah",
-      "team": "The Ascenders",
-      "side": null,
-      "score": 90,
-      "sessions": 1
-     },
-     {
-      "place": 3,
       "name": "Jumana",
       "team": "The Ascenders",
       "side": null,
@@ -1808,8 +1800,16 @@
       "sessions": 1
      },
      {
+      "place": 3,
+      "name": "Alefiyah",
+      "team": "The Ascenders",
+      "side": null,
+      "score": 90,
+      "sessions": 1
+     },
+     {
       "place": 4,
-      "name": "Maybelle",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1817,7 +1817,7 @@
      },
      {
       "place": 4,
-      "name": "Maverick",
+      "name": "Maybelle",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Charlotte",
+      "name": "Amanda",
       "team": "Solar Impact",
       "side": null,
       "score": 57,
