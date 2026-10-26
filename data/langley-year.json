@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-26T19:20:00.953Z",
+ "generatedAt": "2026-10-26T23:53:58.220Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1459,14 +1459,6 @@
      },
      {
       "place": 5,
-      "name": "Emberstrike",
-      "team": "Stormbringers",
-      "side": null,
-      "score": 185,
-      "sessions": 3
-     },
-     {
-      "place": 5,
       "name": "Riftfall",
       "team": "Shadow Squad",
       "side": null,
@@ -1474,12 +1466,12 @@
       "sessions": 4
      },
      {
-      "place": 6,
-      "name": "Ember",
-      "team": "Solar Surge",
+      "place": 5,
+      "name": "Emberstrike",
+      "team": "Stormbringers",
       "side": null,
-      "score": 174,
-      "sessions": 1
+      "score": 185,
+      "sessions": 3
      },
      {
       "place": 6,
@@ -1488,6 +1480,14 @@
       "side": null,
       "score": 174,
       "sessions": 2
+     },
+     {
+      "place": 6,
+      "name": "Ember",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 174,
+      "sessions": 1
      },
      {
       "place": 7,
@@ -1793,14 +1793,6 @@
      },
      {
       "place": 3,
-      "name": "Jumana",
-      "team": "The Ascenders",
-      "side": null,
-      "score": 90,
-      "sessions": 1
-     },
-     {
-      "place": 3,
       "name": "Alefiyah",
       "team": "The Ascenders",
       "side": null,
@@ -1808,11 +1800,11 @@
       "sessions": 1
      },
      {
-      "place": 4,
-      "name": "Lennyn",
-      "team": "The Untamed",
+      "place": 3,
+      "name": "Jumana",
+      "team": "The Ascenders",
       "side": null,
-      "score": 59,
+      "score": 90,
       "sessions": 1
      },
      {
@@ -1832,8 +1824,16 @@
       "sessions": 1
      },
      {
+      "place": 4,
+      "name": "Lennyn",
+      "team": "The Untamed",
+      "side": null,
+      "score": 59,
+      "sessions": 1
+     },
+     {
       "place": 5,
-      "name": "Amanda",
+      "name": "Charlotte",
       "team": "Solar Impact",
       "side": null,
       "score": 57,
