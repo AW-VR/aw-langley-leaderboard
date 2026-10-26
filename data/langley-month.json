@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-25T22:33:53.890Z",
+ "generatedAt": "2026-10-26T01:11:04.726Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -242,13 +242,20 @@
      },
      {
       "place": 3,
+      "name": "Frostguard",
+      "side": null,
+      "raw": "Frostguard",
+      "score": 62864
+     },
+     {
+      "place": 4,
       "name": "The Empyrean",
       "side": null,
       "raw": "The Empyrean",
       "score": 49135
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Vortex Vipers",
       "side": null,
       "raw": "Vortex Vipers",
@@ -268,6 +275,14 @@
      },
      {
       "place": 2,
+      "name": "Akash",
+      "team": "Frostguard",
+      "side": null,
+      "score": 37160,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Brandon",
       "team": "Nexus Knights",
       "side": null,
@@ -275,7 +290,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Blake",
       "team": "Starlit Storm",
       "side": null,
@@ -283,7 +298,7 @@
       "sessions": 2
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Arco",
       "team": "Nexus Knights",
       "side": null,
@@ -291,7 +306,15 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
+      "name": "Jolly",
+      "team": "Frostguard",
+      "side": null,
+      "score": 25704,
+      "sessions": 1
+     },
+     {
+      "place": 7,
       "name": "Brian",
       "team": "Vortex Vipers",
       "side": null,
@@ -299,7 +322,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 8,
       "name": "Terrill",
       "team": "Starlit Storm",
       "side": null,
@@ -307,7 +330,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Soodabeh",
       "team": "Nexus Knights",
       "side": null,
@@ -315,31 +338,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "Jason",
       "team": "Starlit Storm",
       "side": null,
       "score": 20324,
       "sessions": 2
-     },
-     {
-      "place": 9,
-      "name": "Heather",
-      "team": "Vortex Vipers",
-      "side": null,
-      "score": 19003,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Shawn",
-      "team": "The Empyrean",
-      "side": null,
-      "score": 18401,
-      "sessions": 1
      }
     ],
-    "total": 21
+    "total": 23
    }
   },
   {
@@ -478,6 +485,13 @@
      },
      {
       "place": 2,
+      "name": "The Guardians",
+      "side": "blue",
+      "raw": "The Guardians B",
+      "score": 19100
+     },
+     {
+      "place": 3,
       "name": "Quantum Quest",
       "side": "blue",
       "raw": "Quantum Quest B",
@@ -489,6 +503,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Amar",
+      "team": "The Guardians",
+      "side": "blue",
+      "score": 382,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Jordan",
       "team": "Galactic Edge",
       "side": "blue",
@@ -496,7 +518,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Eddie",
       "team": "Galactic Edge",
       "side": "blue",
@@ -504,7 +526,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Gravlink",
       "team": "Galactic Edge",
       "side": "blue",
@@ -512,7 +534,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Zachary",
       "team": "Quantum Quest",
       "side": "blue",
@@ -520,7 +542,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Dylan",
       "team": "Quantum Quest",
       "side": "blue",
@@ -528,7 +550,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Skyhop",
       "team": "Galactic Edge",
       "side": "blue",
@@ -536,7 +558,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Eamon",
       "team": "Quantum Quest",
       "side": "blue",
@@ -544,7 +566,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Crystalvault",
       "team": "Galactic Edge",
       "side": "blue",
@@ -552,23 +574,15 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Fynn",
       "team": "Quantum Quest",
       "side": "blue",
       "score": 27,
       "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Gravtrail",
-      "team": "Galactic Edge",
-      "side": "blue",
-      "score": 24,
-      "sessions": 1
      }
     ],
-    "total": 13
+    "total": 14
    }
   },
   {
