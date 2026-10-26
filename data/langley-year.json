@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-26T01:11:00.211Z",
+ "generatedAt": "2026-10-26T06:14:29.017Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -212,45 +212,45 @@
      },
      {
       "place": 5,
+      "name": "Frostguard",
+      "side": "red",
+      "raw": "Frostguard R",
+      "score": 6529
+     },
+     {
+      "place": 6,
       "name": "Solar Surge",
       "side": "red",
       "raw": "Solar Surge R",
       "score": 6488
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "The Wildfire",
       "side": "red",
       "raw": "The Wildfire R",
       "score": 5945
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Shadow Squad",
       "side": "red",
       "raw": "Shadow Squad R",
       "score": 4642
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "The Luminous",
       "side": "red",
       "raw": "The Luminous R",
       "score": 4593
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "Aurora Wolves",
       "side": "red",
       "raw": "Aurora Wolves R",
       "score": 4283
-     },
-     {
-      "place": 10,
-      "name": "The Icebound",
-      "side": "red",
-      "raw": "The Icebound R",
-      "score": 4279
      }
     ]
    },
@@ -282,6 +282,14 @@
      },
      {
       "place": 4,
+      "name": "Anthony",
+      "team": "Frostguard",
+      "side": "red",
+      "score": 2845,
+      "sessions": 1
+     },
+     {
+      "place": 5,
       "name": "Aikam",
       "team": "Lunar Lancers",
       "side": "red",
@@ -289,7 +297,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Mehak",
       "team": "The Icebound",
       "side": "red",
@@ -297,7 +305,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Ashley",
       "team": "Shadow Squad",
       "side": "red",
@@ -305,7 +313,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Jude",
       "team": "Stormbringers",
       "side": "red",
@@ -313,7 +321,7 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "Jared",
       "team": "Nexus Knights",
       "side": "red",
@@ -321,23 +329,15 @@
       "sessions": 1
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "John",
       "team": "The Avalanche",
       "side": "red",
       "score": 2385,
       "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Joseff",
-      "team": "The Empyrean",
-      "side": "red",
-      "score": 2361,
-      "sessions": 1
      }
     ],
-    "total": 158
+    "total": 162
    }
   },
   {
@@ -1475,19 +1475,19 @@
      },
      {
       "place": 6,
-      "name": "Ember",
-      "team": "Solar Surge",
-      "side": null,
-      "score": 174,
-      "sessions": 1
-     },
-     {
-      "place": 6,
       "name": "Radiant Flow",
       "team": "Wild Horizons",
       "side": null,
       "score": 174,
       "sessions": 2
+     },
+     {
+      "place": 6,
+      "name": "Ember",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 174,
+      "sessions": 1
      },
      {
       "place": 7,
@@ -1777,7 +1777,7 @@
      },
      {
       "place": 2,
-      "name": "Pavneet",
+      "name": "Manjot",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1785,7 +1785,7 @@
      },
      {
       "place": 2,
-      "name": "Manjot",
+      "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1809,6 +1809,14 @@
      },
      {
       "place": 4,
+      "name": "Maybelle",
+      "team": "The Untamed",
+      "side": null,
+      "score": 59,
+      "sessions": 1
+     },
+     {
+      "place": 4,
       "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
@@ -1824,16 +1832,8 @@
       "sessions": 1
      },
      {
-      "place": 4,
-      "name": "Maybelle",
-      "team": "The Untamed",
-      "side": null,
-      "score": 59,
-      "sessions": 1
-     },
-     {
       "place": 5,
-      "name": "Charlotte",
+      "name": "Amanda",
       "team": "Solar Impact",
       "side": null,
       "score": 57,
