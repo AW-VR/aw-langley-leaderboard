@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-26T06:14:33.308Z",
+ "generatedAt": "2026-10-26T13:09:34.039Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1129,6 +1129,13 @@
     "rows": [
      {
       "place": 1,
+      "name": "Shadow Squad",
+      "side": null,
+      "raw": "Shadow Squad",
+      "score": 12
+     },
+     {
+      "place": 2,
       "name": "Stormfury",
       "side": null,
       "raw": "Stormfury",
@@ -1140,6 +1147,38 @@
     "rows": [
      {
       "place": 1,
+      "name": "Cloudwalk",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 3,
+      "sessions": 1
+     },
+     {
+      "place": 1,
+      "name": "Zenith Star",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 3,
+      "sessions": 1
+     },
+     {
+      "place": 1,
+      "name": "Sonic Burst",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 3,
+      "sessions": 1
+     },
+     {
+      "place": 1,
+      "name": "Crystaljump",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 3,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Mehramat",
       "team": "Stormfury",
       "side": null,
@@ -1147,7 +1186,7 @@
       "sessions": 1
      },
      {
-      "place": 1,
+      "place": 2,
       "name": "Jalnidh",
       "team": "Stormfury",
       "side": null,
@@ -1155,7 +1194,7 @@
       "sessions": 1
      }
     ],
-    "total": 2
+    "total": 6
    }
   },
   {
