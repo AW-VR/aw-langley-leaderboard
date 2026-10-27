@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-27T10:35:24.668Z",
+ "generatedAt": "2026-10-27T16:39:36.223Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Riftfall",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 185,
-      "sessions": 4
-     },
-     {
-      "place": 5,
       "name": "Emberstrike",
       "team": "Stormbringers",
       "side": null,
       "score": 185,
       "sessions": 3
+     },
+     {
+      "place": 5,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 185,
+      "sessions": 4
      },
      {
       "place": 6,
@@ -1761,7 +1761,7 @@
     "rows": [
      {
       "place": 1,
-      "name": "Andy",
+      "name": "Brynly",
       "team": "Shadowflare",
       "side": null,
       "score": 130,
@@ -1769,7 +1769,7 @@
      },
      {
       "place": 1,
-      "name": "Brynly",
+      "name": "Andy",
       "team": "Shadowflare",
       "side": null,
       "score": 130,
@@ -1817,7 +1817,7 @@
      },
      {
       "place": 4,
-      "name": "Lennyn",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1825,7 +1825,7 @@
      },
      {
       "place": 4,
-      "name": "Maverick",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,
