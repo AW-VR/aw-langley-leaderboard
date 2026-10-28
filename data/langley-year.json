@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-28T16:03:31.053Z",
+ "generatedAt": "2026-10-28T21:05:19.053Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Emberstrike",
-      "team": "Stormbringers",
-      "side": null,
-      "score": 185,
-      "sessions": 3
-     },
-     {
-      "place": 5,
       "name": "Riftfall",
       "team": "Shadow Squad",
       "side": null,
       "score": 185,
       "sessions": 4
+     },
+     {
+      "place": 5,
+      "name": "Emberstrike",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 185,
+      "sessions": 3
      },
      {
       "place": 6,
@@ -1817,14 +1817,6 @@
      },
      {
       "place": 4,
-      "name": "Lennyn",
-      "team": "The Untamed",
-      "side": null,
-      "score": 59,
-      "sessions": 1
-     },
-     {
-      "place": 4,
       "name": "Maybelle",
       "team": "The Untamed",
       "side": null,
@@ -1832,8 +1824,16 @@
       "sessions": 1
      },
      {
+      "place": 4,
+      "name": "Lennyn",
+      "team": "The Untamed",
+      "side": null,
+      "score": 59,
+      "sessions": 1
+     },
+     {
       "place": 5,
-      "name": "Charlotte",
+      "name": "Amanda",
       "team": "Solar Impact",
       "side": null,
       "score": 57,
