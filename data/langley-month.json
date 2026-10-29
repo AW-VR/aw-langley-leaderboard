@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-29T00:57:35.742Z",
+ "generatedAt": "2026-10-29T07:06:23.519Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1147,15 +1147,7 @@
     "rows": [
      {
       "place": 1,
-      "name": "Crystaljump",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 3,
-      "sessions": 1
-     },
-     {
-      "place": 1,
-      "name": "Zenith Star",
+      "name": "Cloudwalk",
       "team": "Shadow Squad",
       "side": null,
       "score": 3,
@@ -1171,7 +1163,15 @@
      },
      {
       "place": 1,
-      "name": "Cloudwalk",
+      "name": "Zenith Star",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 3,
+      "sessions": 1
+     },
+     {
+      "place": 1,
+      "name": "Crystaljump",
       "team": "Shadow Squad",
       "side": null,
       "score": 3,
