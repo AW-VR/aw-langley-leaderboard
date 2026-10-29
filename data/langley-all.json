@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-29T07:06:14.323Z",
+ "generatedAt": "2026-10-29T14:20:15.595Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -504,7 +504,7 @@
       "sessions": 2
      }
     ],
-    "total": 757
+    "total": 758
    }
   },
   {
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Emberstrike",
-      "team": "Stormbringers",
-      "side": null,
-      "score": 185,
-      "sessions": 3
-     },
-     {
-      "place": 5,
       "name": "Riftfall",
       "team": "Shadow Squad",
       "side": null,
       "score": 185,
       "sessions": 4
+     },
+     {
+      "place": 5,
+      "name": "Emberstrike",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 185,
+      "sessions": 3
      },
      {
       "place": 6,
@@ -1673,7 +1673,7 @@
       "sessions": 1
      }
     ],
-    "total": 232
+    "total": 234
    }
   },
   {
@@ -1736,24 +1736,24 @@
      },
      {
       "place": 8,
+      "name": "The New Dawn",
+      "side": null,
+      "raw": "The New Dawn",
+      "score": 176
+     },
+     {
+      "place": 9,
       "name": "Aurora Flare",
       "side": null,
       "raw": "Aurora Flare",
       "score": 144
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "The Luminance",
       "side": null,
       "raw": "The Luminance",
       "score": 140
-     },
-     {
-      "place": 10,
-      "name": "Solar Wraiths",
-      "side": null,
-      "raw": "Solar Wraiths",
-      "score": 126
      }
     ]
    },
@@ -1777,14 +1777,6 @@
      },
      {
       "place": 2,
-      "name": "Manjot",
-      "team": "Rogue Rangers",
-      "side": null,
-      "score": 106,
-      "sessions": 1
-     },
-     {
-      "place": 2,
       "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
@@ -1792,11 +1784,11 @@
       "sessions": 1
      },
      {
-      "place": 3,
-      "name": "Alefiyah",
-      "team": "The Ascenders",
+      "place": 2,
+      "name": "Manjot",
+      "team": "Rogue Rangers",
       "side": null,
-      "score": 90,
+      "score": 106,
       "sessions": 1
      },
      {
@@ -1808,7 +1800,31 @@
       "sessions": 1
      },
      {
+      "place": 3,
+      "name": "Alefiyah",
+      "team": "The Ascenders",
+      "side": null,
+      "score": 90,
+      "sessions": 1
+     },
+     {
       "place": 4,
+      "name": "Daelin",
+      "team": "The New Dawn",
+      "side": null,
+      "score": 88,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Patrick",
+      "team": "The New Dawn",
+      "side": null,
+      "score": 88,
+      "sessions": 1
+     },
+     {
+      "place": 5,
       "name": "Elliot",
       "team": "Solar Wraiths",
       "side": null,
@@ -1816,31 +1832,15 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Linkin",
       "team": "Solar Wraiths",
       "side": null,
       "score": 63,
       "sessions": 1
-     },
-     {
-      "place": 5,
-      "name": "Lennyn",
-      "team": "The Untamed",
-      "side": null,
-      "score": 59,
-      "sessions": 1
-     },
-     {
-      "place": 5,
-      "name": "Maybelle",
-      "team": "The Untamed",
-      "side": null,
-      "score": 59,
-      "sessions": 1
      }
     ],
-    "total": 92
+    "total": 94
    }
   },
   {

@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-29T07:06:23.519Z",
+ "generatedAt": "2026-10-29T14:20:26.288Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -267,6 +267,13 @@
       "side": null,
       "raw": "Vortex Vipers",
       "score": 43840
+     },
+     {
+      "place": 6,
+      "name": "The New Dawn",
+      "side": null,
+      "raw": "The New Dawn",
+      "score": 12468
      }
     ]
    },
@@ -353,7 +360,7 @@
       "sessions": 2
      }
     ],
-    "total": 23
+    "total": 24
    }
   },
   {
@@ -1029,6 +1036,13 @@
       "side": null,
       "raw": "Nova Blazers",
       "score": 5028
+     },
+     {
+      "place": 3,
+      "name": "The New Dawn",
+      "side": null,
+      "raw": "The New Dawn",
+      "score": 1912
      }
     ]
    },
@@ -1068,6 +1082,22 @@
      },
      {
       "place": 5,
+      "name": "Patrick",
+      "team": "The New Dawn",
+      "side": null,
+      "score": 1109,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Daelin",
+      "team": "The New Dawn",
+      "side": null,
+      "score": 803,
+      "sessions": 1
+     },
+     {
+      "place": 7,
       "name": "Sarah",
       "team": "Nova Blazers",
       "side": null,
@@ -1075,7 +1105,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 8,
       "name": "Romick",
       "team": "Nova Blazers",
       "side": null,
@@ -1083,7 +1113,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Harjot",
       "team": "Nova Blazers",
       "side": null,
@@ -1091,31 +1121,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "Paul",
       "team": "Nova Blazers",
       "side": null,
       "score": 635,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Amar",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 580,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Nara",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 463,
-      "sessions": 1
      }
     ],
-    "total": 13
+    "total": 15
    }
   },
   {
@@ -1129,13 +1143,20 @@
     "rows": [
      {
       "place": 1,
+      "name": "The New Dawn",
+      "side": null,
+      "raw": "The New Dawn",
+      "score": 176
+     },
+     {
+      "place": 2,
       "name": "Shadow Squad",
       "side": null,
       "raw": "Shadow Squad",
       "score": 12
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Stormfury",
       "side": null,
       "raw": "Stormfury",
@@ -1147,30 +1168,22 @@
     "rows": [
      {
       "place": 1,
-      "name": "Cloudwalk",
-      "team": "Shadow Squad",
+      "name": "Daelin",
+      "team": "The New Dawn",
       "side": null,
-      "score": 3,
+      "score": 88,
       "sessions": 1
      },
      {
       "place": 1,
-      "name": "Sonic Burst",
-      "team": "Shadow Squad",
+      "name": "Patrick",
+      "team": "The New Dawn",
       "side": null,
-      "score": 3,
+      "score": 88,
       "sessions": 1
      },
      {
-      "place": 1,
-      "name": "Zenith Star",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 3,
-      "sessions": 1
-     },
-     {
-      "place": 1,
+      "place": 2,
       "name": "Crystaljump",
       "team": "Shadow Squad",
       "side": null,
@@ -1179,6 +1192,30 @@
      },
      {
       "place": 2,
+      "name": "Cloudwalk",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 3,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Zenith Star",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 3,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Sonic Burst",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 3,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Mehramat",
       "team": "Stormfury",
       "side": null,
@@ -1186,7 +1223,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Jalnidh",
       "team": "Stormfury",
       "side": null,
@@ -1194,7 +1231,7 @@
       "sessions": 1
      }
     ],
-    "total": 6
+    "total": 8
    }
   },
   {
