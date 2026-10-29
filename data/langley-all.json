@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-29T14:20:15.595Z",
+ "generatedAt": "2026-10-29T20:18:18.478Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1809,7 +1809,7 @@
      },
      {
       "place": 4,
-      "name": "Daelin",
+      "name": "Patrick",
       "team": "The New Dawn",
       "side": null,
       "score": 88,
@@ -1817,7 +1817,7 @@
      },
      {
       "place": 4,
-      "name": "Patrick",
+      "name": "Daelin",
       "team": "The New Dawn",
       "side": null,
       "score": 88,
