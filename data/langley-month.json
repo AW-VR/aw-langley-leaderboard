@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-30T07:07:03.319Z",
+ "generatedAt": "2026-10-30T14:09:16.749Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -308,6 +308,13 @@
      },
      {
       "place": 6,
+      "name": "Tidal Titans",
+      "side": null,
+      "raw": "Tidal Titans",
+      "score": 30901
+     },
+     {
+      "place": 7,
       "name": "The New Dawn",
       "side": null,
       "raw": "The New Dawn",
@@ -398,7 +405,7 @@
       "sessions": 2
      }
     ],
-    "total": 24
+    "total": 26
    }
   },
   {
@@ -430,6 +437,13 @@
       "side": null,
       "raw": "Vortex Vipers",
       "score": 4733
+     },
+     {
+      "place": 4,
+      "name": "Tidal Titans",
+      "side": null,
+      "raw": "Tidal Titans",
+      "score": 1364
      }
     ]
    },
@@ -516,7 +530,7 @@
       "sessions": 1
      }
     ],
-    "total": 14
+    "total": 16
    }
   },
   {

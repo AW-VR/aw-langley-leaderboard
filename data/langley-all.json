@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-30T07:06:53.845Z",
+ "generatedAt": "2026-10-30T14:09:06.519Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -504,7 +504,7 @@
       "sessions": 2
      }
     ],
-    "total": 758
+    "total": 760
    }
   },
   {
@@ -671,7 +671,7 @@
       "sessions": 1
      }
     ],
-    "total": 369
+    "total": 371
    }
   },
   {
@@ -958,19 +958,19 @@
      },
      {
       "place": 5,
-      "name": "Ashu",
-      "team": "Brar",
-      "side": null,
-      "score": 2875,
-      "sessions": 1
-     },
-     {
-      "place": 5,
       "name": "Harman",
       "team": "Aw",
       "side": null,
       "score": 2875,
       "sessions": 2
+     },
+     {
+      "place": 5,
+      "name": "Ashu",
+      "team": "Brar",
+      "side": null,
+      "score": 2875,
+      "sessions": 1
      },
      {
       "place": 6,
@@ -1793,14 +1793,6 @@
      },
      {
       "place": 3,
-      "name": "Jumana",
-      "team": "The Ascenders",
-      "side": null,
-      "score": 90,
-      "sessions": 1
-     },
-     {
-      "place": 3,
       "name": "Alefiyah",
       "team": "The Ascenders",
       "side": null,
@@ -1808,8 +1800,16 @@
       "sessions": 1
      },
      {
+      "place": 3,
+      "name": "Jumana",
+      "team": "The Ascenders",
+      "side": null,
+      "score": 90,
+      "sessions": 1
+     },
+     {
       "place": 4,
-      "name": "Patrick",
+      "name": "Daelin",
       "team": "The New Dawn",
       "side": null,
       "score": 88,
@@ -1817,7 +1817,7 @@
      },
      {
       "place": 4,
-      "name": "Daelin",
+      "name": "Patrick",
       "team": "The New Dawn",
       "side": null,
       "score": 88,
