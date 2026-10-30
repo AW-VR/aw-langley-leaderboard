@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-10-29T20:18:27.438Z",
+ "generatedAt": "2026-10-30T01:00:17.196Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -35,6 +35,13 @@
       "side": "red",
       "raw": "Warborn R",
       "score": 269
+     },
+     {
+      "place": 4,
+      "name": "Thunderstrike",
+      "side": "red",
+      "raw": "Thunderstrike R",
+      "score": 229
      }
     ]
    },
@@ -82,14 +89,38 @@
      },
      {
       "place": 6,
+      "name": "Matt",
+      "team": "Thunderstrike",
+      "side": "red",
+      "score": 128,
+      "sessions": 1
+     },
+     {
+      "place": 7,
       "name": "Manvir",
       "team": "Warborn",
       "side": "red",
       "score": 105,
       "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Chris",
+      "team": "Thunderstrike",
+      "side": "red",
+      "score": 56,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Aashray",
+      "team": "Thunderstrike",
+      "side": "red",
+      "score": 45,
+      "sessions": 1
      }
     ],
-    "total": 6
+    "total": 9
    }
   },
   {
@@ -135,6 +166,13 @@
       "side": "red",
       "raw": "Shadow Sabers R",
       "score": 3199
+     },
+     {
+      "place": 6,
+      "name": "Thunderstrike",
+      "side": "blue",
+      "raw": "Thunderstrike B",
+      "score": 2901
      }
     ]
    },
@@ -206,22 +244,22 @@
      },
      {
       "place": 9,
-      "name": "Kultar",
-      "team": "Frostguard",
-      "side": "red",
-      "score": 1167,
+      "name": "Matt",
+      "team": "Thunderstrike",
+      "side": "blue",
+      "score": 1334,
       "sessions": 1
      },
      {
       "place": 10,
-      "name": "Justus",
-      "team": "The Empyrean",
-      "side": "red",
-      "score": 1150,
+      "name": "Chris",
+      "team": "Thunderstrike",
+      "side": "blue",
+      "score": 1226,
       "sessions": 1
      }
     ],
-    "total": 23
+    "total": 26
    }
   },
   {
@@ -1184,7 +1222,7 @@
      },
      {
       "place": 2,
-      "name": "Cloudwalk",
+      "name": "Crystaljump",
       "team": "Shadow Squad",
       "side": null,
       "score": 3,
@@ -1192,7 +1230,7 @@
      },
      {
       "place": 2,
-      "name": "Crystaljump",
+      "name": "Cloudwalk",
       "team": "Shadow Squad",
       "side": null,
       "score": 3,
