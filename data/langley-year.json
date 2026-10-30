@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-30T19:22:36.933Z",
+ "generatedAt": "2026-10-30T23:46:57.833Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1825,7 +1825,7 @@
      },
      {
       "place": 5,
-      "name": "Lennyn",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Maverick",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,

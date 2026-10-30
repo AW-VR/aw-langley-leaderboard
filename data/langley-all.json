@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "all",
  "periodLabel": "All time",
- "generatedAt": "2026-10-30T19:22:32.290Z",
+ "generatedAt": "2026-10-30T23:46:53.314Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Riftfall",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 185,
-      "sessions": 4
-     },
-     {
-      "place": 5,
       "name": "Emberstrike",
       "team": "Stormbringers",
       "side": null,
       "score": 185,
       "sessions": 3
+     },
+     {
+      "place": 5,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 185,
+      "sessions": 4
      },
      {
       "place": 6,
@@ -1793,14 +1793,6 @@
      },
      {
       "place": 3,
-      "name": "Alefiyah",
-      "team": "The Ascenders",
-      "side": null,
-      "score": 90,
-      "sessions": 1
-     },
-     {
-      "place": 3,
       "name": "Jumana",
       "team": "The Ascenders",
       "side": null,
@@ -1808,11 +1800,11 @@
       "sessions": 1
      },
      {
-      "place": 4,
-      "name": "Daelin",
-      "team": "The New Dawn",
+      "place": 3,
+      "name": "Alefiyah",
+      "team": "The Ascenders",
       "side": null,
-      "score": 88,
+      "score": 90,
       "sessions": 1
      },
      {
@@ -1824,8 +1816,16 @@
       "sessions": 1
      },
      {
+      "place": 4,
+      "name": "Daelin",
+      "team": "The New Dawn",
+      "side": null,
+      "score": 88,
+      "sessions": 1
+     },
+     {
       "place": 5,
-      "name": "Elliot",
+      "name": "Linkin",
       "team": "Solar Wraiths",
       "side": null,
       "score": 63,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Linkin",
+      "name": "Elliot",
       "team": "Solar Wraiths",
       "side": null,
       "score": 63,
