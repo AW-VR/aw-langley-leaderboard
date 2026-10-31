@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-10-30T23:46:57.833Z",
+ "generatedAt": "2026-10-31T05:41:32.096Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1475,19 +1475,19 @@
      },
      {
       "place": 6,
-      "name": "Ember",
-      "team": "Solar Surge",
-      "side": null,
-      "score": 174,
-      "sessions": 1
-     },
-     {
-      "place": 6,
       "name": "Radiant Flow",
       "team": "Wild Horizons",
       "side": null,
       "score": 174,
       "sessions": 2
+     },
+     {
+      "place": 6,
+      "name": "Ember",
+      "team": "Solar Surge",
+      "side": null,
+      "score": 174,
+      "sessions": 1
      },
      {
       "place": 7,
@@ -1809,7 +1809,7 @@
      },
      {
       "place": 4,
-      "name": "Daelin",
+      "name": "Patrick",
       "team": "The New Dawn",
       "side": null,
       "score": 88,
@@ -1817,7 +1817,7 @@
      },
      {
       "place": 4,
-      "name": "Patrick",
+      "name": "Daelin",
       "team": "The New Dawn",
       "side": null,
       "score": 88,
