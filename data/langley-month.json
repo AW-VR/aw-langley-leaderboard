@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-01T19:40:48.982Z",
+ "generatedAt": "2026-11-01T23:36:06.597Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -59,11 +59,36 @@
    "image": "../img/starbase-survival.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/f72a0ae8-83fb-11ec-b677-036020e1a2e8?modeId=SwarmIncoming&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "Wild Horizons",
+      "side": null,
+      "raw": "Wild Horizons",
+      "score": 17608
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Logan",
+      "team": "Wild Horizons",
+      "side": null,
+      "score": 9999,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Jen",
+      "team": "Wild Horizons",
+      "side": null,
+      "score": 7609,
+      "sessions": 1
+     }
+    ],
+    "total": 2
    }
   },
   {
@@ -89,11 +114,36 @@
    "image": "../img/safe-night.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/66d030c4-fc26-11eb-b33e-1b4429da219b?country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "Wild Horizons",
+      "side": null,
+      "raw": "Wild Horizons",
+      "score": 1800
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Jen",
+      "team": "Wild Horizons",
+      "side": null,
+      "score": 1025,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Logan",
+      "team": "Wild Horizons",
+      "side": null,
+      "score": 905,
+      "sessions": 1
+     }
+    ],
+    "total": 2
    }
   },
   {
