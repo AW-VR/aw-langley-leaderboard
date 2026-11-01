@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-01T01:10:41.836Z",
+ "generatedAt": "2026-11-01T07:32:33.133Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -14,113 +14,11 @@
    "image": "../img/kernel-survival-protocol.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/0dce09d6-f40b-11ed-a573-37ed5aeb30eb?modeId=SurvivalFactory&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Quantum Quest",
-      "side": "red",
-      "raw": "Quantum Quest R",
-      "score": 590
-     },
-     {
-      "place": 2,
-      "name": "Lunar Lancers",
-      "side": "red",
-      "raw": "Lunar Lancers R",
-      "score": 323
-     },
-     {
-      "place": 3,
-      "name": "Warborn",
-      "side": "red",
-      "raw": "Warborn R",
-      "score": 269
-     },
-     {
-      "place": 4,
-      "name": "Thunderstrike",
-      "side": "red",
-      "raw": "Thunderstrike R",
-      "score": 229
-     }
-    ]
+    "rows": []
    },
    "players": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Joseph",
-      "team": "Quantum Quest",
-      "side": "red",
-      "score": 342,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Annabelle",
-      "team": "Quantum Quest",
-      "side": "red",
-      "score": 248,
-      "sessions": 1
-     },
-     {
-      "place": 3,
-      "name": "Jordan",
-      "team": "Lunar Lancers",
-      "side": "red",
-      "score": 190,
-      "sessions": 1
-     },
-     {
-      "place": 4,
-      "name": "Sukhveer",
-      "team": "Warborn",
-      "side": "red",
-      "score": 164,
-      "sessions": 1
-     },
-     {
-      "place": 5,
-      "name": "Crewe",
-      "team": "Lunar Lancers",
-      "side": "red",
-      "score": 133,
-      "sessions": 1
-     },
-     {
-      "place": 6,
-      "name": "Matt",
-      "team": "Thunderstrike",
-      "side": "red",
-      "score": 128,
-      "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Manvir",
-      "team": "Warborn",
-      "side": "red",
-      "score": 105,
-      "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Chris",
-      "team": "Thunderstrike",
-      "side": "red",
-      "score": 56,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Aashray",
-      "team": "Thunderstrike",
-      "side": "red",
-      "score": 45,
-      "sessions": 1
-     }
-    ],
-    "total": 9
+    "rows": [],
+    "total": null
    }
   },
   {
@@ -131,135 +29,11 @@
    "image": "../img/kernel-safe-night-remake.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/0dce09d6-f40b-11ed-a573-37ed5aeb30eb?modeId=SurvivalSafeNight&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Nexus Knights",
-      "side": "red",
-      "raw": "Nexus Knights R",
-      "score": 7040
-     },
-     {
-      "place": 2,
-      "name": "Frostguard",
-      "side": "red",
-      "raw": "Frostguard R",
-      "score": 6529
-     },
-     {
-      "place": 3,
-      "name": "The Empyrean",
-      "side": "red",
-      "raw": "The Empyrean R",
-      "score": 6339
-     },
-     {
-      "place": 4,
-      "name": "Stormfury",
-      "side": "red",
-      "raw": "Stormfury R",
-      "score": 3743
-     },
-     {
-      "place": 5,
-      "name": "Shadow Sabers",
-      "side": "red",
-      "raw": "Shadow Sabers R",
-      "score": 3199
-     },
-     {
-      "place": 6,
-      "name": "Thunderstrike",
-      "side": "blue",
-      "raw": "Thunderstrike B",
-      "score": 2901
-     }
-    ]
+    "rows": []
    },
    "players": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Anthony",
-      "team": "Frostguard",
-      "side": "red",
-      "score": 2845,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Jared",
-      "team": "Nexus Knights",
-      "side": "red",
-      "score": 2493,
-      "sessions": 1
-     },
-     {
-      "place": 3,
-      "name": "Dusty",
-      "team": "Stormfury",
-      "side": "red",
-      "score": 1927,
-      "sessions": 1
-     },
-     {
-      "place": 4,
-      "name": "Shawn",
-      "team": "The Empyrean",
-      "side": "red",
-      "score": 1842,
-      "sessions": 1
-     },
-     {
-      "place": 5,
-      "name": "Larissa",
-      "team": "Stormfury",
-      "side": "red",
-      "score": 1816,
-      "sessions": 1
-     },
-     {
-      "place": 6,
-      "name": "Logan",
-      "team": "Shadow Sabers",
-      "side": "red",
-      "score": 1446,
-      "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Ares",
-      "team": "Frostguard",
-      "side": "red",
-      "score": 1426,
-      "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Jeremy",
-      "team": "Nexus Knights",
-      "side": "red",
-      "score": 1376,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Matt",
-      "team": "Thunderstrike",
-      "side": "blue",
-      "score": 1334,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Chris",
-      "team": "Thunderstrike",
-      "side": "blue",
-      "score": 1226,
-      "sessions": 1
-     }
-    ],
-    "total": 26
+    "rows": [],
+    "total": null
    }
   },
   {
@@ -270,142 +44,11 @@
    "image": "../img/starbase-expedition.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/f72a0ae8-83fb-11ec-b677-036020e1a2e8?modeId=Story&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Nexus Knights",
-      "side": null,
-      "raw": "Nexus Knights",
-      "score": 224674
-     },
-     {
-      "place": 2,
-      "name": "Starlit Storm",
-      "side": null,
-      "raw": "Starlit Storm",
-      "score": 102014
-     },
-     {
-      "place": 3,
-      "name": "Frostguard",
-      "side": null,
-      "raw": "Frostguard",
-      "score": 62864
-     },
-     {
-      "place": 4,
-      "name": "The Empyrean",
-      "side": null,
-      "raw": "The Empyrean",
-      "score": 49135
-     },
-     {
-      "place": 5,
-      "name": "Vortex Vipers",
-      "side": null,
-      "raw": "Vortex Vipers",
-      "score": 43840
-     },
-     {
-      "place": 6,
-      "name": "Tidal Titans",
-      "side": null,
-      "raw": "Tidal Titans",
-      "score": 30901
-     },
-     {
-      "place": 7,
-      "name": "The New Dawn",
-      "side": null,
-      "raw": "The New Dawn",
-      "score": 12468
-     }
-    ]
+    "rows": []
    },
    "players": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Tim",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 39754,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Akash",
-      "team": "Frostguard",
-      "side": null,
-      "score": 37160,
-      "sessions": 1
-     },
-     {
-      "place": 3,
-      "name": "Brandon",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 33378,
-      "sessions": 1
-     },
-     {
-      "place": 4,
-      "name": "Blake",
-      "team": "Starlit Storm",
-      "side": null,
-      "score": 27720,
-      "sessions": 2
-     },
-     {
-      "place": 5,
-      "name": "Arco",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 26022,
-      "sessions": 1
-     },
-     {
-      "place": 6,
-      "name": "Jolly",
-      "team": "Frostguard",
-      "side": null,
-      "score": 25704,
-      "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Brian",
-      "team": "Vortex Vipers",
-      "side": null,
-      "score": 24837,
-      "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Terrill",
-      "team": "Starlit Storm",
-      "side": null,
-      "score": 22223,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Soodabeh",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 20517,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Jason",
-      "team": "Starlit Storm",
-      "side": null,
-      "score": 20324,
-      "sessions": 2
-     }
-    ],
-    "total": 26
+    "rows": [],
+    "total": null
    }
   },
   {
@@ -416,121 +59,11 @@
    "image": "../img/starbase-survival.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/f72a0ae8-83fb-11ec-b677-036020e1a2e8?modeId=SwarmIncoming&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Starlit Storm",
-      "side": null,
-      "raw": "Starlit Storm",
-      "score": 115210
-     },
-     {
-      "place": 2,
-      "name": "Nexus Knights",
-      "side": null,
-      "raw": "Nexus Knights",
-      "score": 30878
-     },
-     {
-      "place": 3,
-      "name": "Vortex Vipers",
-      "side": null,
-      "raw": "Vortex Vipers",
-      "score": 4733
-     },
-     {
-      "place": 4,
-      "name": "Tidal Titans",
-      "side": null,
-      "raw": "Tidal Titans",
-      "score": 1364
-     }
-    ]
+    "rows": []
    },
    "players": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Blake",
-      "team": "Starlit Storm",
-      "side": null,
-      "score": 30082,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Justine",
-      "team": "Starlit Storm",
-      "side": null,
-      "score": 23439,
-      "sessions": 1
-     },
-     {
-      "place": 3,
-      "name": "Martin",
-      "team": "Starlit Storm",
-      "side": null,
-      "score": 21262,
-      "sessions": 1
-     },
-     {
-      "place": 4,
-      "name": "Terrill",
-      "team": "Starlit Storm",
-      "side": null,
-      "score": 20291,
-      "sessions": 1
-     },
-     {
-      "place": 5,
-      "name": "Jason",
-      "team": "Starlit Storm",
-      "side": null,
-      "score": 20136,
-      "sessions": 1
-     },
-     {
-      "place": 6,
-      "name": "Lunar Rush",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 11632,
-      "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Quantum Jump",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 6891,
-      "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Skystrike",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 6271,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Astro Dash",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 6084,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Brian",
-      "team": "Vortex Vipers",
-      "side": null,
-      "score": 3013,
-      "sessions": 1
-     }
-    ],
-    "total": 16
+    "rows": [],
+    "total": null
    }
   },
   {
@@ -541,114 +74,11 @@
    "image": "../img/shmooter-invasion.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/155018a8-0876-11eb-93d4-17c1d1ba34a3?modeId=Invasion&aggByExtraScoreId=TeamRaw&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Galactic Edge",
-      "side": "blue",
-      "raw": "Galactic Edge B",
-      "score": 28950
-     },
-     {
-      "place": 2,
-      "name": "The Guardians",
-      "side": "blue",
-      "raw": "The Guardians B",
-      "score": 19100
-     },
-     {
-      "place": 3,
-      "name": "Quantum Quest",
-      "side": "blue",
-      "raw": "Quantum Quest B",
-      "score": 9050
-     }
-    ]
+    "rows": []
    },
    "players": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Amar",
-      "team": "The Guardians",
-      "side": "blue",
-      "score": 382,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Jordan",
-      "team": "Galactic Edge",
-      "side": "blue",
-      "score": 212,
-      "sessions": 1
-     },
-     {
-      "place": 3,
-      "name": "Eddie",
-      "team": "Galactic Edge",
-      "side": "blue",
-      "score": 136,
-      "sessions": 1
-     },
-     {
-      "place": 4,
-      "name": "Gravlink",
-      "team": "Galactic Edge",
-      "side": "blue",
-      "score": 80,
-      "sessions": 1
-     },
-     {
-      "place": 5,
-      "name": "Zachary",
-      "team": "Quantum Quest",
-      "side": "blue",
-      "score": 78,
-      "sessions": 1
-     },
-     {
-      "place": 6,
-      "name": "Dylan",
-      "team": "Quantum Quest",
-      "side": "blue",
-      "score": 38,
-      "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Skyhop",
-      "team": "Galactic Edge",
-      "side": "blue",
-      "score": 36,
-      "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Eamon",
-      "team": "Quantum Quest",
-      "side": "blue",
-      "score": 36,
-      "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Crystalvault",
-      "team": "Galactic Edge",
-      "side": "blue",
-      "score": 27,
-      "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Fynn",
-      "team": "Quantum Quest",
-      "side": "blue",
-      "score": 27,
-      "sessions": 1
-     }
-    ],
-    "total": 14
+    "rows": [],
+    "total": null
    }
   },
   {
@@ -659,135 +89,11 @@
    "image": "../img/safe-night.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/66d030c4-fc26-11eb-b33e-1b4429da219b?country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Nexus Knights",
-      "side": null,
-      "raw": "Nexus Knights",
-      "score": 11595
-     },
-     {
-      "place": 2,
-      "name": "Quantum Quest",
-      "side": null,
-      "raw": "Quantum Quest",
-      "score": 7310
-     },
-     {
-      "place": 3,
-      "name": "Starlit Storm",
-      "side": null,
-      "raw": "Starlit Storm",
-      "score": 7030
-     },
-     {
-      "place": 4,
-      "name": "Nebula Nomads",
-      "side": null,
-      "raw": "Nebula Nomads",
-      "score": 4915
-     },
-     {
-      "place": 5,
-      "name": "Shadow Sabers",
-      "side": null,
-      "raw": "Shadow Sabers",
-      "score": 4125
-     },
-     {
-      "place": 6,
-      "name": "The Empyrean",
-      "side": null,
-      "raw": "The Empyrean",
-      "score": 0
-     }
-    ]
+    "rows": []
    },
    "players": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Echo Flame",
-      "team": "Starlit Storm",
-      "side": null,
-      "score": 2550,
-      "sessions": 2
-     },
-     {
-      "place": 2,
-      "name": "Echojump",
-      "team": "Starlit Storm",
-      "side": null,
-      "score": 2325,
-      "sessions": 2
-     },
-     {
-      "place": 3,
-      "name": "Emmet",
-      "team": "Quantum Quest",
-      "side": null,
-      "score": 2225,
-      "sessions": 2
-     },
-     {
-      "place": 4,
-      "name": "Wetson",
-      "team": "Quantum Quest",
-      "side": null,
-      "score": 1650,
-      "sessions": 2
-     },
-     {
-      "place": 5,
-      "name": "Gravstar",
-      "team": "Starlit Storm",
-      "side": null,
-      "score": 1485,
-      "sessions": 2
-     },
-     {
-      "place": 6,
-      "name": "Lucas",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 1475,
-      "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Angeline",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 1385,
-      "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Devlin",
-      "team": "Shadow Sabers",
-      "side": null,
-      "score": 1340,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Ed",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 1330,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Sharon",
-      "team": "Nexus Knights",
-      "side": null,
-      "score": 1285,
-      "sessions": 1
-     }
-    ],
-    "total": 38
+    "rows": [],
+    "total": null
    }
   },
   {
@@ -798,36 +104,11 @@
    "image": "../img/ghost-tower-dancing.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Dancing&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Stormfury",
-      "side": null,
-      "raw": "Stormfury",
-      "score": 21
-     }
-    ]
+    "rows": []
    },
    "players": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Mehramat",
-      "team": "Stormfury",
-      "side": null,
-      "score": 12,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Jalnidh",
-      "team": "Stormfury",
-      "side": null,
-      "score": 9,
-      "sessions": 1
-     }
-    ],
-    "total": 2
+    "rows": [],
+    "total": null
    }
   },
   {
@@ -838,114 +119,11 @@
    "image": "../img/ghost-tower-fishing.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Fishing&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Dream Chasers",
-      "side": null,
-      "raw": "Dream Chasers",
-      "score": 404
-     },
-     {
-      "place": 2,
-      "name": "Nova Blazers",
-      "side": null,
-      "raw": "Nova Blazers",
-      "score": 397
-     },
-     {
-      "place": 3,
-      "name": "Stormfury",
-      "side": null,
-      "raw": "Stormfury",
-      "score": 57
-     }
-    ]
+    "rows": []
    },
    "players": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Corey",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 138,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Amar",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 120,
-      "sessions": 1
-     },
-     {
-      "place": 3,
-      "name": "Timmy",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 109,
-      "sessions": 1
-     },
-     {
-      "place": 4,
-      "name": "Colby",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 79,
-      "sessions": 1
-     },
-     {
-      "place": 5,
-      "name": "Austin",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 78,
-      "sessions": 1
-     },
-     {
-      "place": 6,
-      "name": "Sarah",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 74,
-      "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Nara",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 55,
-      "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Harjot",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 49,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Paul",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 42,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Mehramat",
-      "team": "Stormfury",
-      "side": null,
-      "score": 38,
-      "sessions": 1
-     }
-    ],
-    "total": 15
+    "rows": [],
+    "total": null
    }
   },
   {
@@ -956,114 +134,11 @@
    "image": "../img/ghost-tower-hunting.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=GhostMansion&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Nova Blazers",
-      "side": null,
-      "raw": "Nova Blazers",
-      "score": 861
-     },
-     {
-      "place": 2,
-      "name": "Dream Chasers",
-      "side": null,
-      "raw": "Dream Chasers",
-      "score": 559
-     },
-     {
-      "place": 3,
-      "name": "Stormfury",
-      "side": null,
-      "raw": "Stormfury",
-      "score": 166
-     }
-    ]
+    "rows": []
    },
    "players": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Sarah",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 160,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Corey",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 153,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Colby",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 153,
-      "sessions": 1
-     },
-     {
-      "place": 3,
-      "name": "Austin",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 149,
-      "sessions": 1
-     },
-     {
-      "place": 4,
-      "name": "Amar",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 137,
-      "sessions": 1
-     },
-     {
-      "place": 5,
-      "name": "Romick",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 125,
-      "sessions": 1
-     },
-     {
-      "place": 6,
-      "name": "Nara",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 122,
-      "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Harjot",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 115,
-      "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Paul",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 109,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Jalnidh",
-      "team": "Stormfury",
-      "side": null,
-      "score": 106,
-      "sessions": 1
-     }
-    ],
-    "total": 15
+    "rows": [],
+    "total": null
    }
   },
   {
@@ -1074,114 +149,11 @@
    "image": "../img/ghost-tower-miners.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Miners&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Dream Chasers",
-      "side": null,
-      "raw": "Dream Chasers",
-      "score": 10263
-     },
-     {
-      "place": 2,
-      "name": "Nova Blazers",
-      "side": null,
-      "raw": "Nova Blazers",
-      "score": 5028
-     },
-     {
-      "place": 3,
-      "name": "The New Dawn",
-      "side": null,
-      "raw": "The New Dawn",
-      "score": 1912
-     }
-    ]
+    "rows": []
    },
    "players": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Corey",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 3787,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Timmy",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 2716,
-      "sessions": 1
-     },
-     {
-      "place": 3,
-      "name": "Colby",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 2475,
-      "sessions": 1
-     },
-     {
-      "place": 4,
-      "name": "Austin",
-      "team": "Dream Chasers",
-      "side": null,
-      "score": 1285,
-      "sessions": 1
-     },
-     {
-      "place": 5,
-      "name": "Patrick",
-      "team": "The New Dawn",
-      "side": null,
-      "score": 1109,
-      "sessions": 1
-     },
-     {
-      "place": 6,
-      "name": "Daelin",
-      "team": "The New Dawn",
-      "side": null,
-      "score": 803,
-      "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Sarah",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 796,
-      "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Romick",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 765,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Harjot",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 751,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Paul",
-      "team": "Nova Blazers",
-      "side": null,
-      "score": 635,
-      "sessions": 1
-     }
-    ],
-    "total": 15
+    "rows": [],
+    "total": null
    }
   },
   {
@@ -1192,98 +164,11 @@
    "image": "../img/ghost-tower-tavern.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=TavernV2&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "The New Dawn",
-      "side": null,
-      "raw": "The New Dawn",
-      "score": 176
-     },
-     {
-      "place": 2,
-      "name": "Shadow Squad",
-      "side": null,
-      "raw": "Shadow Squad",
-      "score": 12
-     },
-     {
-      "place": 3,
-      "name": "Stormfury",
-      "side": null,
-      "raw": "Stormfury",
-      "score": 0
-     }
-    ]
+    "rows": []
    },
    "players": {
-    "rows": [
-     {
-      "place": 1,
-      "name": "Daelin",
-      "team": "The New Dawn",
-      "side": null,
-      "score": 88,
-      "sessions": 1
-     },
-     {
-      "place": 1,
-      "name": "Patrick",
-      "team": "The New Dawn",
-      "side": null,
-      "score": 88,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Crystaljump",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 3,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Cloudwalk",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 3,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Zenith Star",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 3,
-      "sessions": 1
-     },
-     {
-      "place": 2,
-      "name": "Sonic Burst",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 3,
-      "sessions": 1
-     },
-     {
-      "place": 3,
-      "name": "Mehramat",
-      "team": "Stormfury",
-      "side": null,
-      "score": 0,
-      "sessions": 1
-     },
-     {
-      "place": 3,
-      "name": "Jalnidh",
-      "team": "Stormfury",
-      "side": null,
-      "score": 0,
-      "sessions": 1
-     }
-    ],
-    "total": 8
+    "rows": [],
+    "total": null
    }
   },
   {
