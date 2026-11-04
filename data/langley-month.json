@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-04T01:21:58.236Z",
+ "generatedAt": "2026-11-04T09:13:10.933Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -44,11 +44,100 @@
    "image": "../img/starbase-expedition.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/f72a0ae8-83fb-11ec-b677-036020e1a2e8?modeId=Story&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "Quantum Crew",
+      "side": null,
+      "raw": "Quantum Crew",
+      "score": 42947
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Elliot",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 7960,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Mason",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 6502,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Laurent",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 5560,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Jasper",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 4442,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Leonardo",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 3960,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Caden",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 3538,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Aaron",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 3190,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Rythm",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 2798,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Jiwan",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 2435,
+      "sessions": 1
+     },
+     {
+      "place": 10,
+      "name": "Rowan",
+      "team": "Quantum Crew",
+      "side": null,
+      "score": 1703,
+      "sessions": 1
+     }
+    ],
+    "total": 14
    }
   },
   {
@@ -117,6 +206,13 @@
     "rows": [
      {
       "place": 1,
+      "name": "The Eclipse",
+      "side": null,
+      "raw": "The Eclipse",
+      "score": 7785
+     },
+     {
+      "place": 2,
       "name": "Wild Horizons",
       "side": null,
       "raw": "Wild Horizons",
@@ -128,6 +224,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Aaron",
+      "team": "The Eclipse",
+      "side": null,
+      "score": 1180,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Jen",
       "team": "Wild Horizons",
       "side": null,
@@ -135,15 +239,71 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
+      "name": "Jiwan",
+      "team": "The Eclipse",
+      "side": null,
+      "score": 945,
+      "sessions": 1
+     },
+     {
+      "place": 4,
       "name": "Logan",
       "team": "Wild Horizons",
       "side": null,
       "score": 905,
       "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "John",
+      "team": "The Eclipse",
+      "side": null,
+      "score": 835,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Elliot",
+      "team": "The Eclipse",
+      "side": null,
+      "score": 790,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Leonardo",
+      "team": "The Eclipse",
+      "side": null,
+      "score": 745,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Mason",
+      "team": "The Eclipse",
+      "side": null,
+      "score": 740,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Holden",
+      "team": "The Eclipse",
+      "side": null,
+      "score": 620,
+      "sessions": 1
+     },
+     {
+      "place": 10,
+      "name": "Jasper",
+      "team": "The Eclipse",
+      "side": null,
+      "score": 555,
+      "sessions": 1
      }
     ],
-    "total": 2
+    "total": 16
    }
   },
   {

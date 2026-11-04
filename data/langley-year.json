@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-11-04T01:21:54.098Z",
+ "generatedAt": "2026-11-04T09:13:06.542Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -504,7 +504,7 @@
       "sessions": 2
      }
     ],
-    "total": 385
+    "total": 399
    }
   },
   {
@@ -852,45 +852,45 @@
     "rows": [
      {
       "place": 1,
+      "name": "The Eclipse",
+      "side": null,
+      "raw": "The Eclipse",
+      "score": 17635
+     },
+     {
+      "place": 2,
       "name": "Titan Elite",
       "side": null,
       "raw": "Titan Elite",
       "score": 14325
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Stormbringers",
       "side": null,
       "raw": "Stormbringers",
       "score": 13670
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Nexus Knights",
       "side": null,
       "raw": "Nexus Knights",
       "score": 11595
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Solar Surge",
       "side": null,
       "raw": "Solar Surge",
       "score": 10525
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Quantum Quest",
       "side": null,
       "raw": "Quantum Quest",
       "score": 10375
-     },
-     {
-      "place": 6,
-      "name": "The Eclipse",
-      "side": null,
-      "raw": "The Eclipse",
-      "score": 9850
      },
      {
       "place": 7,
@@ -974,6 +974,14 @@
      },
      {
       "place": 7,
+      "name": "Aaron",
+      "team": "The Eclipse",
+      "side": null,
+      "score": 2140,
+      "sessions": 2
+     },
+     {
+      "place": 8,
       "name": "Chad",
       "team": "Tidebreakers",
       "side": null,
@@ -981,7 +989,7 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "Thomas",
       "team": "Titan Elite",
       "side": null,
@@ -989,23 +997,15 @@
       "sessions": 1
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "Hudson",
       "team": "Stormbringers",
       "side": null,
       "score": 1970,
       "sessions": 2
-     },
-     {
-      "place": 10,
-      "name": "Kris",
-      "team": "Quantum Crew",
-      "side": null,
-      "score": 1940,
-      "sessions": 1
      }
     ],
-    "total": 402
+    "total": 415
    }
   },
   {
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Riftfall",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 185,
-      "sessions": 4
-     },
-     {
-      "place": 5,
       "name": "Emberstrike",
       "team": "Stormbringers",
       "side": null,
       "score": 185,
       "sessions": 3
+     },
+     {
+      "place": 5,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 185,
+      "sessions": 4
      },
      {
       "place": 6,
@@ -1777,7 +1777,7 @@
      },
      {
       "place": 2,
-      "name": "Pavneet",
+      "name": "Manjot",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1785,7 +1785,7 @@
      },
      {
       "place": 2,
-      "name": "Manjot",
+      "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1825,7 +1825,7 @@
      },
      {
       "place": 5,
-      "name": "Lennyn",
+      "name": "Maybelle",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Maybelle",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,
