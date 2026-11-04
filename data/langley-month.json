@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-04T09:13:10.933Z",
+ "generatedAt": "2026-11-04T17:16:44.748Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -50,7 +50,7 @@
       "name": "Quantum Crew",
       "side": null,
       "raw": "Quantum Crew",
-      "score": 42947
+      "score": 107231
      }
     ]
    },
@@ -61,55 +61,55 @@
       "name": "Elliot",
       "team": "Quantum Crew",
       "side": null,
-      "score": 7960,
+      "score": 13989,
       "sessions": 1
      },
      {
       "place": 2,
-      "name": "Mason",
+      "name": "Leonardo",
       "team": "Quantum Crew",
       "side": null,
-      "score": 6502,
+      "score": 12778,
       "sessions": 1
      },
      {
       "place": 3,
-      "name": "Laurent",
+      "name": "Aaron",
       "team": "Quantum Crew",
       "side": null,
-      "score": 5560,
+      "score": 12652,
       "sessions": 1
      },
      {
       "place": 4,
-      "name": "Jasper",
+      "name": "Mason",
       "team": "Quantum Crew",
       "side": null,
-      "score": 4442,
+      "score": 11817,
       "sessions": 1
      },
      {
       "place": 5,
-      "name": "Leonardo",
+      "name": "Laurent",
       "team": "Quantum Crew",
       "side": null,
-      "score": 3960,
+      "score": 10092,
       "sessions": 1
      },
      {
       "place": 6,
-      "name": "Caden",
+      "name": "Jasper",
       "team": "Quantum Crew",
       "side": null,
-      "score": 3538,
+      "score": 8715,
       "sessions": 1
      },
      {
       "place": 7,
-      "name": "Aaron",
+      "name": "Charlie",
       "team": "Quantum Crew",
       "side": null,
-      "score": 3190,
+      "score": 8679,
       "sessions": 1
      },
      {
@@ -117,15 +117,15 @@
       "name": "Rythm",
       "team": "Quantum Crew",
       "side": null,
-      "score": 2798,
+      "score": 7554,
       "sessions": 1
      },
      {
       "place": 9,
-      "name": "Jiwan",
+      "name": "Gabriel",
       "team": "Quantum Crew",
       "side": null,
-      "score": 2435,
+      "score": 5491,
       "sessions": 1
      },
      {
@@ -133,7 +133,7 @@
       "name": "Rowan",
       "team": "Quantum Crew",
       "side": null,
-      "score": 1703,
+      "score": 4901,
       "sessions": 1
      }
     ],
