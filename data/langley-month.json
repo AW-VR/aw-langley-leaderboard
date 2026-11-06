@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-06T09:25:31.781Z",
+ "generatedAt": "2026-11-06T17:30:32.853Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -329,11 +329,44 @@
    "image": "../img/ghost-tower-fishing.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Fishing&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "Tidal Tempest",
+      "side": null,
+      "raw": "Tidal Tempest",
+      "score": 37
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Kervin",
+      "team": "Tidal Tempest",
+      "side": null,
+      "score": 19,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Lily",
+      "team": "Tidal Tempest",
+      "side": null,
+      "score": 11,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Josaih",
+      "team": "Tidal Tempest",
+      "side": null,
+      "score": 7,
+      "sessions": 1
+     }
+    ],
+    "total": 3
    }
   },
   {
@@ -344,11 +377,44 @@
    "image": "../img/ghost-tower-hunting.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=GhostMansion&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "Tidal Tempest",
+      "side": null,
+      "raw": "Tidal Tempest",
+      "score": 366
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Lily",
+      "team": "Tidal Tempest",
+      "side": null,
+      "score": 134,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Kervin",
+      "team": "Tidal Tempest",
+      "side": null,
+      "score": 132,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Josaih",
+      "team": "Tidal Tempest",
+      "side": null,
+      "score": 100,
+      "sessions": 1
+     }
+    ],
+    "total": 3
    }
   },
   {
@@ -359,11 +425,44 @@
    "image": "../img/ghost-tower-miners.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Miners&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "Tidal Tempest",
+      "side": null,
+      "raw": "Tidal Tempest",
+      "score": 1622
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Kervin",
+      "team": "Tidal Tempest",
+      "side": null,
+      "score": 777,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Lily",
+      "team": "Tidal Tempest",
+      "side": null,
+      "score": 544,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Josaih",
+      "team": "Tidal Tempest",
+      "side": null,
+      "score": 301,
+      "sessions": 1
+     }
+    ],
+    "total": 3
    }
   },
   {

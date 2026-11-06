@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-11-06T09:25:27.185Z",
+ "generatedAt": "2026-11-06T17:30:28.441Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1339,7 +1339,7 @@
       "sessions": 1
      }
     ],
-    "total": 111
+    "total": 114
    }
   },
   {
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Riftfall",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 185,
-      "sessions": 4
-     },
-     {
-      "place": 5,
       "name": "Emberstrike",
       "team": "Stormbringers",
       "side": null,
       "score": 185,
       "sessions": 3
+     },
+     {
+      "place": 5,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 185,
+      "sessions": 4
      },
      {
       "place": 6,
@@ -1506,7 +1506,7 @@
       "sessions": 1
      }
     ],
-    "total": 124
+    "total": 127
    }
   },
   {
@@ -1673,7 +1673,7 @@
       "sessions": 1
      }
     ],
-    "total": 103
+    "total": 106
    }
   },
   {
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Maverick",
+      "name": "Maybelle",
       "team": "The Untamed",
       "side": null,
       "score": 59,
