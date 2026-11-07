@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-07T02:49:04.378Z",
+ "generatedAt": "2026-11-07T10:10:01.538Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -29,11 +29,44 @@
    "image": "../img/kernel-safe-night-remake.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/0dce09d6-f40b-11ed-a573-37ed5aeb30eb?modeId=SurvivalSafeNight&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "Magma Miners",
+      "side": "red",
+      "raw": "Magma Miners R",
+      "score": 3809
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Mckale",
+      "team": "Magma Miners",
+      "side": "red",
+      "score": 2176,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Armand",
+      "team": "Magma Miners",
+      "side": "red",
+      "score": 1508,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Chelsea",
+      "team": "Magma Miners",
+      "side": "red",
+      "score": 125,
+      "sessions": 1
+     }
+    ],
+    "total": 3
    }
   },
   {
