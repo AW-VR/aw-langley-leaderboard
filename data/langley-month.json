@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-07T10:10:01.538Z",
+ "generatedAt": "2026-11-07T16:26:43.881Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -36,6 +36,13 @@
       "side": "red",
       "raw": "Magma Miners R",
       "score": 3809
+     },
+     {
+      "place": 2,
+      "name": "Echo Alliance",
+      "side": "red",
+      "raw": "Echo Alliance R",
+      "score": 3104
      }
     ]
    },
@@ -59,6 +66,30 @@
      },
      {
       "place": 3,
+      "name": "Raiane",
+      "team": "Echo Alliance",
+      "side": "red",
+      "score": 1164,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Egert",
+      "team": "Echo Alliance",
+      "side": "red",
+      "score": 1151,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Leon",
+      "team": "Echo Alliance",
+      "side": "red",
+      "score": 789,
+      "sessions": 1
+     },
+     {
+      "place": 6,
       "name": "Chelsea",
       "team": "Magma Miners",
       "side": "red",
@@ -66,7 +97,7 @@
       "sessions": 1
      }
     ],
-    "total": 3
+    "total": 6
    }
   },
   {
@@ -84,6 +115,13 @@
       "side": null,
       "raw": "Quantum Crew",
       "score": 107231
+     },
+     {
+      "place": 2,
+      "name": "Magma Miners",
+      "side": null,
+      "raw": "Magma Miners",
+      "score": 7137
      }
     ]
    },
@@ -155,22 +193,22 @@
      },
      {
       "place": 9,
+      "name": "Oliver",
+      "team": "Magma Miners",
+      "side": null,
+      "score": 7137,
+      "sessions": 1
+     },
+     {
+      "place": 10,
       "name": "Gabriel",
       "team": "Quantum Crew",
       "side": null,
       "score": 5491,
       "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Rowan",
-      "team": "Quantum Crew",
-      "side": null,
-      "score": 4901,
-      "sessions": 1
      }
     ],
-    "total": 14
+    "total": 15
    }
   },
   {
