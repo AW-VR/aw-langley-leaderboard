@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-06T23:08:55.069Z",
+ "generatedAt": "2026-11-07T02:49:04.378Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -188,11 +188,52 @@
    "image": "../img/shmooter-invasion.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/155018a8-0876-11eb-93d4-17c1d1ba34a3?modeId=Invasion&aggByExtraScoreId=TeamRaw&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "Iron Legion",
+      "side": "blue",
+      "raw": "Iron Legion B",
+      "score": 18100
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Ryan",
+      "team": "Iron Legion",
+      "side": "blue",
+      "score": 140,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Ariya",
+      "team": "Iron Legion",
+      "side": "blue",
+      "score": 84,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Arian",
+      "team": "Iron Legion",
+      "side": "blue",
+      "score": 78,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Ashton",
+      "team": "Iron Legion",
+      "side": "blue",
+      "score": 60,
+      "sessions": 1
+     }
+    ],
+    "total": 4
    }
   },
   {
@@ -217,6 +258,13 @@
       "side": null,
       "raw": "Wild Horizons",
       "score": 1800
+     },
+     {
+      "place": 3,
+      "name": "Magma Miners",
+      "side": null,
+      "raw": "Magma Miners",
+      "score": 0
      }
     ]
    },
