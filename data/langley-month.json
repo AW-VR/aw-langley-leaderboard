@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-08T19:42:33.418Z",
+ "generatedAt": "2026-11-08T23:43:24.876Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -118,6 +118,13 @@
      },
      {
       "place": 2,
+      "name": "The Wildfire",
+      "side": null,
+      "raw": "The Wildfire",
+      "score": 25368
+     },
+     {
+      "place": 3,
       "name": "Magma Miners",
       "side": null,
       "raw": "Magma Miners",
@@ -137,6 +144,14 @@
      },
      {
       "place": 2,
+      "name": "Ryan",
+      "team": "The Wildfire",
+      "side": null,
+      "score": 12836,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Leonardo",
       "team": "Quantum Crew",
       "side": null,
@@ -144,7 +159,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Aaron",
       "team": "Quantum Crew",
       "side": null,
@@ -152,7 +167,15 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
+      "name": "Liam",
+      "team": "The Wildfire",
+      "side": null,
+      "score": 12532,
+      "sessions": 1
+     },
+     {
+      "place": 6,
       "name": "Mason",
       "team": "Quantum Crew",
       "side": null,
@@ -160,7 +183,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 7,
       "name": "Laurent",
       "team": "Quantum Crew",
       "side": null,
@@ -168,7 +191,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 8,
       "name": "Jasper",
       "team": "Quantum Crew",
       "side": null,
@@ -176,7 +199,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Charlie",
       "team": "Quantum Crew",
       "side": null,
@@ -184,31 +207,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "Rythm",
       "team": "Quantum Crew",
       "side": null,
       "score": 7554,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Oliver",
-      "team": "Magma Miners",
-      "side": null,
-      "score": 7137,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Gabriel",
-      "team": "Quantum Crew",
-      "side": null,
-      "score": 5491,
-      "sessions": 1
      }
     ],
-    "total": 15
+    "total": 17
    }
   },
   {
@@ -226,6 +233,13 @@
       "side": null,
       "raw": "Wild Horizons",
       "score": 17608
+     },
+     {
+      "place": 2,
+      "name": "The Wildfire",
+      "side": null,
+      "raw": "The Wildfire",
+      "score": 5538
      }
     ]
    },
@@ -246,9 +260,25 @@
       "side": null,
       "score": 7609,
       "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Ryan",
+      "team": "The Wildfire",
+      "side": null,
+      "score": 3925,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Liam",
+      "team": "The Wildfire",
+      "side": null,
+      "score": 1613,
+      "sessions": 1
      }
     ],
-    "total": 2
+    "total": 4
    }
   },
   {
