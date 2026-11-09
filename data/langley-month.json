@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-09T06:29:50.423Z",
+ "generatedAt": "2026-11-09T17:29:36.253Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -43,6 +43,13 @@
       "side": "red",
       "raw": "Echo Alliance R",
       "score": 3104
+     },
+     {
+      "place": 3,
+      "name": "Iron Resolve",
+      "side": "red",
+      "raw": "Iron Resolve R",
+      "score": 2830
      }
     ]
    },
@@ -82,6 +89,14 @@
      },
      {
       "place": 5,
+      "name": "Tate",
+      "team": "Iron Resolve",
+      "side": "red",
+      "score": 1089,
+      "sessions": 1
+     },
+     {
+      "place": 6,
       "name": "Leon",
       "team": "Echo Alliance",
       "side": "red",
@@ -89,7 +104,31 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 7,
+      "name": "Greyson",
+      "team": "Iron Resolve",
+      "side": "red",
+      "score": 709,
+      "sessions": 1
+     },
+     {
+      "place": 8,
+      "name": "Grey",
+      "team": "Iron Resolve",
+      "side": "red",
+      "score": 646,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Zion",
+      "team": "Iron Resolve",
+      "side": "red",
+      "score": 386,
+      "sessions": 1
+     },
+     {
+      "place": 10,
       "name": "Chelsea",
       "team": "Magma Miners",
       "side": "red",
@@ -97,7 +136,7 @@
       "sessions": 1
      }
     ],
-    "total": 6
+    "total": 10
    }
   },
   {
