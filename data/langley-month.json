@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-11T06:21:29.872Z",
+ "generatedAt": "2026-11-11T15:12:28.715Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -394,13 +394,20 @@
      },
      {
       "place": 2,
+      "name": "Night'S Fury",
+      "side": null,
+      "raw": "Night'S Fury",
+      "score": 1875
+     },
+     {
+      "place": 3,
       "name": "Wild Horizons",
       "side": null,
       "raw": "Wild Horizons",
       "score": 1800
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Magma Miners",
       "side": null,
       "raw": "Magma Miners",
@@ -412,6 +419,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Mangal",
+      "team": "Night'S Fury",
+      "side": null,
+      "score": 1205,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Aaron",
       "team": "The Eclipse",
       "side": null,
@@ -419,7 +434,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Jen",
       "team": "Wild Horizons",
       "side": null,
@@ -427,7 +442,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Jiwan",
       "team": "The Eclipse",
       "side": null,
@@ -435,7 +450,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Logan",
       "team": "Wild Horizons",
       "side": null,
@@ -443,7 +458,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "John",
       "team": "The Eclipse",
       "side": null,
@@ -451,7 +466,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Elliot",
       "team": "The Eclipse",
       "side": null,
@@ -459,7 +474,15 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 8,
+      "name": "Anchal",
+      "team": "Night'S Fury",
+      "side": null,
+      "score": 780,
+      "sessions": 1
+     },
+     {
+      "place": 9,
       "name": "Leonardo",
       "team": "The Eclipse",
       "side": null,
@@ -467,31 +490,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "Mason",
       "team": "The Eclipse",
       "side": null,
       "score": 740,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Holden",
-      "team": "The Eclipse",
-      "side": null,
-      "score": 620,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Jasper",
-      "team": "The Eclipse",
-      "side": null,
-      "score": 555,
-      "sessions": 1
      }
     ],
-    "total": 16
+    "total": 18
    }
   },
   {
