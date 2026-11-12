@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-11T21:58:20.385Z",
+ "generatedAt": "2026-11-12T02:59:51.664Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -164,6 +164,13 @@
      },
      {
       "place": 3,
+      "name": "Titan Elite",
+      "side": null,
+      "raw": "Titan Elite",
+      "score": 19901
+     },
+     {
+      "place": 4,
       "name": "Magma Miners",
       "side": null,
       "raw": "Magma Miners",
@@ -223,6 +230,14 @@
      },
      {
       "place": 7,
+      "name": "Jeff",
+      "team": "Titan Elite",
+      "side": null,
+      "score": 10560,
+      "sessions": 1
+     },
+     {
+      "place": 8,
       "name": "Laurent",
       "team": "Quantum Crew",
       "side": null,
@@ -230,7 +245,7 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "Jasper",
       "team": "Quantum Crew",
       "side": null,
@@ -238,23 +253,15 @@
       "sessions": 1
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "Charlie",
       "team": "Quantum Crew",
       "side": null,
       "score": 8679,
       "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Rythm",
-      "team": "Quantum Crew",
-      "side": null,
-      "score": 7554,
-      "sessions": 1
      }
     ],
-    "total": 17
+    "total": 20
    }
   },
   {
