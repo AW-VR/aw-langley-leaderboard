@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-12T02:59:51.664Z",
+ "generatedAt": "2026-11-12T11:10:45.279Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -157,17 +157,17 @@
      },
      {
       "place": 2,
+      "name": "Titan Elite",
+      "side": null,
+      "raw": "Titan Elite",
+      "score": 36776
+     },
+     {
+      "place": 3,
       "name": "The Wildfire",
       "side": null,
       "raw": "The Wildfire",
       "score": 25368
-     },
-     {
-      "place": 3,
-      "name": "Titan Elite",
-      "side": null,
-      "raw": "Titan Elite",
-      "score": 19901
      },
      {
       "place": 4,
@@ -182,6 +182,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Jeff",
+      "team": "Titan Elite",
+      "side": null,
+      "score": 21658,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Elliot",
       "team": "Quantum Crew",
       "side": null,
@@ -189,7 +197,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Ryan",
       "team": "The Wildfire",
       "side": null,
@@ -197,7 +205,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Leonardo",
       "team": "Quantum Crew",
       "side": null,
@@ -205,7 +213,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Aaron",
       "team": "Quantum Crew",
       "side": null,
@@ -213,7 +221,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Liam",
       "team": "The Wildfire",
       "side": null,
@@ -221,19 +229,11 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Mason",
       "team": "Quantum Crew",
       "side": null,
       "score": 11817,
-      "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Jeff",
-      "team": "Titan Elite",
-      "side": null,
-      "score": 10560,
       "sessions": 1
      },
      {
@@ -246,18 +246,18 @@
      },
      {
       "place": 9,
-      "name": "Jasper",
-      "team": "Quantum Crew",
+      "name": "Hunter",
+      "team": "Titan Elite",
       "side": null,
-      "score": 8715,
+      "score": 9956,
       "sessions": 1
      },
      {
       "place": 10,
-      "name": "Charlie",
+      "name": "Jasper",
       "team": "Quantum Crew",
       "side": null,
-      "score": 8679,
+      "score": 8715,
       "sessions": 1
      }
     ],
@@ -282,6 +282,13 @@
      },
      {
       "place": 2,
+      "name": "Titan Elite",
+      "side": null,
+      "raw": "Titan Elite",
+      "score": 15468
+     },
+     {
+      "place": 3,
       "name": "The Wildfire",
       "side": null,
       "raw": "The Wildfire",
@@ -293,6 +300,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Evan",
+      "team": "Titan Elite",
+      "side": null,
+      "score": 11778,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Logan",
       "team": "Wild Horizons",
       "side": null,
@@ -300,7 +315,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Jen",
       "team": "Wild Horizons",
       "side": null,
@@ -308,7 +323,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Ryan",
       "team": "The Wildfire",
       "side": null,
@@ -316,15 +331,31 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
+      "name": "Hunter",
+      "team": "Titan Elite",
+      "side": null,
+      "score": 3690,
+      "sessions": 1
+     },
+     {
+      "place": 6,
       "name": "Liam",
       "team": "The Wildfire",
       "side": null,
       "score": 1613,
       "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Jeff",
+      "team": "Titan Elite",
+      "side": null,
+      "score": 0,
+      "sessions": 1
      }
     ],
-    "total": 4
+    "total": 7
    }
   },
   {
