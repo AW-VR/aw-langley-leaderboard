@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-11-13T00:24:44.985Z",
+ "generatedAt": "2026-11-13T07:58:18.184Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1339,7 +1339,7 @@
       "sessions": 1
      }
     ],
-    "total": 114
+    "total": 117
    }
   },
   {
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Emberstrike",
-      "team": "Stormbringers",
-      "side": null,
-      "score": 185,
-      "sessions": 3
-     },
-     {
-      "place": 5,
       "name": "Riftfall",
       "team": "Shadow Squad",
       "side": null,
       "score": 185,
       "sessions": 4
+     },
+     {
+      "place": 5,
+      "name": "Emberstrike",
+      "team": "Stormbringers",
+      "side": null,
+      "score": 185,
+      "sessions": 3
      },
      {
       "place": 6,
@@ -1506,7 +1506,7 @@
       "sessions": 1
      }
     ],
-    "total": 127
+    "total": 130
    }
   },
   {
@@ -1673,7 +1673,7 @@
       "sessions": 1
      }
     ],
-    "total": 106
+    "total": 109
    }
   },
   {
@@ -1761,7 +1761,7 @@
     "rows": [
      {
       "place": 1,
-      "name": "Brynly",
+      "name": "Andy",
       "team": "Shadowflare",
       "side": null,
       "score": 130,
@@ -1769,7 +1769,7 @@
      },
      {
       "place": 1,
-      "name": "Andy",
+      "name": "Brynly",
       "team": "Shadowflare",
       "side": null,
       "score": 130,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Maybelle",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,

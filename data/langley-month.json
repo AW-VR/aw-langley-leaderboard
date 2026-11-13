@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-13T00:24:49.459Z",
+ "generatedAt": "2026-11-13T07:58:22.825Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -565,6 +565,13 @@
     "rows": [
      {
       "place": 1,
+      "name": "Tidal Titans",
+      "side": null,
+      "raw": "Tidal Titans",
+      "score": 88
+     },
+     {
+      "place": 2,
       "name": "Tidal Tempest",
       "side": null,
       "raw": "Tidal Tempest",
@@ -576,6 +583,22 @@
     "rows": [
      {
       "place": 1,
+      "name": "Manny",
+      "team": "Tidal Titans",
+      "side": null,
+      "score": 56,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Sajan",
+      "team": "Tidal Titans",
+      "side": null,
+      "score": 31,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Kervin",
       "team": "Tidal Tempest",
       "side": null,
@@ -583,7 +606,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 4,
       "name": "Lily",
       "team": "Tidal Tempest",
       "side": null,
@@ -591,15 +614,23 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 5,
       "name": "Josaih",
       "team": "Tidal Tempest",
       "side": null,
       "score": 7,
       "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Parm",
+      "team": "Tidal Titans",
+      "side": null,
+      "score": 1,
+      "sessions": 1
      }
     ],
-    "total": 3
+    "total": 6
    }
   },
   {
@@ -613,6 +644,13 @@
     "rows": [
      {
       "place": 1,
+      "name": "Tidal Titans",
+      "side": null,
+      "raw": "Tidal Titans",
+      "score": 393
+     },
+     {
+      "place": 2,
       "name": "Tidal Tempest",
       "side": null,
       "raw": "Tidal Tempest",
@@ -624,6 +662,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Parm",
+      "team": "Tidal Titans",
+      "side": null,
+      "score": 159,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Lily",
       "team": "Tidal Tempest",
       "side": null,
@@ -631,7 +677,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Kervin",
       "team": "Tidal Tempest",
       "side": null,
@@ -639,7 +685,23 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
+      "name": "Manny",
+      "team": "Tidal Titans",
+      "side": null,
+      "score": 125,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Sajan",
+      "team": "Tidal Titans",
+      "side": null,
+      "score": 109,
+      "sessions": 1
+     },
+     {
+      "place": 6,
       "name": "Josaih",
       "team": "Tidal Tempest",
       "side": null,
@@ -647,7 +709,7 @@
       "sessions": 1
      }
     ],
-    "total": 3
+    "total": 6
    }
   },
   {
@@ -661,6 +723,13 @@
     "rows": [
      {
       "place": 1,
+      "name": "Tidal Titans",
+      "side": null,
+      "raw": "Tidal Titans",
+      "score": 1737
+     },
+     {
+      "place": 2,
       "name": "Tidal Tempest",
       "side": null,
       "raw": "Tidal Tempest",
@@ -680,6 +749,14 @@
      },
      {
       "place": 2,
+      "name": "Parm",
+      "team": "Tidal Titans",
+      "side": null,
+      "score": 706,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Lily",
       "team": "Tidal Tempest",
       "side": null,
@@ -687,7 +764,23 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
+      "name": "Manny",
+      "team": "Tidal Titans",
+      "side": null,
+      "score": 527,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Sajan",
+      "team": "Tidal Titans",
+      "side": null,
+      "score": 504,
+      "sessions": 1
+     },
+     {
+      "place": 6,
       "name": "Josaih",
       "team": "Tidal Tempest",
       "side": null,
@@ -695,7 +788,7 @@
       "sessions": 1
      }
     ],
-    "total": 3
+    "total": 6
    }
   },
   {
