@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-15T01:56:18.856Z",
+ "generatedAt": "2026-11-15T09:26:34.649Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -164,13 +164,27 @@
      },
      {
       "place": 3,
+      "name": "Cosmic Valor",
+      "side": null,
+      "raw": "Cosmic Valor",
+      "score": 30139
+     },
+     {
+      "place": 4,
+      "name": "Blue Vipers",
+      "side": null,
+      "raw": "Blue Vipers",
+      "score": 28627
+     },
+     {
+      "place": 5,
       "name": "The Wildfire",
       "side": null,
       "raw": "The Wildfire",
       "score": 25368
      },
      {
-      "place": 4,
+      "place": 6,
       "name": "Magma Miners",
       "side": null,
       "raw": "Magma Miners",
@@ -190,6 +204,22 @@
      },
      {
       "place": 2,
+      "name": "Tyson",
+      "team": "Blue Vipers",
+      "side": null,
+      "score": 18284,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Stefano",
+      "team": "Cosmic Valor",
+      "side": null,
+      "score": 16410,
+      "sessions": 1
+     },
+     {
+      "place": 4,
       "name": "Elliot",
       "team": "Quantum Crew",
       "side": null,
@@ -197,7 +227,15 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 5,
+      "name": "Valerio",
+      "team": "Cosmic Valor",
+      "side": null,
+      "score": 13729,
+      "sessions": 1
+     },
+     {
+      "place": 6,
       "name": "Ryan",
       "team": "The Wildfire",
       "side": null,
@@ -205,7 +243,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 7,
       "name": "Leonardo",
       "team": "Quantum Crew",
       "side": null,
@@ -213,7 +251,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 8,
       "name": "Aaron",
       "team": "Quantum Crew",
       "side": null,
@@ -221,7 +259,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 9,
       "name": "Liam",
       "team": "The Wildfire",
       "side": null,
@@ -229,39 +267,15 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 10,
       "name": "Mason",
       "team": "Quantum Crew",
       "side": null,
       "score": 11817,
       "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Laurent",
-      "team": "Quantum Crew",
-      "side": null,
-      "score": 10092,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Hunter",
-      "team": "Titan Elite",
-      "side": null,
-      "score": 9956,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Jasper",
-      "team": "Quantum Crew",
-      "side": null,
-      "score": 8715,
-      "sessions": 1
      }
     ],
-    "total": 20
+    "total": 24
    }
   },
   {
@@ -289,6 +303,13 @@
      },
      {
       "place": 3,
+      "name": "Cosmic Valor",
+      "side": null,
+      "raw": "Cosmic Valor",
+      "score": 10691
+     },
+     {
+      "place": 4,
       "name": "The Wildfire",
       "side": null,
       "raw": "The Wildfire",
@@ -324,6 +345,22 @@
      },
      {
       "place": 4,
+      "name": "Tanvir",
+      "team": "Cosmic Valor",
+      "side": null,
+      "score": 5711,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Warris",
+      "team": "Cosmic Valor",
+      "side": null,
+      "score": 4980,
+      "sessions": 1
+     },
+     {
+      "place": 6,
       "name": "Ryan",
       "team": "The Wildfire",
       "side": null,
@@ -331,7 +368,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 7,
       "name": "Hunter",
       "team": "Titan Elite",
       "side": null,
@@ -339,7 +376,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 8,
       "name": "Liam",
       "team": "The Wildfire",
       "side": null,
@@ -347,7 +384,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Jeff",
       "team": "Titan Elite",
       "side": null,
@@ -355,7 +392,7 @@
       "sessions": 1
      }
     ],
-    "total": 7
+    "total": 9
    }
   },
   {
@@ -373,6 +410,13 @@
       "side": "blue",
       "raw": "Iron Legion B",
       "score": 18100
+     },
+     {
+      "place": 2,
+      "name": "Blue Vipers",
+      "side": "blue",
+      "raw": "Blue Vipers B",
+      "score": 3700
      }
     ]
    },
@@ -409,9 +453,33 @@
       "side": "blue",
       "score": 60,
       "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Luke",
+      "team": "Blue Vipers",
+      "side": "blue",
+      "score": 33,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Collin",
+      "team": "Blue Vipers",
+      "side": "blue",
+      "score": 24,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Maverick",
+      "team": "Blue Vipers",
+      "side": "blue",
+      "score": 17,
+      "sessions": 1
      }
     ],
-    "total": 4
+    "total": 7
    }
   },
   {
@@ -432,20 +500,27 @@
      },
      {
       "place": 2,
+      "name": "Cosmic Valor",
+      "side": null,
+      "raw": "Cosmic Valor",
+      "score": 3010
+     },
+     {
+      "place": 3,
       "name": "Night'S Fury",
       "side": null,
       "raw": "Night'S Fury",
       "score": 1875
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Wild Horizons",
       "side": null,
       "raw": "Wild Horizons",
       "score": 1800
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Magma Miners",
       "side": null,
       "raw": "Magma Miners",
@@ -457,6 +532,22 @@
     "rows": [
      {
       "place": 1,
+      "name": "Tanvir",
+      "team": "Cosmic Valor",
+      "side": null,
+      "score": 1570,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Warris",
+      "team": "Cosmic Valor",
+      "side": null,
+      "score": 1490,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Mangal",
       "team": "Night'S Fury",
       "side": null,
@@ -464,7 +555,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 4,
       "name": "Aaron",
       "team": "The Eclipse",
       "side": null,
@@ -472,7 +563,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 5,
       "name": "Jen",
       "team": "Wild Horizons",
       "side": null,
@@ -480,7 +571,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 6,
       "name": "Jiwan",
       "team": "The Eclipse",
       "side": null,
@@ -488,7 +579,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 7,
       "name": "Logan",
       "team": "Wild Horizons",
       "side": null,
@@ -496,7 +587,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 8,
       "name": "John",
       "team": "The Eclipse",
       "side": null,
@@ -504,7 +595,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Elliot",
       "team": "The Eclipse",
       "side": null,
@@ -512,31 +603,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "Anchal",
       "team": "Night'S Fury",
       "side": null,
       "score": 780,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Leonardo",
-      "team": "The Eclipse",
-      "side": null,
-      "score": 745,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Mason",
-      "team": "The Eclipse",
-      "side": null,
-      "score": 740,
-      "sessions": 1
      }
     ],
-    "total": 18
+    "total": 20
    }
   },
   {
