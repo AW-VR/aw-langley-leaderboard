@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-15T09:26:34.649Z",
+ "generatedAt": "2026-11-15T17:11:41.982Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -14,11 +14,36 @@
    "image": "../img/kernel-survival-protocol.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/0dce09d6-f40b-11ed-a573-37ed5aeb30eb?modeId=SurvivalFactory&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "Cosmic Valor",
+      "side": "red",
+      "raw": "Cosmic Valor R",
+      "score": 248
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Liam",
+      "team": "Cosmic Valor",
+      "side": "red",
+      "score": 174,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Mason",
+      "team": "Cosmic Valor",
+      "side": "red",
+      "score": 74,
+      "sessions": 1
+     }
+    ],
+    "total": 2
    }
   },
   {
