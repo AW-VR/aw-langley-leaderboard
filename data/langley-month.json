@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-17T03:54:26.698Z",
+ "generatedAt": "2026-11-17T13:27:28.000Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -203,20 +203,27 @@
      },
      {
       "place": 4,
+      "name": "The Untamed",
+      "side": null,
+      "raw": "The Untamed",
+      "score": 28921
+     },
+     {
+      "place": 5,
       "name": "Blue Vipers",
       "side": null,
       "raw": "Blue Vipers",
       "score": 28627
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "The Wildfire",
       "side": null,
       "raw": "The Wildfire",
       "score": 25368
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Magma Miners",
       "side": null,
       "raw": "Magma Miners",
@@ -252,6 +259,22 @@
      },
      {
       "place": 4,
+      "name": "Ruth",
+      "team": "The Untamed",
+      "side": null,
+      "score": 14499,
+      "sessions": 1
+     },
+     {
+      "place": 5,
+      "name": "Lexington",
+      "team": "The Untamed",
+      "side": null,
+      "score": 14422,
+      "sessions": 1
+     },
+     {
+      "place": 6,
       "name": "Elliot",
       "team": "Quantum Crew",
       "side": null,
@@ -259,7 +282,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 7,
       "name": "Valerio",
       "team": "Cosmic Valor",
       "side": null,
@@ -267,7 +290,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 8,
       "name": "Ryan",
       "team": "The Wildfire",
       "side": null,
@@ -275,7 +298,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Leonardo",
       "team": "Quantum Crew",
       "side": null,
@@ -283,31 +306,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "Aaron",
       "team": "Quantum Crew",
       "side": null,
       "score": 12652,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Liam",
-      "team": "The Wildfire",
-      "side": null,
-      "score": 12532,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Mason",
-      "team": "Quantum Crew",
-      "side": null,
-      "score": 11817,
-      "sessions": 1
      }
     ],
-    "total": 24
+    "total": 26
    }
   },
   {
