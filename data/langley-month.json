@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-17T22:25:15.681Z",
+ "generatedAt": "2026-11-18T04:21:43.244Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -353,6 +353,13 @@
       "side": null,
       "raw": "The Wildfire",
       "score": 5538
+     },
+     {
+      "place": 5,
+      "name": "The Avalanche",
+      "side": null,
+      "raw": "The Avalanche",
+      "score": 4079
      }
     ]
    },
@@ -416,22 +423,30 @@
      },
      {
       "place": 8,
+      "name": "Joshua",
+      "team": "The Avalanche",
+      "side": null,
+      "score": 2221,
+      "sessions": 1
+     },
+     {
+      "place": 9,
+      "name": "Sahaj",
+      "team": "The Avalanche",
+      "side": null,
+      "score": 1858,
+      "sessions": 1
+     },
+     {
+      "place": 10,
       "name": "Liam",
       "team": "The Wildfire",
       "side": null,
       "score": 1613,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Jeff",
-      "team": "Titan Elite",
-      "side": null,
-      "score": 0,
-      "sessions": 1
      }
     ],
-    "total": 9
+    "total": 11
    }
   },
   {
@@ -546,20 +561,27 @@
      },
      {
       "place": 3,
+      "name": "The Avalanche",
+      "side": null,
+      "raw": "The Avalanche",
+      "score": 2110
+     },
+     {
+      "place": 4,
       "name": "Night'S Fury",
       "side": null,
       "raw": "Night'S Fury",
       "score": 1875
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Wild Horizons",
       "side": null,
       "raw": "Wild Horizons",
       "score": 1800
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Magma Miners",
       "side": null,
       "raw": "Magma Miners",
@@ -603,6 +625,14 @@
      },
      {
       "place": 5,
+      "name": "Sahaj",
+      "team": "The Avalanche",
+      "side": null,
+      "score": 1110,
+      "sessions": 1
+     },
+     {
+      "place": 6,
       "name": "Jen",
       "team": "Wild Horizons",
       "side": null,
@@ -610,7 +640,15 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 7,
+      "name": "Joshua",
+      "team": "The Avalanche",
+      "side": null,
+      "score": 1020,
+      "sessions": 1
+     },
+     {
+      "place": 8,
       "name": "Jiwan",
       "team": "The Eclipse",
       "side": null,
@@ -618,7 +656,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Logan",
       "team": "Wild Horizons",
       "side": null,
@@ -626,31 +664,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "John",
       "team": "The Eclipse",
       "side": null,
       "score": 835,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Elliot",
-      "team": "The Eclipse",
-      "side": null,
-      "score": 790,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Anchal",
-      "team": "Night'S Fury",
-      "side": null,
-      "score": 780,
-      "sessions": 1
      }
     ],
-    "total": 20
+    "total": 22
    }
   },
   {
