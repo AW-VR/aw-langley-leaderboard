@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-21T02:15:30.976Z",
+ "generatedAt": "2026-11-21T09:54:47.614Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -224,6 +224,13 @@
      },
      {
       "place": 7,
+      "name": "Dark Matter",
+      "side": null,
+      "raw": "Dark Matter",
+      "score": 19608
+     },
+     {
+      "place": 8,
       "name": "Magma Miners",
       "side": null,
       "raw": "Magma Miners",
@@ -291,6 +298,14 @@
      },
      {
       "place": 8,
+      "name": "Davinder",
+      "team": "Dark Matter",
+      "side": null,
+      "score": 13497,
+      "sessions": 1
+     },
+     {
+      "place": 9,
       "name": "Ryan",
       "team": "The Wildfire",
       "side": null,
@@ -298,23 +313,15 @@
       "sessions": 1
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "Leonardo",
       "team": "Quantum Crew",
       "side": null,
       "score": 12778,
       "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Aaron",
-      "team": "Quantum Crew",
-      "side": null,
-      "score": 12652,
-      "sessions": 1
      }
     ],
-    "total": 26
+    "total": 30
    }
   },
   {
@@ -582,6 +589,13 @@
      },
      {
       "place": 6,
+      "name": "Chaos Crew",
+      "side": null,
+      "raw": "Chaos Crew",
+      "score": 1770
+     },
+     {
+      "place": 7,
       "name": "Magma Miners",
       "side": null,
       "raw": "Magma Miners",
@@ -609,6 +623,14 @@
      },
      {
       "place": 3,
+      "name": "Arshdip",
+      "team": "Chaos Crew",
+      "side": null,
+      "score": 1365,
+      "sessions": 1
+     },
+     {
+      "place": 4,
       "name": "Mangal",
       "team": "Night'S Fury",
       "side": null,
@@ -616,7 +638,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Aaron",
       "team": "The Eclipse",
       "side": null,
@@ -624,7 +646,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Sahaj",
       "team": "The Avalanche",
       "side": null,
@@ -632,7 +654,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Jen",
       "team": "Wild Horizons",
       "side": null,
@@ -640,7 +662,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Joshua",
       "team": "The Avalanche",
       "side": null,
@@ -648,7 +670,7 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "Jiwan",
       "team": "The Eclipse",
       "side": null,
@@ -656,23 +678,15 @@
       "sessions": 1
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "Logan",
       "team": "Wild Horizons",
       "side": null,
       "score": 905,
       "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "John",
-      "team": "The Eclipse",
-      "side": null,
-      "score": 835,
-      "sessions": 1
      }
     ],
-    "total": 22
+    "total": 24
    }
   },
   {
