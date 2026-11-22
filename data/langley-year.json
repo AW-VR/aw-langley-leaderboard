@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-11-21T23:16:34.464Z",
+ "generatedAt": "2026-11-22T03:15:45.637Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -504,7 +504,7 @@
       "sessions": 2
      }
     ],
-    "total": 415
+    "total": 419
    }
   },
   {
@@ -581,10 +581,10 @@
      },
      {
       "place": 10,
-      "name": "Straiton Engineering",
+      "name": "The Frostfire",
       "side": null,
-      "raw": "Straiton Engineering",
-      "score": 71528
+      "raw": "The Frostfire",
+      "score": 79977
      }
     ]
    },
@@ -664,14 +664,14 @@
      },
      {
       "place": 10,
-      "name": "Maria",
-      "team": "The Pulse",
+      "name": "Kayden",
+      "team": "The Frostfire",
       "side": null,
-      "score": 22460,
+      "score": 22919,
       "sessions": 1
      }
     ],
-    "total": 236
+    "total": 240
    }
   },
   {
@@ -1809,14 +1809,6 @@
      },
      {
       "place": 4,
-      "name": "Daelin",
-      "team": "The New Dawn",
-      "side": null,
-      "score": 88,
-      "sessions": 1
-     },
-     {
-      "place": 4,
       "name": "Patrick",
       "team": "The New Dawn",
       "side": null,
@@ -1824,8 +1816,16 @@
       "sessions": 1
      },
      {
+      "place": 4,
+      "name": "Daelin",
+      "team": "The New Dawn",
+      "side": null,
+      "score": 88,
+      "sessions": 1
+     },
+     {
       "place": 5,
-      "name": "Maverick",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Lennyn",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,

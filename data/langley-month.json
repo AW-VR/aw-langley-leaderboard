@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-21T23:16:38.683Z",
+ "generatedAt": "2026-11-22T03:15:50.051Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -189,48 +189,55 @@
      },
      {
       "place": 2,
+      "name": "The Frostfire",
+      "side": null,
+      "raw": "The Frostfire",
+      "score": 65646
+     },
+     {
+      "place": 3,
       "name": "Titan Elite",
       "side": null,
       "raw": "Titan Elite",
       "score": 36776
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Cosmic Valor",
       "side": null,
       "raw": "Cosmic Valor",
       "score": 30139
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "The Untamed",
       "side": null,
       "raw": "The Untamed",
       "score": 28921
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Blue Vipers",
       "side": null,
       "raw": "Blue Vipers",
       "score": 28627
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "The Wildfire",
       "side": null,
       "raw": "The Wildfire",
       "score": 25368
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Dark Matter",
       "side": null,
       "raw": "Dark Matter",
       "score": 19608
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "Magma Miners",
       "side": null,
       "raw": "Magma Miners",
@@ -250,6 +257,14 @@
      },
      {
       "place": 2,
+      "name": "Marshal",
+      "team": "The Frostfire",
+      "side": null,
+      "score": 18388,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Tyson",
       "team": "Blue Vipers",
       "side": null,
@@ -257,7 +272,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Stefano",
       "team": "Cosmic Valor",
       "side": null,
@@ -265,7 +280,31 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
+      "name": "Kayden",
+      "team": "The Frostfire",
+      "side": null,
+      "score": 16103,
+      "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Cyrus",
+      "team": "The Frostfire",
+      "side": null,
+      "score": 15941,
+      "sessions": 1
+     },
+     {
+      "place": 7,
+      "name": "Danielle",
+      "team": "The Frostfire",
+      "side": null,
+      "score": 15214,
+      "sessions": 1
+     },
+     {
+      "place": 8,
       "name": "Ruth",
       "team": "The Untamed",
       "side": null,
@@ -273,7 +312,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 9,
       "name": "Lexington",
       "team": "The Untamed",
       "side": null,
@@ -281,47 +320,15 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 10,
       "name": "Elliot",
       "team": "Quantum Crew",
       "side": null,
       "score": 13989,
       "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Valerio",
-      "team": "Cosmic Valor",
-      "side": null,
-      "score": 13729,
-      "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Davinder",
-      "team": "Dark Matter",
-      "side": null,
-      "score": 13497,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Ryan",
-      "team": "The Wildfire",
-      "side": null,
-      "score": 12836,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Leonardo",
-      "team": "Quantum Crew",
-      "side": null,
-      "score": 12778,
-      "sessions": 1
      }
     ],
-    "total": 30
+    "total": 34
    }
   },
   {
@@ -335,34 +342,41 @@
     "rows": [
      {
       "place": 1,
+      "name": "The Frostfire",
+      "side": null,
+      "raw": "The Frostfire",
+      "score": 79977
+     },
+     {
+      "place": 2,
       "name": "Wild Horizons",
       "side": null,
       "raw": "Wild Horizons",
       "score": 17608
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Titan Elite",
       "side": null,
       "raw": "Titan Elite",
       "score": 15468
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Cosmic Valor",
       "side": null,
       "raw": "Cosmic Valor",
       "score": 10691
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "The Wildfire",
       "side": null,
       "raw": "The Wildfire",
       "score": 5538
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "The Avalanche",
       "side": null,
       "raw": "The Avalanche",
@@ -374,6 +388,38 @@
     "rows": [
      {
       "place": 1,
+      "name": "Kayden",
+      "team": "The Frostfire",
+      "side": null,
+      "score": 22919,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Cyrus",
+      "team": "The Frostfire",
+      "side": null,
+      "score": 21013,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Marshal",
+      "team": "The Frostfire",
+      "side": null,
+      "score": 18056,
+      "sessions": 1
+     },
+     {
+      "place": 4,
+      "name": "Danielle",
+      "team": "The Frostfire",
+      "side": null,
+      "score": 17989,
+      "sessions": 1
+     },
+     {
+      "place": 5,
       "name": "Evan",
       "team": "Titan Elite",
       "side": null,
@@ -381,7 +427,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 6,
       "name": "Logan",
       "team": "Wild Horizons",
       "side": null,
@@ -389,7 +435,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 7,
       "name": "Jen",
       "team": "Wild Horizons",
       "side": null,
@@ -397,7 +443,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 8,
       "name": "Tanvir",
       "team": "Cosmic Valor",
       "side": null,
@@ -405,7 +451,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 9,
       "name": "Warris",
       "team": "Cosmic Valor",
       "side": null,
@@ -413,47 +459,15 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 10,
       "name": "Ryan",
       "team": "The Wildfire",
       "side": null,
       "score": 3925,
       "sessions": 1
-     },
-     {
-      "place": 7,
-      "name": "Hunter",
-      "team": "Titan Elite",
-      "side": null,
-      "score": 3690,
-      "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Joshua",
-      "team": "The Avalanche",
-      "side": null,
-      "score": 2221,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Sahaj",
-      "team": "The Avalanche",
-      "side": null,
-      "score": 1858,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Liam",
-      "team": "The Wildfire",
-      "side": null,
-      "score": 1613,
-      "sessions": 1
      }
     ],
-    "total": 11
+    "total": 15
    }
   },
   {
