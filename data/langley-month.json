@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-22T03:15:50.051Z",
+ "generatedAt": "2026-11-22T11:35:52.648Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -963,11 +963,36 @@
    "image": "../img/ghost-tower-tavern.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=TavernV2&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "The Forge",
+      "side": null,
+      "raw": "The Forge",
+      "score": 114
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Darla",
+      "team": "The Forge",
+      "side": null,
+      "score": 57,
+      "sessions": 1
+     },
+     {
+      "place": 1,
+      "name": "Akhtar",
+      "team": "The Forge",
+      "side": null,
+      "score": 57,
+      "sessions": 1
+     }
+    ],
+    "total": 2
    }
   },
   {
@@ -978,11 +1003,36 @@
    "image": "../img/ghost-tower-harvest.webp",
    "sourceUrl": "https://v2.another-world.com/en/leaderboard/game/84bca034-5dd3-11ee-a5c2-b372fba7cb83?modeId=Harvest&country=Canada&city=Langley&location=Langley&dateFilterType=Month",
    "teams": {
-    "rows": []
+    "rows": [
+     {
+      "place": 1,
+      "name": "The Forge",
+      "side": null,
+      "raw": "The Forge",
+      "score": 265
+     }
+    ]
    },
    "players": {
-    "rows": [],
-    "total": null
+    "rows": [
+     {
+      "place": 1,
+      "name": "Akhtar",
+      "team": "The Forge",
+      "side": null,
+      "score": 175,
+      "sessions": 1
+     },
+     {
+      "place": 2,
+      "name": "Darla",
+      "team": "The Forge",
+      "side": null,
+      "score": 90,
+      "sessions": 1
+     }
+    ],
+    "total": 2
    }
   }
  ]

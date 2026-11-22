@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-11-22T03:15:45.637Z",
+ "generatedAt": "2026-11-22T11:35:47.646Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -1459,19 +1459,19 @@
      },
      {
       "place": 5,
-      "name": "Riftfall",
-      "team": "Shadow Squad",
-      "side": null,
-      "score": 185,
-      "sessions": 4
-     },
-     {
-      "place": 5,
       "name": "Emberstrike",
       "team": "Stormbringers",
       "side": null,
       "score": 185,
       "sessions": 3
+     },
+     {
+      "place": 5,
+      "name": "Riftfall",
+      "team": "Shadow Squad",
+      "side": null,
+      "score": 185,
+      "sessions": 4
      },
      {
       "place": 6,
@@ -1750,23 +1750,15 @@
      },
      {
       "place": 10,
-      "name": "Shadow Sabers",
+      "name": "The Forge",
       "side": null,
-      "raw": "Shadow Sabers",
-      "score": 96
+      "raw": "The Forge",
+      "score": 114
      }
     ]
    },
    "players": {
     "rows": [
-     {
-      "place": 1,
-      "name": "Brynly",
-      "team": "Shadowflare",
-      "side": null,
-      "score": 130,
-      "sessions": 1
-     },
      {
       "place": 1,
       "name": "Andy",
@@ -1776,8 +1768,16 @@
       "sessions": 1
      },
      {
+      "place": 1,
+      "name": "Brynly",
+      "team": "Shadowflare",
+      "side": null,
+      "score": 130,
+      "sessions": 1
+     },
+     {
       "place": 2,
-      "name": "Pavneet",
+      "name": "Manjot",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1785,7 +1785,7 @@
      },
      {
       "place": 2,
-      "name": "Manjot",
+      "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1809,7 +1809,7 @@
      },
      {
       "place": 4,
-      "name": "Patrick",
+      "name": "Daelin",
       "team": "The New Dawn",
       "side": null,
       "score": 88,
@@ -1817,7 +1817,7 @@
      },
      {
       "place": 4,
-      "name": "Daelin",
+      "name": "Patrick",
       "team": "The New Dawn",
       "side": null,
       "score": 88,
@@ -1840,7 +1840,7 @@
       "sessions": 1
      }
     ],
-    "total": 79
+    "total": 81
    }
   },
   {
@@ -1868,34 +1868,41 @@
      },
      {
       "place": 3,
+      "name": "The Forge",
+      "side": null,
+      "raw": "The Forge",
+      "score": 265
+     },
+     {
+      "place": 4,
       "name": "Solar Surge",
       "side": null,
       "raw": "Solar Surge",
       "score": 213
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Rogue Rangers",
       "side": null,
       "raw": "Rogue Rangers",
       "score": 184
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Echo Alliance",
       "side": null,
       "raw": "Echo Alliance",
       "score": 171
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Electric Edge",
       "side": null,
       "raw": "Electric Edge",
       "score": 94
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Sky Serpents",
       "side": null,
       "raw": "Sky Serpents",
@@ -1907,6 +1914,14 @@
     "rows": [
      {
       "place": 1,
+      "name": "Akhtar",
+      "team": "The Forge",
+      "side": null,
+      "score": 175,
+      "sessions": 1
+     },
+     {
+      "place": 2,
       "name": "Skylift",
       "team": "Echo Striders",
       "side": null,
@@ -1914,7 +1929,7 @@
       "sessions": 1
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Gravity",
       "team": "Echo Striders",
       "side": null,
@@ -1922,7 +1937,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Trevor",
       "team": "Echo Alliance",
       "side": null,
@@ -1930,7 +1945,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
@@ -1938,7 +1953,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Paras",
       "team": "Electric Edge",
       "side": null,
@@ -1946,7 +1961,15 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 7,
+      "name": "Darla",
+      "team": "The Forge",
+      "side": null,
+      "score": 90,
+      "sessions": 1
+     },
+     {
+      "place": 8,
       "name": "Stardust",
       "team": "Echo Striders",
       "side": null,
@@ -1954,7 +1977,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Skylark",
       "team": "The Ramparts",
       "side": null,
@@ -1962,31 +1985,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "Ari",
       "team": "Solar Surge",
       "side": null,
       "score": 72,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Sunlight",
-      "team": "The Ramparts",
-      "side": null,
-      "score": 70,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Manjot",
-      "team": "Rogue Rangers",
-      "side": null,
-      "score": 69,
-      "sessions": 1
      }
     ],
-    "total": 26
+    "total": 28
    }
   }
  ]
