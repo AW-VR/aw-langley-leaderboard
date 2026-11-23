@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-11-23T00:53:48.227Z",
+ "generatedAt": "2026-11-23T09:06:28.066Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -191,66 +191,66 @@
      },
      {
       "place": 2,
+      "name": "The Nomads",
+      "side": "red",
+      "raw": "The Nomads R",
+      "score": 7529
+     },
+     {
+      "place": 3,
       "name": "Astral Agents",
       "side": "red",
       "raw": "Astral Agents R",
       "score": 7246
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Nexus Knights",
       "side": "red",
       "raw": "Nexus Knights R",
       "score": 7040
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Stormbringers",
       "side": "red",
       "raw": "Stormbringers R",
       "score": 6588
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Frostguard",
       "side": "red",
       "raw": "Frostguard R",
       "score": 6529
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Solar Surge",
       "side": "red",
       "raw": "Solar Surge R",
       "score": 6488
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "The Wildfire",
       "side": "red",
       "raw": "The Wildfire R",
       "score": 5945
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "Shadow Squad",
       "side": "red",
       "raw": "Shadow Squad R",
       "score": 4642
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "The Luminous",
       "side": "red",
       "raw": "The Luminous R",
       "score": 4593
-     },
-     {
-      "place": 10,
-      "name": "Aurora Wolves",
-      "side": "red",
-      "raw": "Aurora Wolves R",
-      "score": 4283
      }
     ]
    },
@@ -337,7 +337,7 @@
       "sessions": 1
      }
     ],
-    "total": 179
+    "total": 189
    }
   },
   {
@@ -1459,14 +1459,6 @@
      },
      {
       "place": 5,
-      "name": "Emberstrike",
-      "team": "Stormbringers",
-      "side": null,
-      "score": 185,
-      "sessions": 3
-     },
-     {
-      "place": 5,
       "name": "Riftfall",
       "team": "Shadow Squad",
       "side": null,
@@ -1474,12 +1466,12 @@
       "sessions": 4
      },
      {
-      "place": 6,
-      "name": "Radiant Flow",
-      "team": "Wild Horizons",
+      "place": 5,
+      "name": "Emberstrike",
+      "team": "Stormbringers",
       "side": null,
-      "score": 174,
-      "sessions": 2
+      "score": 185,
+      "sessions": 3
      },
      {
       "place": 6,
@@ -1488,6 +1480,14 @@
       "side": null,
       "score": 174,
       "sessions": 1
+     },
+     {
+      "place": 6,
+      "name": "Radiant Flow",
+      "team": "Wild Horizons",
+      "side": null,
+      "score": 174,
+      "sessions": 2
      },
      {
       "place": 7,
@@ -1761,14 +1761,6 @@
     "rows": [
      {
       "place": 1,
-      "name": "Brynly",
-      "team": "Shadowflare",
-      "side": null,
-      "score": 130,
-      "sessions": 1
-     },
-     {
-      "place": 1,
       "name": "Andy",
       "team": "Shadowflare",
       "side": null,
@@ -1776,8 +1768,16 @@
       "sessions": 1
      },
      {
+      "place": 1,
+      "name": "Brynly",
+      "team": "Shadowflare",
+      "side": null,
+      "score": 130,
+      "sessions": 1
+     },
+     {
       "place": 2,
-      "name": "Manjot",
+      "name": "Pavneet",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1785,7 +1785,7 @@
      },
      {
       "place": 2,
-      "name": "Pavneet",
+      "name": "Manjot",
       "team": "Rogue Rangers",
       "side": null,
       "score": 106,
@@ -1809,14 +1809,6 @@
      },
      {
       "place": 4,
-      "name": "Daelin",
-      "team": "The New Dawn",
-      "side": null,
-      "score": 88,
-      "sessions": 1
-     },
-     {
-      "place": 4,
       "name": "Patrick",
       "team": "The New Dawn",
       "side": null,
@@ -1824,8 +1816,16 @@
       "sessions": 1
      },
      {
+      "place": 4,
+      "name": "Daelin",
+      "team": "The New Dawn",
+      "side": null,
+      "score": 88,
+      "sessions": 1
+     },
+     {
       "place": 5,
-      "name": "Lennyn",
+      "name": "Maverick",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Maverick",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,

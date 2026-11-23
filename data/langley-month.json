@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-23T00:53:52.890Z",
+ "generatedAt": "2026-11-23T09:06:32.846Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -57,27 +57,34 @@
     "rows": [
      {
       "place": 1,
+      "name": "The Nomads",
+      "side": "red",
+      "raw": "The Nomads R",
+      "score": 7529
+     },
+     {
+      "place": 2,
       "name": "Magma Miners",
       "side": "red",
       "raw": "Magma Miners R",
       "score": 3809
      },
      {
-      "place": 2,
+      "place": 3,
       "name": "Frozen Fang",
       "side": "red",
       "raw": "Frozen Fang R",
       "score": 3181
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Echo Alliance",
       "side": "red",
       "raw": "Echo Alliance R",
       "score": 3104
      },
      {
-      "place": 4,
+      "place": 5,
       "name": "Iron Resolve",
       "side": "red",
       "raw": "Iron Resolve R",
@@ -97,6 +104,14 @@
      },
      {
       "place": 2,
+      "name": "William",
+      "team": "The Nomads",
+      "side": "red",
+      "score": 1715,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Armand",
       "team": "Magma Miners",
       "side": "red",
@@ -104,7 +119,15 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
+      "name": "Daniel",
+      "team": "The Nomads",
+      "side": "red",
+      "score": 1335,
+      "sessions": 1
+     },
+     {
+      "place": 5,
       "name": "Raiane",
       "team": "Echo Alliance",
       "side": "red",
@@ -112,7 +135,7 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 6,
       "name": "Egert",
       "team": "Echo Alliance",
       "side": "red",
@@ -120,7 +143,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 7,
       "name": "Tate",
       "team": "Iron Resolve",
       "side": "red",
@@ -128,7 +151,15 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 8,
+      "name": "Elliot",
+      "team": "The Nomads",
+      "side": "red",
+      "score": 1057,
+      "sessions": 1
+     },
+     {
+      "place": 9,
       "name": "Kristina",
       "team": "Frozen Fang",
       "side": "red",
@@ -136,39 +167,15 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 10,
       "name": "Puja",
       "team": "Frozen Fang",
       "side": "red",
       "score": 850,
       "sessions": 1
-     },
-     {
-      "place": 8,
-      "name": "Slesha",
-      "team": "Frozen Fang",
-      "side": "red",
-      "score": 844,
-      "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Leon",
-      "team": "Echo Alliance",
-      "side": "red",
-      "score": 789,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Greyson",
-      "team": "Iron Resolve",
-      "side": "red",
-      "score": 709,
-      "sessions": 1
      }
     ],
-    "total": 14
+    "total": 24
    }
   },
   {
