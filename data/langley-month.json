@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-24T17:45:18.803Z",
+ "generatedAt": "2026-11-25T02:29:23.052Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -617,6 +617,13 @@
      },
      {
       "place": 7,
+      "name": "Solar Wraiths",
+      "side": null,
+      "raw": "Solar Wraiths",
+      "score": 1685
+     },
+     {
+      "place": 8,
       "name": "Magma Miners",
       "side": null,
       "raw": "Magma Miners",
@@ -707,7 +714,7 @@
       "sessions": 1
      }
     ],
-    "total": 24
+    "total": 31
    }
   },
   {
