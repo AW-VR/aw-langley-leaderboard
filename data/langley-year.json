@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "year",
  "periodLabel": "This year",
- "generatedAt": "2026-11-25T02:29:18.421Z",
+ "generatedAt": "2026-11-25T12:55:49.193Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -504,7 +504,7 @@
       "sessions": 2
      }
     ],
-    "total": 419
+    "total": 431
    }
   },
   {
@@ -1005,7 +1005,7 @@
       "sessions": 2
      }
     ],
-    "total": 430
+    "total": 442
    }
   },
   {
@@ -1809,14 +1809,6 @@
      },
      {
       "place": 4,
-      "name": "Daelin",
-      "team": "The New Dawn",
-      "side": null,
-      "score": 88,
-      "sessions": 1
-     },
-     {
-      "place": 4,
       "name": "Patrick",
       "team": "The New Dawn",
       "side": null,
@@ -1824,8 +1816,16 @@
       "sessions": 1
      },
      {
+      "place": 4,
+      "name": "Daelin",
+      "team": "The New Dawn",
+      "side": null,
+      "score": 88,
+      "sessions": 1
+     },
+     {
       "place": 5,
-      "name": "Lennyn",
+      "name": "Maybelle",
       "team": "The Untamed",
       "side": null,
       "score": 59,
@@ -1833,7 +1833,7 @@
      },
      {
       "place": 5,
-      "name": "Maverick",
+      "name": "Lennyn",
       "team": "The Untamed",
       "side": null,
       "score": 59,

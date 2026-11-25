@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-25T02:29:23.052Z",
+ "generatedAt": "2026-11-25T12:55:53.276Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -210,45 +210,52 @@
      },
      {
       "place": 4,
+      "name": "Solar Wraiths",
+      "side": null,
+      "raw": "Solar Wraiths",
+      "score": 31854
+     },
+     {
+      "place": 5,
       "name": "Cosmic Valor",
       "side": null,
       "raw": "Cosmic Valor",
       "score": 30139
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "The Untamed",
       "side": null,
       "raw": "The Untamed",
       "score": 28921
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "Blue Vipers",
       "side": null,
       "raw": "Blue Vipers",
       "score": 28627
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "The Wildfire",
       "side": null,
       "raw": "The Wildfire",
       "score": 25368
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "Dark Matter",
       "side": null,
       "raw": "Dark Matter",
       "score": 19608
      },
      {
-      "place": 9,
-      "name": "Magma Miners",
+      "place": 10,
+      "name": "Shadowflare",
       "side": null,
-      "raw": "Magma Miners",
-      "score": 7137
+      "raw": "Shadowflare",
+      "score": 13119
      }
     ]
    },
@@ -335,7 +342,7 @@
       "sessions": 1
      }
     ],
-    "total": 34
+    "total": 46
    }
   },
   {
@@ -582,48 +589,62 @@
      },
      {
       "place": 2,
+      "name": "Solar Wraiths",
+      "side": null,
+      "raw": "Solar Wraiths",
+      "score": 5345
+     },
+     {
+      "place": 3,
+      "name": "Phoenix Fire",
+      "side": null,
+      "raw": "Phoenix Fire",
+      "score": 3110
+     },
+     {
+      "place": 4,
       "name": "Cosmic Valor",
       "side": null,
       "raw": "Cosmic Valor",
       "score": 3010
      },
      {
-      "place": 3,
+      "place": 5,
       "name": "The Avalanche",
       "side": null,
       "raw": "The Avalanche",
       "score": 2110
      },
      {
-      "place": 4,
+      "place": 6,
       "name": "Night'S Fury",
       "side": null,
       "raw": "Night'S Fury",
       "score": 1875
      },
      {
-      "place": 5,
+      "place": 7,
       "name": "Wild Horizons",
       "side": null,
       "raw": "Wild Horizons",
       "score": 1800
      },
      {
-      "place": 6,
+      "place": 8,
       "name": "Chaos Crew",
       "side": null,
       "raw": "Chaos Crew",
       "score": 1770
      },
      {
-      "place": 7,
-      "name": "Solar Wraiths",
+      "place": 9,
+      "name": "Sonic Strike",
       "side": null,
-      "raw": "Solar Wraiths",
-      "score": 1685
+      "raw": "Sonic Strike",
+      "score": 1745
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "Magma Miners",
       "side": null,
       "raw": "Magma Miners",
@@ -683,6 +704,22 @@
      },
      {
       "place": 7,
+      "name": "Riftbolt",
+      "team": "Solar Wraiths",
+      "side": null,
+      "score": 1070,
+      "sessions": 2
+     },
+     {
+      "place": 8,
+      "name": "Skylight",
+      "team": "Solar Wraiths",
+      "side": null,
+      "score": 1045,
+      "sessions": 2
+     },
+     {
+      "place": 9,
       "name": "Jen",
       "team": "Wild Horizons",
       "side": null,
@@ -690,31 +727,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "Joshua",
       "team": "The Avalanche",
       "side": null,
       "score": 1020,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Jiwan",
-      "team": "The Eclipse",
-      "side": null,
-      "score": 945,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Logan",
-      "team": "Wild Horizons",
-      "side": null,
-      "score": 905,
-      "sessions": 1
      }
     ],
-    "total": 31
+    "total": 43
    }
   },
   {
