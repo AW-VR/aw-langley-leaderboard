@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-25T22:32:52.649Z",
+ "generatedAt": "2026-11-26T05:05:06.948Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -21,6 +21,13 @@
       "side": "red",
       "raw": "Cosmic Valor R",
       "score": 248
+     },
+     {
+      "place": 2,
+      "name": "Iron Shadows",
+      "side": "red",
+      "raw": "Iron Shadows R",
+      "score": 232
      }
     ]
    },
@@ -36,6 +43,22 @@
      },
      {
       "place": 2,
+      "name": "Po",
+      "team": "Iron Shadows",
+      "side": "red",
+      "score": 122,
+      "sessions": 1
+     },
+     {
+      "place": 3,
+      "name": "Karen",
+      "team": "Iron Shadows",
+      "side": "red",
+      "score": 110,
+      "sessions": 1
+     },
+     {
+      "place": 4,
       "name": "Mason",
       "team": "Cosmic Valor",
       "side": "red",
@@ -43,7 +66,7 @@
       "sessions": 1
      }
     ],
-    "total": 2
+    "total": 4
    }
   },
   {
