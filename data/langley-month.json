@@ -2,7 +2,7 @@
  "venue": "Another World VR Langley (3078 275 St, Aldergrove, BC)",
  "period": "month",
  "periodLabel": "This month",
- "generatedAt": "2026-11-27T00:35:09.703Z",
+ "generatedAt": "2026-11-27T09:41:04.762Z",
  "source": "https://v2.another-world.com/en/leaderboard",
  "errors": [],
  "boards": [
@@ -233,52 +233,52 @@
      },
      {
       "place": 4,
+      "name": "Burning Aces",
+      "side": null,
+      "raw": "Burning Aces",
+      "score": 35025
+     },
+     {
+      "place": 5,
       "name": "Solar Wraiths",
       "side": null,
       "raw": "Solar Wraiths",
       "score": 31854
      },
      {
-      "place": 5,
+      "place": 6,
       "name": "Cosmic Valor",
       "side": null,
       "raw": "Cosmic Valor",
       "score": 30139
      },
      {
-      "place": 6,
+      "place": 7,
       "name": "The Untamed",
       "side": null,
       "raw": "The Untamed",
       "score": 28921
      },
      {
-      "place": 7,
+      "place": 8,
       "name": "Blue Vipers",
       "side": null,
       "raw": "Blue Vipers",
       "score": 28627
      },
      {
-      "place": 8,
+      "place": 9,
       "name": "The Wildfire",
       "side": null,
       "raw": "The Wildfire",
       "score": 25368
      },
      {
-      "place": 9,
+      "place": 10,
       "name": "Dark Matter",
       "side": null,
       "raw": "Dark Matter",
       "score": 19608
-     },
-     {
-      "place": 10,
-      "name": "Shadowflare",
-      "side": null,
-      "raw": "Shadowflare",
-      "score": 13119
      }
     ]
    },
@@ -294,6 +294,14 @@
      },
      {
       "place": 2,
+      "name": "Prabjot",
+      "team": "Burning Aces",
+      "side": null,
+      "score": 18460,
+      "sessions": 1
+     },
+     {
+      "place": 3,
       "name": "Marshal",
       "team": "The Frostfire",
       "side": null,
@@ -301,7 +309,7 @@
       "sessions": 1
      },
      {
-      "place": 3,
+      "place": 4,
       "name": "Tyson",
       "team": "Blue Vipers",
       "side": null,
@@ -309,7 +317,15 @@
       "sessions": 1
      },
      {
-      "place": 4,
+      "place": 5,
+      "name": "Manjinder",
+      "team": "Burning Aces",
+      "side": null,
+      "score": 16565,
+      "sessions": 1
+     },
+     {
+      "place": 6,
       "name": "Stefano",
       "team": "Cosmic Valor",
       "side": null,
@@ -317,7 +333,7 @@
       "sessions": 1
      },
      {
-      "place": 5,
+      "place": 7,
       "name": "Kayden",
       "team": "The Frostfire",
       "side": null,
@@ -325,7 +341,7 @@
       "sessions": 1
      },
      {
-      "place": 6,
+      "place": 8,
       "name": "Cyrus",
       "team": "The Frostfire",
       "side": null,
@@ -333,7 +349,7 @@
       "sessions": 1
      },
      {
-      "place": 7,
+      "place": 9,
       "name": "Danielle",
       "team": "The Frostfire",
       "side": null,
@@ -341,31 +357,15 @@
       "sessions": 1
      },
      {
-      "place": 8,
+      "place": 10,
       "name": "Ruth",
       "team": "The Untamed",
       "side": null,
       "score": 14499,
       "sessions": 1
-     },
-     {
-      "place": 9,
-      "name": "Lexington",
-      "team": "The Untamed",
-      "side": null,
-      "score": 14422,
-      "sessions": 1
-     },
-     {
-      "place": 10,
-      "name": "Elliot",
-      "team": "Quantum Crew",
-      "side": null,
-      "score": 13989,
-      "sessions": 1
      }
     ],
-    "total": 46
+    "total": 48
    }
   },
   {
